@@ -8,15 +8,35 @@ const Contact = () => (
     <Helmet title={`Contact | ${config.siteTitle}`} />
     <Header>Contact</Header>
     <Container type="text">
-      <h1>Contact me!</h1>
+      <h1>Contact us!</h1>
+      <br/>
+
+      <h1>
+      MIAMI OFFICE
+      </h1>
       <p>
-        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind
-        texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A
-        small river named Duden flows by their place and supplies it with the necessary regelialia. It is a
-        paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing
-        has no control about the blind texts it is an almost unorthographic life One day however a small line of blind
-        text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to
-        do so, because there were thousands.
+      3000 Biscayne Blvd., Suite 210<br/>
+      Miami, FL 33137<br/>
+      <br/>
+      Fax: 305.576.1718<br/>
+      Email: info@catalystmiami.org<br/>
+      <br/>
+      Hours: 9:00 am – 5:00 pm<br/>
+      </p>
+      <br/>
+
+      <h1>
+      HOMESTEAD OFFICES
+      </h1>
+      <p>
+      Tower Professional building<br/>
+      <br/>
+      151 NW 11 St., Suite 400<br/>
+      Homestead, FL, 33030<br/>
+      786.414.1309<br/>
+      <br/>
+      Hours: 9:00 am – 5:00 pm<br/>
+      <br/>
       </p>
     </Container>
   </Layout>
