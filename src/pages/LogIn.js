@@ -30,15 +30,14 @@ class LogIn extends Component {
         var gotin = 0;
         itemsRef.on('value', (snapshot) => {
                     let items = snapshot.val();
-                    let newState = [];
                     for (let item in items) {
-                        if (items[item].email == this.state.email && items[item].password == this.state.password) {
+                        if (items[item].email === this.state.email && items[item].password === this.state.password) {
                                 window.location.href = '/dash';
                                 gotin = 1;
                         }
                     }
                     });
-        if (gotin == 0)
+        if (gotin === 0)
             alert("Incorrect");
     }
     render() {
