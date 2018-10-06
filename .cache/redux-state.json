@@ -2162,12 +2162,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T09:44:35.336Z",
+      "buildTime": "2018-10-06T10:21:24.086Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "306c6b489520b7b0a1eaaa0e0d0b5996",
+        "contentDigest": "3662c5c2b01a66c298d72d33d8832b7d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2177,7 +2177,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "26f2db374b95574df0581ee61e07c7c6",
+        "contentDigest": "3c9bcfbd475c6fe53572c5f4f0e292b7",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2189,7 +2189,7 @@
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T09:44:56.000Z",
+      "accessTime": "2018-10-06T10:21:46.000Z",
       "changeTime": "2018-10-06T08:29:39.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2207,11 +2207,11 @@
       "blksize": 4096,
       "ino": 22405727,
       "blocks": 0,
-      "atimeMs": 1538819096000,
+      "atimeMs": 1538821306000,
       "mtimeMs": 1538814579000,
       "ctimeMs": 1538814579000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:44:56.000Z",
+      "atime": "2018-10-06T10:21:46.000Z",
       "mtime": "2018-10-06T08:29:39.000Z",
       "ctime": "2018-10-06T08:29:39.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2221,7 +2221,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4419891f506554f5194564a27298db58",
+        "contentDigest": "8aefcb9a2c80362cb3de687a3dc0ed89",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2233,7 +2233,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T09:44:56.000Z",
+      "accessTime": "2018-10-06T10:21:46.000Z",
       "changeTime": "2018-10-06T08:29:39.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2251,11 +2251,11 @@
       "blksize": 4096,
       "ino": 22405728,
       "blocks": 0,
-      "atimeMs": 1538819096000,
+      "atimeMs": 1538821306000,
       "mtimeMs": 1538814579000,
       "ctimeMs": 1538814579000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:44:56.000Z",
+      "atime": "2018-10-06T10:21:46.000Z",
       "mtime": "2018-10-06T08:29:39.000Z",
       "ctime": "2018-10-06T08:29:39.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2265,7 +2265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0a7c64c089ce2e027c6d39330d7bef92",
+        "contentDigest": "a80b3c489ea8639ebfaec4564beb99d5",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2276,9 +2276,9 @@
       "extension": "",
       "size": 136,
       "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T09:44:56.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
+      "modifiedTime": "2018-10-06T10:12:51.000Z",
+      "accessTime": "2018-10-06T10:21:46.000Z",
+      "changeTime": "2018-10-06T10:12:51.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
@@ -2295,13 +2295,13 @@
       "blksize": 4096,
       "ino": 22405731,
       "blocks": 0,
-      "atimeMs": 1538819096000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
+      "atimeMs": 1538821306000,
+      "mtimeMs": 1538820771000,
+      "ctimeMs": 1538820771000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:44:56.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
+      "atime": "2018-10-06T10:21:46.000Z",
+      "mtime": "2018-10-06T10:12:51.000Z",
+      "ctime": "2018-10-06T10:12:51.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "d736f55e-001d-5fe7-b6dd-40f3b1939aa7": {
@@ -2309,7 +2309,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cb4f66264973bf45c5ff56e78d975477",
+        "contentDigest": "7f1cbc754f971bbcab08e7bbac29cb11",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
@@ -2320,9 +2320,9 @@
       "extension": "",
       "size": 136,
       "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T09:44:56.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
+      "modifiedTime": "2018-10-06T10:20:33.000Z",
+      "accessTime": "2018-10-06T10:21:46.000Z",
+      "changeTime": "2018-10-06T10:20:33.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
@@ -2339,13 +2339,13 @@
       "blksize": 4096,
       "ino": 22405734,
       "blocks": 0,
-      "atimeMs": 1538819096000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
+      "atimeMs": 1538821306000,
+      "mtimeMs": 1538821233000,
+      "ctimeMs": 1538821233000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:44:56.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
+      "atime": "2018-10-06T10:21:46.000Z",
+      "mtime": "2018-10-06T10:20:33.000Z",
+      "ctime": "2018-10-06T10:20:33.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "7a848a6b-e7f5-52a1-931f-db16f46053bf": {
@@ -2353,7 +2353,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bce0584c6a40404a519f634e272694ee",
+        "contentDigest": "2f9108b8513625e94ef7d9a19bbb72a6",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2365,7 +2365,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T09:44:56.000Z",
+      "accessTime": "2018-10-06T10:21:46.000Z",
       "changeTime": "2018-10-06T08:29:39.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2383,11 +2383,11 @@
       "blksize": 4096,
       "ino": 22405737,
       "blocks": 0,
-      "atimeMs": 1538819096000,
+      "atimeMs": 1538821306000,
       "mtimeMs": 1538814579000,
       "ctimeMs": 1538814579000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:44:56.000Z",
+      "atime": "2018-10-06T10:21:46.000Z",
       "mtime": "2018-10-06T08:29:39.000Z",
       "ctime": "2018-10-06T08:29:39.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2399,7 +2399,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "feb193ae444e04f06df0de9151ad9acf",
+        "contentDigest": "908fbc2f29632ab2f616c0d67a40b790",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-26/index.md\"",
@@ -2411,9 +2411,9 @@
       "extension": "md",
       "size": 211,
       "prettySize": "211 B",
-      "modifiedTime": "2018-10-06T09:50:23.000Z",
-      "accessTime": "2018-10-06T09:50:24.000Z",
-      "changeTime": "2018-10-06T09:50:23.000Z",
+      "modifiedTime": "2018-10-06T10:12:55.000Z",
+      "accessTime": "2018-10-06T10:13:41.000Z",
+      "changeTime": "2018-10-06T10:12:55.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
@@ -2430,13 +2430,13 @@
       "blksize": 4096,
       "ino": 22405733,
       "blocks": 8,
-      "atimeMs": 1538819424000,
-      "mtimeMs": 1538819423000,
-      "ctimeMs": 1538819423000,
+      "atimeMs": 1538820821000,
+      "mtimeMs": 1538820775000,
+      "ctimeMs": 1538820775000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:50:24.000Z",
-      "mtime": "2018-10-06T09:50:23.000Z",
-      "ctime": "2018-10-06T09:50:23.000Z",
+      "atime": "2018-10-06T10:13:41.000Z",
+      "mtime": "2018-10-06T10:12:55.000Z",
+      "ctime": "2018-10-06T10:12:55.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d": {
@@ -2446,7 +2446,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4f0b30b8c60773efaaa4784871f81e7a",
+        "contentDigest": "ff88f700882e38ecf9fa6fab594248b0",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-25/index.md\"",
@@ -2456,11 +2456,11 @@
       "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
       "relativePath": "2017-10-25/index.md",
       "extension": "md",
-      "size": 837,
-      "prettySize": "837 B",
-      "modifiedTime": "2018-10-06T09:13:46.000Z",
-      "accessTime": "2018-10-06T09:13:46.000Z",
-      "changeTime": "2018-10-06T09:13:46.000Z",
+      "size": 221,
+      "prettySize": "221 B",
+      "modifiedTime": "2018-10-06T09:54:44.000Z",
+      "accessTime": "2018-10-06T09:54:44.000Z",
+      "changeTime": "2018-10-06T09:54:44.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
@@ -2477,13 +2477,13 @@
       "blksize": 4096,
       "ino": 22405730,
       "blocks": 8,
-      "atimeMs": 1538817226000,
-      "mtimeMs": 1538817226000,
-      "ctimeMs": 1538817226000,
+      "atimeMs": 1538819684000,
+      "mtimeMs": 1538819684000,
+      "ctimeMs": 1538819684000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:13:46.000Z",
-      "mtime": "2018-10-06T09:13:46.000Z",
-      "ctime": "2018-10-06T09:13:46.000Z",
+      "atime": "2018-10-06T09:54:44.000Z",
+      "mtime": "2018-10-06T09:54:44.000Z",
+      "ctime": "2018-10-06T09:54:44.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "5147df29-a832-59db-92fb-8d5ecd8a4157": {
@@ -2493,7 +2493,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4c15c6c56b8defea988e0a47fb51b5e1",
+        "contentDigest": "6588b0f71d774f42eb8fffa2f974a779",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-27/index.md\"",
@@ -2505,9 +2505,9 @@
       "extension": "md",
       "size": 217,
       "prettySize": "217 B",
-      "modifiedTime": "2018-10-06T09:50:25.000Z",
-      "accessTime": "2018-10-06T09:50:25.000Z",
-      "changeTime": "2018-10-06T09:50:25.000Z",
+      "modifiedTime": "2018-10-06T10:00:05.000Z",
+      "accessTime": "2018-10-06T10:02:29.000Z",
+      "changeTime": "2018-10-06T10:00:05.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
@@ -2524,13 +2524,13 @@
       "blksize": 4096,
       "ino": 22405735,
       "blocks": 8,
-      "atimeMs": 1538819425000,
-      "mtimeMs": 1538819425000,
-      "ctimeMs": 1538819425000,
+      "atimeMs": 1538820149000,
+      "mtimeMs": 1538820005000,
+      "ctimeMs": 1538820005000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:50:25.000Z",
-      "mtime": "2018-10-06T09:50:25.000Z",
-      "ctime": "2018-10-06T09:50:25.000Z",
+      "atime": "2018-10-06T10:02:29.000Z",
+      "mtime": "2018-10-06T10:00:05.000Z",
+      "ctime": "2018-10-06T10:00:05.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "f37dea84-717f-54ca-a4e7-54b32e686c01": {
@@ -2637,120 +2637,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "e2acb20f-bf01-5ad0-9140-9d03b5e5ca79": {
-      "id": "e2acb20f-bf01-5ad0-9140-9d03b5e5ca79",
-      "children": [
-        "42d7ab20-e8c4-5ddc-ad82-e5a6b2348003"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "224143b7440585785b0d46827cc65219",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-26/cubeRound.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/cubeRound.jpg",
-      "relativePath": "2017-10-26/cubeRound.jpg",
-      "extension": "jpg",
-      "size": 292267,
-      "prettySize": "292 kB",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T08:34:40.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
-      "base": "cubeRound.jpg",
-      "ext": ".jpg",
-      "name": "cubeRound",
-      "relativeDirectory": "2017-10-26",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405732,
-      "blocks": 576,
-      "atimeMs": 1538814880000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T08:34:40.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "42d7ab20-e8c4-5ddc-ad82-e5a6b2348003": {
-      "id": "42d7ab20-e8c4-5ddc-ad82-e5a6b2348003",
-      "children": [],
-      "parent": "e2acb20f-bf01-5ad0-9140-9d03b5e5ca79",
-      "internal": {
-        "contentDigest": "224143b7440585785b0d46827cc65219",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "d6d2ef17-da0e-5e39-bfde-b3f28806602a": {
-      "id": "d6d2ef17-da0e-5e39-bfde-b3f28806602a",
-      "children": [
-        "980b91ef-354f-508f-b93b-35b411ae95e5"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-27/smartTriangle.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/smartTriangle.jpg",
-      "relativePath": "2017-10-27/smartTriangle.jpg",
-      "extension": "jpg",
-      "size": 404825,
-      "prettySize": "405 kB",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T08:34:40.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
-      "base": "smartTriangle.jpg",
-      "ext": ".jpg",
-      "name": "smartTriangle",
-      "relativeDirectory": "2017-10-27",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405736,
-      "blocks": 792,
-      "atimeMs": 1538814880000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T08:34:40.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "980b91ef-354f-508f-b93b-35b411ae95e5": {
-      "id": "980b91ef-354f-508f-b93b-35b411ae95e5",
-      "children": [],
-      "parent": "d6d2ef17-da0e-5e39-bfde-b3f28806602a",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "950c8c4c-f35b-5504-ab60-9407d4ba1c50": {
       "id": "950c8c4c-f35b-5504-ab60-9407d4ba1c50",
       "children": [
@@ -2808,14 +2694,42 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "aede7514-8fa2-5b89-8db0-1a95fe46ea8c": {
+      "id": "aede7514-8fa2-5b89-8db0-1a95fe46ea8c",
+      "children": [],
+      "parent": "f37dea84-717f-54ca-a4e7-54b32e686c01",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "18499aa93a17848164097769d8c92a65",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Progress",
+        "client": "Progress",
+        "cover": "./lekoarts.jpg",
+        "date": "2017-10-28",
+        "service": "Celebrate your accomplishments by tracking your progress. Setting goals is important!",
+        "_PARENT": "f37dea84-717f-54ca-a4e7-54b32e686c01"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/progress"
+      }
+    },
     "9e553320-05d6-5f5f-a97f-e082b43bfd71": {
       "id": "9e553320-05d6-5f5f-a97f-e082b43bfd71",
       "children": [],
       "parent": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d",
       "internal": {
-        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n",
+        "content": "",
         "type": "MarkdownRemark",
-        "contentDigest": "87ae6ca7cb30663bf7eaedc48f3cfe7a",
+        "contentDigest": "09e8242005b2f6bf085a1f362a0c6a84",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2826,14 +2740,184 @@
         "client": "Scheduling",
         "cover": "./blobSphere.jpg",
         "date": "2017-10-25",
-        "service": "Schedule your next session!",
+        "service": "Schedule your next session with us. Continued commitment is the key to success! And we would love to see you again!",
         "_PARENT": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d"
       },
       "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n",
+      "rawMarkdownBody": "",
       "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
       "fields": {
         "slug": "/scheduling"
+      }
+    },
+    "a1d54087-4c24-5236-9c77-4fa29ef1d313": {
+      "id": "a1d54087-4c24-5236-9c77-4fa29ef1d313",
+      "children": [
+        "1409203d-30cb-53c1-9eeb-6210936ad77b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-27/calendaricon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/calendaricon.jpeg",
+      "relativePath": "2017-10-27/calendaricon.jpeg",
+      "extension": "jpeg",
+      "size": 3788,
+      "prettySize": "3.79 kB",
+      "modifiedTime": "2018-10-06T10:19:21.000Z",
+      "accessTime": "2018-10-06T10:19:21.000Z",
+      "changeTime": "2018-10-06T10:20:33.000Z",
+      "birthTime": "2018-10-06T10:19:21.000Z",
+      "root": "/",
+      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
+      "base": "calendaricon.jpeg",
+      "ext": ".jpeg",
+      "name": "calendaricon",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22442222,
+      "blocks": 8,
+      "atimeMs": 1538821161000,
+      "mtimeMs": 1538821161000,
+      "ctimeMs": 1538821233000,
+      "birthtimeMs": 1538821161000,
+      "atime": "2018-10-06T10:19:21.000Z",
+      "mtime": "2018-10-06T10:19:21.000Z",
+      "ctime": "2018-10-06T10:20:33.000Z",
+      "birthtime": "2018-10-06T10:19:21.000Z"
+    },
+    "a3bb39a9-5917-544b-b19a-92cce285de54": {
+      "id": "a3bb39a9-5917-544b-b19a-92cce285de54",
+      "children": [],
+      "parent": "5147df29-a832-59db-92fb-8d5ecd8a4157",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "d4eb7eb3eeee8d73f432a54d7174babe",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Calendar",
+        "client": "Calendar",
+        "cover": "./calendaricon.jpeg",
+        "date": "2017-10-27",
+        "service": "Check out our weekly calendars to find out about local opportunities and events we offer! Hope to see you there!",
+        "_PARENT": "5147df29-a832-59db-92fb-8d5ecd8a4157"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/calendar"
+      }
+    },
+    "e44868f6-430e-56bd-a592-a005bb922fc3": {
+      "id": "e44868f6-430e-56bd-a592-a005bb922fc3",
+      "children": [
+        "16ef5001-951b-5f95-8931-a1da3378fdd8"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-26/chaticon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/chaticon.jpeg",
+      "relativePath": "2017-10-26/chaticon.jpeg",
+      "extension": "jpeg",
+      "size": 3869,
+      "prettySize": "3.87 kB",
+      "modifiedTime": "2018-10-06T10:12:40.000Z",
+      "accessTime": "2018-10-06T10:12:52.000Z",
+      "changeTime": "2018-10-06T10:12:51.000Z",
+      "birthTime": "2018-10-06T10:12:40.000Z",
+      "root": "/",
+      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
+      "base": "chaticon.jpeg",
+      "ext": ".jpeg",
+      "name": "chaticon",
+      "relativeDirectory": "2017-10-26",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22441591,
+      "blocks": 8,
+      "atimeMs": 1538820772000,
+      "mtimeMs": 1538820760000,
+      "ctimeMs": 1538820771000,
+      "birthtimeMs": 1538820760000,
+      "atime": "2018-10-06T10:12:52.000Z",
+      "mtime": "2018-10-06T10:12:40.000Z",
+      "ctime": "2018-10-06T10:12:51.000Z",
+      "birthtime": "2018-10-06T10:12:40.000Z"
+    },
+    "16ef5001-951b-5f95-8931-a1da3378fdd8": {
+      "id": "16ef5001-951b-5f95-8931-a1da3378fdd8",
+      "children": [],
+      "parent": "e44868f6-430e-56bd-a592-a005bb922fc3",
+      "internal": {
+        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "929fb67f-a6ee-51b0-8a2d-e771083141a4": {
+      "id": "929fb67f-a6ee-51b0-8a2d-e771083141a4",
+      "children": [],
+      "parent": "efd75f59-14df-59ab-bbb6-6aeb12597106",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "4ffa8484884d39a2023b94224e2f4cef",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./chaticon.jpeg",
+        "date": "2017-10-26",
+        "service": "Do you want your questions answered now? Chat with our coaches and get the most out of your cat4u experience!",
+        "_PARENT": "efd75f59-14df-59ab-bbb6-6aeb12597106"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/chat-with-us"
+      }
+    },
+    "1409203d-30cb-53c1-9eeb-6210936ad77b": {
+      "id": "1409203d-30cb-53c1-9eeb-6210936ad77b",
+      "children": [],
+      "parent": "a1d54087-4c24-5236-9c77-4fa29ef1d313",
+      "internal": {
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "SitePage /progress": {
@@ -2858,28 +2942,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /calendar": {
-      "jsonName": "calendar-5fa",
-      "internalComponentName": "ComponentCalendar",
-      "path": "/calendar",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/calendar"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "id": "SitePage /calendar",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e34723682682b340ed73c8f2bfb739c0",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /scheduling": {
       "jsonName": "scheduling-fdb",
       "internalComponentName": "ComponentScheduling",
@@ -2898,6 +2960,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "79c06cdd0bc859f6ae365d3c7dba3376",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /calendar": {
+      "jsonName": "calendar-5fa",
+      "internalComponentName": "ComponentCalendar",
+      "path": "/calendar",
+      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/calendar"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "id": "SitePage /calendar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e34723682682b340ed73c8f2bfb739c0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3063,90 +3147,6 @@
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
-    },
-    "929fb67f-a6ee-51b0-8a2d-e771083141a4": {
-      "id": "929fb67f-a6ee-51b0-8a2d-e771083141a4",
-      "children": [],
-      "parent": "efd75f59-14df-59ab-bbb6-6aeb12597106",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "cd919e23670d92024395a28de239cda0",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Chat with us!",
-        "client": "Chat",
-        "cover": "./cubeRound.jpg",
-        "date": "2017-10-26",
-        "service": "Do you want your questions answered now? Chat with our coaches and get the most out of your cat4u experience!",
-        "_PARENT": "efd75f59-14df-59ab-bbb6-6aeb12597106"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/chat-with-us"
-      }
-    },
-    "a3bb39a9-5917-544b-b19a-92cce285de54": {
-      "id": "a3bb39a9-5917-544b-b19a-92cce285de54",
-      "children": [],
-      "parent": "5147df29-a832-59db-92fb-8d5ecd8a4157",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "85bbfe62001e0859328bdcd1f8243674",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Calendar",
-        "client": "Calendar",
-        "cover": "./smartTriangle.jpg",
-        "date": "2017-10-27",
-        "service": "Check out our weekly calendars to find out about local opportunities and events we offer! Hope to see you there!",
-        "_PARENT": "5147df29-a832-59db-92fb-8d5ecd8a4157"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/index.md",
-      "fields": {
-        "slug": "/calendar"
-      }
-    },
-    "aede7514-8fa2-5b89-8db0-1a95fe46ea8c": {
-      "id": "aede7514-8fa2-5b89-8db0-1a95fe46ea8c",
-      "children": [],
-      "parent": "f37dea84-717f-54ca-a4e7-54b32e686c01",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "18499aa93a17848164097769d8c92a65",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Progress",
-        "client": "Progress",
-        "cover": "./lekoarts.jpg",
-        "date": "2017-10-28",
-        "service": "Celebrate your accomplishments by tracking your progress. Setting goals is important!",
-        "_PARENT": "f37dea84-717f-54ca-a4e7-54b32e686c01"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/index.md",
-      "fields": {
-        "slug": "/progress"
-      }
     }
   },
   "status": {
@@ -3216,6 +3216,22 @@
       ],
       "aede7514-8fa2-5b89-8db0-1a95fe46ea8c": [
         "/progress"
+      ],
+      "a1d54087-4c24-5236-9c77-4fa29ef1d313": [
+        "/",
+        "/calendar"
+      ],
+      "1409203d-30cb-53c1-9eeb-6210936ad77b": [
+        "/",
+        "/calendar"
+      ],
+      "e44868f6-430e-56bd-a592-a005bb922fc3": [
+        "/",
+        "/chat-with-us"
+      ],
+      "16ef5001-951b-5f95-8931-a1da3378fdd8": [
+        "/",
+        "/chat-with-us"
       ]
     },
     "connections": {
@@ -3228,18 +3244,18 @@
     "smart-triangle-make-triangles-smart-cb8": "236/path---smart-triangle-make-triangles-smart-cb-8-d77-pcvfJWLL7nBu90PEarPvbnUPNDo",
     "chat-7ce": "596/path---chat-7-ce-d82-Npabmeq7yj11VKopMHamQ6uN2e4",
     "leko-arts-your-theme-creator-75e": "331/path---leko-arts-your-theme-creator-75-e-4a1-RV9h3n905aS3Gwpb3HzdyoJdmzM",
-    "scheduling-fdb": "698/path---scheduling-fdb-25b-tu8FZMMuXJKlTTShashHG36WWYU",
+    "scheduling-fdb": "89/path---scheduling-fdb-25b-jG5EBOvrNdGFNtnSg42pkUFXYU",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "8/path---index-6a9-dxW2sifCFerm4hhI8ShRrm0v8",
+    "index": "23/path---index-6a9-1S2aOageQaMh2hROgZGmLElPf80",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
     "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
-    "chat-with-us-5a0": "697/path---chat-with-us-5-a-0-949-G0SaSk9vHNKrHxcQHS7H6JRCs",
+    "chat-with-us-5a0": "719/path---chat-with-us-5-a-0-949-DmtTGVzLi7z59oLOdkLgbKWp19Q",
     "check-out-our-events-45e": "476/path---check-out-our-events-45-e-baf-ozDVpDEwLrstsMkwn5kdBC1fig",
-    "calendar-5fa": "553/path---calendar-5-fa-73a-dc04yp0PIOA980BvCUb9dQQ65fU",
+    "calendar-5fa": "290/path---calendar-5-fa-73a-TwFEhNSbyNvewaBi6e1REketGeY",
     "progress-4aa": "166/path---progress-4-aa-2f7-YVhJqaIZDGERhQSUwZvh3rJCblA",
     "app-946": "788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E",
     "firebase-535": "5/path---firebase-535-32e-NZuapzHg3X9TaN1iIixfv1W23E",
