@@ -18,6 +18,7 @@ const Contact = () => (
       3000 Biscayne Blvd., Suite 210<br/>
       Miami, FL 33137<br/>
       <br/>
+      Phone: 305.576.5001<br/>
       Fax: 305.576.1718<br/>
       Email: info@catalystmiami.org<br/>
       <br/>
