@@ -2,7 +2,6 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Header, Container, Layout } from 'components';
 import config from '../../config/website';
-import { Link } from 'gatsby';
 
 const About = () => (
   <Layout>

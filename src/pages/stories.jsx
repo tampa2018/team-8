@@ -3,10 +3,6 @@ import './style/App.css';
 import  './child';
 
 class Stories extends Component {
-  constructor() {
-    super();
-
-  }
 
   render() {
     return (
@@ -16,7 +12,7 @@ class Stories extends Component {
 
         <div class="w3-container">
         <div class="w3-panel w3-card" id="header1"> <h1>  ROBERT CLEMENT </h1>
-        <img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story1.jpg"} /><p>
+        <img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story1.jpg"} alt="H" /><p>
 I came to Catalyst Miami for help completing my 2013 taxes. During my initial visit, I mentioned that I had moved to Miami because I loved music and hoped to pursue my dream of being musician. After arriving in South Florida, I decided to return to school, and enrolled in Miami Dade College to earn an associate’s degree with a concentration in music. Unfortunately, my living situation was unstable. I soon found myself homeless and was forced to drop out of school.
 After living in a homeless shelter for a month and a half, I was able to secure employment and a room for rent, which allowed me to pay off my debts.
 Catalyst Miami Prosperity Wealth team first provided me with Free Tax Preparation services. From there, I committed to a budgeting session with a Catalyst Miami financial coach. My primary financial goal was to get caught up with my debts, which included owing money for my rent, car, car insurance and credit card. I also wanted to establish an emergency savings fund.
@@ -48,7 +44,7 @@ I continue to work with the financial coaching team at Catalyst Miami to improve
 </ul>
 </div>
 <div class="w3-panel w3-card" id="header1"> <h1>  VANESSA NAVARRO </h1>
-<img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story2.jpg"} /><p>
+<img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story2.jpg"} alt="H"/><p>
 Through my Public Allies Miami apprenticeship, I was able to look at my hometown through a new lens. Working as a community organizer in Miami allowed me to understand the issues relevant to each community within this metropolis and to consider different solutions for the problems we face. As I worked in these communities, I became frustrated with the fact that many people in Miami are dealing with difficult situations and are in need of much support. Through this program, I realized that one person’s struggle or injustice is everyone’s struggle. I am so pleased to continue working in Miami following my term with Public Allies Miami as HistoryMiami’s Folklife Specialist. My goal is to continue to bring Miamians together by celebrating our shared history and allowing people to learn more about their neighbors. I’m grateful to the Public Allies Miami program for giving me the opportunity to appreciate my community in a different way and strengthening my commitment to making Miami a better place for everyone.</p>
 <h3> Partners for community leadership: </h3>
 <ul>
@@ -86,7 +82,7 @@ Through my Public Allies Miami apprenticeship, I was able to look at my hometown
 </ul>
  </div>
 <div class="w3-panel w3-card" id="header1"> <h1>  YANICK LANDESS </h1>
-<img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story3.jpg"} /><p>
+<img src={"http://catalystmiami.org/wp-content/uploads/2015/06/story3.jpg"} alt="H"/><p>
 PLTI was an exciting learning experience. I learned to interact with other members of the community--other stakeholders, parents, businesses, agencies, and with city, county, and government officials. From my training, I learned that elected officials are regular people just like me, and that I am capable of connecting with them. I know now that they are here to serve my needs, my children’s needs, and the needs of the community. PLTI helped me understand why it’s important to advocate, to be civically engaged, and to be a part of the change that we want to see. I was able to put my leadership skills to practice during the Tallahassee Days of Action trip and an advocacy trip to Washington D.C.
 There is nothing like knowledge and leadership skills to empower residents and to help them empower others. PLTI gave me that empowerment. Now I am paying it forward. I created a “neighbor circle” in my neighborhood to strengthen my community. I am also actively engaged in policy advocacy because of my participation in this program.</p>
 <h3> Partners for government: </h3>

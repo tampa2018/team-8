@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{160:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),r=n(328),s=n.n(r),o=n(496),i=n.n(o),d=(n(497),s.a.momentLocalizer(i.a)),l=[],w={width:"100%",height:"100%"};t.default=function(e){return c.a.createElement("div",{style:w},c.a.createElement(s.a,{localizer:d,events:l,startAccessor:"start",endAccessor:"end"}))}}}]);
+//# sourceMappingURL=component---src-pages-calendar-jsx-d460b6baa3b2086559dc.js.map

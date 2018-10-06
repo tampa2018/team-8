@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{153:function(a,e,t){"use strict";t.r(e);var p=t(241),i=t.n(p);i.a.initializeApp({apiKey:"AIzaSyA2TY67Q0NPnBaNEHv3-2_phC3I4n84uBk",authDomain:"team-8-26f27.firebaseapp.com",databaseURL:"https://team-8-26f27.firebaseio.com",projectId:"team-8-26f27",storageBucket:"team-8-26f27.appspot.com",messagingSenderId:"959126174970"}),e.default=i.a}}]);
+//# sourceMappingURL=component---src-pages-firebase-js-fba038e58790cf3eae75.js.map
