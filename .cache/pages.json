@@ -21,13 +21,18 @@
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "chat-7ce",
-        "path": "/chat"
+        "jsonName": "blob-sphere-make-spheres-blob-825",
+        "path": "/blob-sphere-make-spheres-blob"
     },
     {
         "componentChunkName": "component---src-pages-contact-jsx",
         "jsonName": "contact-26a",
         "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "cube-round-make-cubes-round-434",
+        "path": "/cube-round-make-cubes-round"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
@@ -41,12 +46,7 @@
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "mint-a01",
-        "path": "/mint"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "schedule-b30",
-        "path": "/schedule"
+        "jsonName": "smart-triangle-make-triangles-smart-cb8",
+        "path": "/smart-triangle-make-triangles-smart"
     }
 ]

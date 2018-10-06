@@ -1,10 +1,10 @@
 {
-  "name": "team-8",
-  "description": "Catalyst Miami",
+  "name": "gatsby-starter-portfolio-emma",
+  "description": "Gatsby Starter Portfolio Emma",
   "version": "2.0.0",
-  "author": "Team 8 Code For Good",
+  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
   "repository": {
-    "url": "https://github.com/tampa2018/team-8/",
+    "url": "https://github.com/LeKoArts/gatsby-starter-portfolio-emma",
     "type": "git"
   },
   "dependencies": {
