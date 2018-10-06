@@ -2162,12 +2162,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T10:21:24.086Z",
+      "buildTime": "2018-10-06T10:29:30.850Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3662c5c2b01a66c298d72d33d8832b7d",
+        "contentDigest": "5d3d15cd55cd5c237a2a47135182a392",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2177,7 +2177,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3c9bcfbd475c6fe53572c5f4f0e292b7",
+        "contentDigest": "d4ad265bf093123454e4f4b96ee5d461",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2189,7 +2189,7 @@
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T10:21:46.000Z",
+      "accessTime": "2018-10-06T10:29:54.000Z",
       "changeTime": "2018-10-06T08:29:39.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2207,11 +2207,11 @@
       "blksize": 4096,
       "ino": 22405727,
       "blocks": 0,
-      "atimeMs": 1538821306000,
+      "atimeMs": 1538821794000,
       "mtimeMs": 1538814579000,
       "ctimeMs": 1538814579000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:21:46.000Z",
+      "atime": "2018-10-06T10:29:54.000Z",
       "mtime": "2018-10-06T08:29:39.000Z",
       "ctime": "2018-10-06T08:29:39.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2221,7 +2221,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8aefcb9a2c80362cb3de687a3dc0ed89",
+        "contentDigest": "f7cb8795446739480e59b009fb9afcff",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2232,9 +2232,9 @@
       "extension": "",
       "size": 136,
       "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T10:21:46.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
+      "modifiedTime": "2018-10-06T10:28:59.000Z",
+      "accessTime": "2018-10-06T10:29:54.000Z",
+      "changeTime": "2018-10-06T10:28:59.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
@@ -2251,13 +2251,13 @@
       "blksize": 4096,
       "ino": 22405728,
       "blocks": 0,
-      "atimeMs": 1538821306000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
+      "atimeMs": 1538821794000,
+      "mtimeMs": 1538821739000,
+      "ctimeMs": 1538821739000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:21:46.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
+      "atime": "2018-10-06T10:29:54.000Z",
+      "mtime": "2018-10-06T10:28:59.000Z",
+      "ctime": "2018-10-06T10:28:59.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "7b20bd78-44ee-536a-ac5a-4efd188b5f73": {
@@ -2265,7 +2265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a80b3c489ea8639ebfaec4564beb99d5",
+        "contentDigest": "fe6ca1260e80a16cec976ea80ca7bdf1",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2277,7 +2277,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T10:12:51.000Z",
-      "accessTime": "2018-10-06T10:21:46.000Z",
+      "accessTime": "2018-10-06T10:29:54.000Z",
       "changeTime": "2018-10-06T10:12:51.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2295,11 +2295,11 @@
       "blksize": 4096,
       "ino": 22405731,
       "blocks": 0,
-      "atimeMs": 1538821306000,
+      "atimeMs": 1538821794000,
       "mtimeMs": 1538820771000,
       "ctimeMs": 1538820771000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:21:46.000Z",
+      "atime": "2018-10-06T10:29:54.000Z",
       "mtime": "2018-10-06T10:12:51.000Z",
       "ctime": "2018-10-06T10:12:51.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2309,7 +2309,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f1cbc754f971bbcab08e7bbac29cb11",
+        "contentDigest": "ac27be5a12b11ec0083eed7af8825c61",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
@@ -2321,7 +2321,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T10:20:33.000Z",
-      "accessTime": "2018-10-06T10:21:46.000Z",
+      "accessTime": "2018-10-06T10:29:54.000Z",
       "changeTime": "2018-10-06T10:20:33.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2339,11 +2339,11 @@
       "blksize": 4096,
       "ino": 22405734,
       "blocks": 0,
-      "atimeMs": 1538821306000,
+      "atimeMs": 1538821794000,
       "mtimeMs": 1538821233000,
       "ctimeMs": 1538821233000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:21:46.000Z",
+      "atime": "2018-10-06T10:29:54.000Z",
       "mtime": "2018-10-06T10:20:33.000Z",
       "ctime": "2018-10-06T10:20:33.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2353,7 +2353,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2f9108b8513625e94ef7d9a19bbb72a6",
+        "contentDigest": "066352a2f3aecff1df5c81dfd34d1aae",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2365,7 +2365,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T10:21:46.000Z",
+      "accessTime": "2018-10-06T10:29:54.000Z",
       "changeTime": "2018-10-06T08:29:39.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
@@ -2383,11 +2383,11 @@
       "blksize": 4096,
       "ino": 22405737,
       "blocks": 0,
-      "atimeMs": 1538821306000,
+      "atimeMs": 1538821794000,
       "mtimeMs": 1538814579000,
       "ctimeMs": 1538814579000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:21:46.000Z",
+      "atime": "2018-10-06T10:29:54.000Z",
       "mtime": "2018-10-06T08:29:39.000Z",
       "ctime": "2018-10-06T08:29:39.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
@@ -2446,7 +2446,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ff88f700882e38ecf9fa6fab594248b0",
+        "contentDigest": "76115aa143911c48aff8113a07d8957b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-25/index.md\"",
@@ -2456,11 +2456,11 @@
       "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
       "relativePath": "2017-10-25/index.md",
       "extension": "md",
-      "size": 221,
-      "prettySize": "221 B",
-      "modifiedTime": "2018-10-06T09:54:44.000Z",
-      "accessTime": "2018-10-06T09:54:44.000Z",
-      "changeTime": "2018-10-06T09:54:44.000Z",
+      "size": 223,
+      "prettySize": "223 B",
+      "modifiedTime": "2018-10-06T10:27:32.000Z",
+      "accessTime": "2018-10-06T10:27:32.000Z",
+      "changeTime": "2018-10-06T10:27:32.000Z",
       "birthTime": "2018-10-06T08:29:39.000Z",
       "root": "/",
       "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
@@ -2477,13 +2477,13 @@
       "blksize": 4096,
       "ino": 22405730,
       "blocks": 8,
-      "atimeMs": 1538819684000,
-      "mtimeMs": 1538819684000,
-      "ctimeMs": 1538819684000,
+      "atimeMs": 1538821652000,
+      "mtimeMs": 1538821652000,
+      "ctimeMs": 1538821652000,
       "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T09:54:44.000Z",
-      "mtime": "2018-10-06T09:54:44.000Z",
-      "ctime": "2018-10-06T09:54:44.000Z",
+      "atime": "2018-10-06T10:27:32.000Z",
+      "mtime": "2018-10-06T10:27:32.000Z",
+      "ctime": "2018-10-06T10:27:32.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
     "5147df29-a832-59db-92fb-8d5ecd8a4157": {
@@ -2580,63 +2580,6 @@
       "ctime": "2018-10-06T09:52:19.000Z",
       "birthtime": "2018-10-06T08:29:39.000Z"
     },
-    "499f9e8d-acb2-5323-83e2-ea14586773e6": {
-      "id": "499f9e8d-acb2-5323-83e2-ea14586773e6",
-      "children": [
-        "03bebb04-2bad-5151-8e57-aa8c66c4420e"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-25/blobSphere.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/blobSphere.jpg",
-      "relativePath": "2017-10-25/blobSphere.jpg",
-      "extension": "jpg",
-      "size": 209762,
-      "prettySize": "210 kB",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T08:34:40.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
-      "base": "blobSphere.jpg",
-      "ext": ".jpg",
-      "name": "blobSphere",
-      "relativeDirectory": "2017-10-25",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405729,
-      "blocks": 416,
-      "atimeMs": 1538814880000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T08:34:40.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "03bebb04-2bad-5151-8e57-aa8c66c4420e": {
-      "id": "03bebb04-2bad-5151-8e57-aa8c66c4420e",
-      "children": [],
-      "parent": "499f9e8d-acb2-5323-83e2-ea14586773e6",
-      "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "950c8c4c-f35b-5504-ab60-9407d4ba1c50": {
       "id": "950c8c4c-f35b-5504-ab60-9407d4ba1c50",
       "children": [
@@ -2720,34 +2663,6 @@
       "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/index.md",
       "fields": {
         "slug": "/progress"
-      }
-    },
-    "9e553320-05d6-5f5f-a97f-e082b43bfd71": {
-      "id": "9e553320-05d6-5f5f-a97f-e082b43bfd71",
-      "children": [],
-      "parent": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "09e8242005b2f6bf085a1f362a0c6a84",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Scheduling",
-        "client": "Scheduling",
-        "cover": "./blobSphere.jpg",
-        "date": "2017-10-25",
-        "service": "Schedule your next session with us. Continued commitment is the key to success! And we would love to see you again!",
-        "_PARENT": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
-      "fields": {
-        "slug": "/scheduling"
       }
     },
     "a1d54087-4c24-5236-9c77-4fa29ef1d313": {
@@ -2920,6 +2835,91 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "480c4c27-1b3f-5c0a-a56d-ada40a44752d": {
+      "id": "480c4c27-1b3f-5c0a-a56d-ada40a44752d",
+      "children": [
+        "b6a7e6f1-b401-5178-a1e8-22070d0b8cda"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-25/scheduleicon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/scheduleicon.jpg",
+      "relativePath": "2017-10-25/scheduleicon.jpg",
+      "extension": "jpg",
+      "size": 3170,
+      "prettySize": "3.17 kB",
+      "modifiedTime": "2018-10-06T10:28:28.000Z",
+      "accessTime": "2018-10-06T10:29:08.000Z",
+      "changeTime": "2018-10-06T10:28:59.000Z",
+      "birthTime": "2018-10-06T10:28:28.000Z",
+      "root": "/",
+      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
+      "base": "scheduleicon.jpg",
+      "ext": ".jpg",
+      "name": "scheduleicon",
+      "relativeDirectory": "2017-10-25",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22443079,
+      "blocks": 8,
+      "atimeMs": 1538821748000,
+      "mtimeMs": 1538821708000,
+      "ctimeMs": 1538821739000,
+      "birthtimeMs": 1538821708000,
+      "atime": "2018-10-06T10:29:08.000Z",
+      "mtime": "2018-10-06T10:28:28.000Z",
+      "ctime": "2018-10-06T10:28:59.000Z",
+      "birthtime": "2018-10-06T10:28:28.000Z"
+    },
+    "9e553320-05d6-5f5f-a97f-e082b43bfd71": {
+      "id": "9e553320-05d6-5f5f-a97f-e082b43bfd71",
+      "children": [],
+      "parent": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "c8dc77d2bab5b3e66db3764a78fe776a",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Scheduling",
+        "client": "Scheduling",
+        "cover": "./scheduleicon.jpg",
+        "date": "2017-10-25",
+        "service": "Schedule your next session with us. Continued commitment is the key to success! And we would love to see you again!",
+        "_PARENT": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
+      "fields": {
+        "slug": "/scheduling"
+      }
+    },
+    "b6a7e6f1-b401-5178-a1e8-22070d0b8cda": {
+      "id": "b6a7e6f1-b401-5178-a1e8-22070d0b8cda",
+      "children": [],
+      "parent": "480c4c27-1b3f-5c0a-a56d-ada40a44752d",
+      "internal": {
+        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /progress": {
       "jsonName": "progress-4aa",
       "internalComponentName": "ComponentProgress",
@@ -2938,28 +2938,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "1cb9e62702019fb20d22f8885767e217",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /scheduling": {
-      "jsonName": "scheduling-fdb",
-      "internalComponentName": "ComponentScheduling",
-      "path": "/scheduling",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/scheduling"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "id": "SitePage /scheduling",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "79c06cdd0bc859f6ae365d3c7dba3376",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3004,6 +2982,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "ce0fd0b15fe43338bc37d662bd4952df",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /scheduling": {
+      "jsonName": "scheduling-fdb",
+      "internalComponentName": "ComponentScheduling",
+      "path": "/scheduling",
+      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/scheduling"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "id": "SitePage /scheduling",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "79c06cdd0bc859f6ae365d3c7dba3376",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3232,6 +3232,14 @@
       "16ef5001-951b-5f95-8931-a1da3378fdd8": [
         "/",
         "/chat-with-us"
+      ],
+      "480c4c27-1b3f-5c0a-a56d-ada40a44752d": [
+        "/",
+        "/scheduling"
+      ],
+      "b6a7e6f1-b401-5178-a1e8-22070d0b8cda": [
+        "/",
+        "/scheduling"
       ]
     },
     "connections": {
@@ -3244,12 +3252,12 @@
     "smart-triangle-make-triangles-smart-cb8": "236/path---smart-triangle-make-triangles-smart-cb-8-d77-pcvfJWLL7nBu90PEarPvbnUPNDo",
     "chat-7ce": "596/path---chat-7-ce-d82-Npabmeq7yj11VKopMHamQ6uN2e4",
     "leko-arts-your-theme-creator-75e": "331/path---leko-arts-your-theme-creator-75-e-4a1-RV9h3n905aS3Gwpb3HzdyoJdmzM",
-    "scheduling-fdb": "89/path---scheduling-fdb-25b-jG5EBOvrNdGFNtnSg42pkUFXYU",
+    "scheduling-fdb": "575/path---scheduling-fdb-25b-n0Kap7gGTYsRieFUP7tjM1uCCU",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "23/path---index-6a9-1S2aOageQaMh2hROgZGmLElPf80",
+    "index": "630/path---index-6a9-KxYWPDkfMbUpzl1u98iV5F683JQ",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
     "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
