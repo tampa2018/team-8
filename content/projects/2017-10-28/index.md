@@ -1,9 +1,9 @@
 ---
-client: "LekoArts"
-title: "LekoArts - Your theme creator!"
+client: "Progress"
+title: "Progress"
 cover: "./lekoarts.jpg"
 date: "2017-10-28"
-service: "Theme"
+service: "See your progress!"
 ---
 # Description
 

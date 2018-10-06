@@ -2082,12 +2082,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T07:06:55.067Z",
+      "buildTime": "2018-10-06T07:08:24.542Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a1fe39c51f2b1e348fbdd121f7393a02",
+        "contentDigest": "0f7f04bd69b201d9bcfb02035475cc1a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2097,7 +2097,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "982c9c25ee801848b32662e0cf6c9e2c",
+        "contentDigest": "5df65e0593c7c8e69050ff3a6d8c3814",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2109,7 +2109,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-10-06T06:43:14.903Z",
-      "accessTime": "2018-10-06T07:07:17.129Z",
+      "accessTime": "2018-10-06T07:08:31.565Z",
       "changeTime": "2018-10-06T06:43:14.903Z",
       "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
@@ -2127,11 +2127,11 @@
       "blksize": 4096,
       "ino": 8621495353,
       "blocks": 0,
-      "atimeMs": 1538809637129.2751,
+      "atimeMs": 1538809711564.862,
       "mtimeMs": 1538808194903.3806,
       "ctimeMs": 1538808194903.3806,
       "birthtimeMs": 1538806423359.5754,
-      "atime": "2018-10-06T07:07:17.129Z",
+      "atime": "2018-10-06T07:08:31.565Z",
       "mtime": "2018-10-06T06:43:14.903Z",
       "ctime": "2018-10-06T06:43:14.903Z",
       "birthtime": "2018-10-06T06:13:43.360Z"
@@ -2141,7 +2141,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7e21b9d0c5fb25f93c5eb02e10714950",
+        "contentDigest": "879d6b79a7c1c0701cdcaf0aaa200a09",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2153,7 +2153,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T07:02:00.708Z",
-      "accessTime": "2018-10-06T07:07:17.135Z",
+      "accessTime": "2018-10-06T07:08:31.569Z",
       "changeTime": "2018-10-06T07:02:00.708Z",
       "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
@@ -2171,11 +2171,11 @@
       "blksize": 4096,
       "ino": 8621495354,
       "blocks": 0,
-      "atimeMs": 1538809637135.4224,
+      "atimeMs": 1538809711568.5964,
       "mtimeMs": 1538809320707.8992,
       "ctimeMs": 1538809320707.8992,
       "birthtimeMs": 1538806423359.6677,
-      "atime": "2018-10-06T07:07:17.135Z",
+      "atime": "2018-10-06T07:08:31.569Z",
       "mtime": "2018-10-06T07:02:00.708Z",
       "ctime": "2018-10-06T07:02:00.708Z",
       "birthtime": "2018-10-06T06:13:43.360Z"
@@ -2185,7 +2185,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1c853b49ef63682bb5ee663f1f01fb8c",
+        "contentDigest": "e5563df75951305ec5f214c8cf3e871c",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2197,7 +2197,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T07:02:00.734Z",
-      "accessTime": "2018-10-06T07:07:17.135Z",
+      "accessTime": "2018-10-06T07:08:31.568Z",
       "changeTime": "2018-10-06T07:02:00.734Z",
       "birthTime": "2018-10-06T06:13:43.373Z",
       "root": "/",
@@ -2215,11 +2215,11 @@
       "blksize": 4096,
       "ino": 8621495357,
       "blocks": 0,
-      "atimeMs": 1538809637135.3909,
+      "atimeMs": 1538809711568.4731,
       "mtimeMs": 1538809320734.0942,
       "ctimeMs": 1538809320734.0942,
       "birthtimeMs": 1538806423373.3738,
-      "atime": "2018-10-06T07:07:17.135Z",
+      "atime": "2018-10-06T07:08:31.568Z",
       "mtime": "2018-10-06T07:02:00.734Z",
       "ctime": "2018-10-06T07:02:00.734Z",
       "birthtime": "2018-10-06T06:13:43.373Z"
@@ -2229,7 +2229,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2c99f2510668830509189efbeeba264e",
+        "contentDigest": "7c7c3d146c471199bbece037ba3254a0",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
@@ -2241,7 +2241,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T06:13:43.410Z",
-      "accessTime": "2018-10-06T07:07:17.135Z",
+      "accessTime": "2018-10-06T07:08:31.569Z",
       "changeTime": "2018-10-06T06:39:54.668Z",
       "birthTime": "2018-10-06T06:13:43.409Z",
       "root": "/",
@@ -2259,11 +2259,11 @@
       "blksize": 4096,
       "ino": 8621495360,
       "blocks": 0,
-      "atimeMs": 1538809637135.3464,
+      "atimeMs": 1538809711568.8384,
       "mtimeMs": 1538806423410.1497,
       "ctimeMs": 1538807994667.8838,
       "birthtimeMs": 1538806423409.2158,
-      "atime": "2018-10-06T07:07:17.135Z",
+      "atime": "2018-10-06T07:08:31.569Z",
       "mtime": "2018-10-06T06:13:43.410Z",
       "ctime": "2018-10-06T06:39:54.668Z",
       "birthtime": "2018-10-06T06:13:43.409Z"
@@ -2273,7 +2273,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "89862a47f3ec0622677133819cb784b9",
+        "contentDigest": "5c2ab81f2cac65783a35629736f3c331",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2285,7 +2285,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T06:30:14.447Z",
-      "accessTime": "2018-10-06T07:07:17.135Z",
+      "accessTime": "2018-10-06T07:08:31.569Z",
       "changeTime": "2018-10-06T06:39:54.665Z",
       "birthTime": "2018-10-06T06:13:43.428Z",
       "root": "/",
@@ -2303,11 +2303,11 @@
       "blksize": 4096,
       "ino": 8621495363,
       "blocks": 0,
-      "atimeMs": 1538809637135.454,
+      "atimeMs": 1538809711569.184,
       "mtimeMs": 1538807414447.3872,
       "ctimeMs": 1538807994665.0671,
       "birthtimeMs": 1538806423427.7278,
-      "atime": "2018-10-06T07:07:17.135Z",
+      "atime": "2018-10-06T07:08:31.569Z",
       "mtime": "2018-10-06T06:30:14.447Z",
       "ctime": "2018-10-06T06:39:54.665Z",
       "birthtime": "2018-10-06T06:13:43.428Z"
@@ -2319,7 +2319,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3d33b9fa6152f32471d404011c6ed29b",
+        "contentDigest": "c184a9008c773690c8eb86b43fc9d031",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-28/index.md\"",
@@ -2329,11 +2329,11 @@
       "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
       "relativePath": "2017-10-28/index.md",
       "extension": "md",
-      "size": 591,
-      "prettySize": "591 B",
-      "modifiedTime": "2018-10-06T06:59:39.547Z",
-      "accessTime": "2018-10-06T07:00:44.058Z",
-      "changeTime": "2018-10-06T06:59:39.547Z",
+      "size": 582,
+      "prettySize": "582 B",
+      "modifiedTime": "2018-10-06T07:08:18.847Z",
+      "accessTime": "2018-10-06T07:08:18.868Z",
+      "changeTime": "2018-10-06T07:08:18.847Z",
       "birthTime": "2018-10-06T06:13:43.428Z",
       "root": "/",
       "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
@@ -2350,13 +2350,13 @@
       "blksize": 4096,
       "ino": 8621495364,
       "blocks": 8,
-      "atimeMs": 1538809244057.9597,
-      "mtimeMs": 1538809179546.9688,
-      "ctimeMs": 1538809179546.9688,
+      "atimeMs": 1538809698867.642,
+      "mtimeMs": 1538809698846.9597,
+      "ctimeMs": 1538809698846.9597,
       "birthtimeMs": 1538806423427.818,
-      "atime": "2018-10-06T07:00:44.058Z",
-      "mtime": "2018-10-06T06:59:39.547Z",
-      "ctime": "2018-10-06T06:59:39.547Z",
+      "atime": "2018-10-06T07:08:18.868Z",
+      "mtime": "2018-10-06T07:08:18.847Z",
+      "ctime": "2018-10-06T07:08:18.847Z",
       "birthtime": "2018-10-06T06:13:43.428Z"
     },
     "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15": {
@@ -2461,34 +2461,6 @@
         "contentDigest": "6fddcc062738759fdf558ef34a022b15",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "4c843aad-75d1-58c3-ac81-f1445a23a426": {
-      "id": "4c843aad-75d1-58c3-ac81-f1445a23a426",
-      "children": [],
-      "parent": "63669045-437b-5fce-a3d7-a55885968356",
-      "internal": {
-        "content": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
-        "type": "MarkdownRemark",
-        "contentDigest": "d3cf4a54a319230ced76d9150d069f46",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "LekoArts - Your theme creator!",
-        "client": "LekoArts",
-        "cover": "./lekoarts.jpg",
-        "date": "2017-10-28",
-        "service": "Theme",
-        "_PARENT": "63669045-437b-5fce-a3d7-a55885968356"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
-      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
-      "fields": {
-        "slug": "/leko-arts-your-theme-creator"
       }
     },
     "89288723-d616-56ac-802b-3e1f420d9e85": {
@@ -2840,26 +2812,32 @@
         "slug": "/calendar"
       }
     },
-    "SitePage /leko-arts-your-theme-creator": {
-      "jsonName": "leko-arts-your-theme-creator-75e",
-      "internalComponentName": "ComponentLekoArtsYourThemeCreator",
-      "path": "/leko-arts-your-theme-creator",
-      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/leko-arts-your-theme-creator"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
-      "id": "SitePage /leko-arts-your-theme-creator",
-      "parent": "SOURCE",
+    "4c843aad-75d1-58c3-ac81-f1445a23a426": {
+      "id": "4c843aad-75d1-58c3-ac81-f1445a23a426",
       "children": [],
+      "parent": "63669045-437b-5fce-a3d7-a55885968356",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "d92d513e90ba8a24fea4fb0508088629",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
+        "content": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
+        "type": "MarkdownRemark",
+        "contentDigest": "31889021ba6dcc141a6e43343882d6b6",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Progress",
+        "client": "Progress",
+        "cover": "./lekoarts.jpg",
+        "date": "2017-10-28",
+        "service": "See your progress!",
+        "_PARENT": "63669045-437b-5fce-a3d7-a55885968356"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/progress"
       }
     },
     "SitePage /scheduling": {
@@ -2924,6 +2902,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "e52001b9499a9ffca8217ba515a4efba",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /progress": {
+      "jsonName": "progress-4aa",
+      "internalComponentName": "ComponentProgress",
+      "path": "/progress",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/progress"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /progress",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7a4a3e35eca06a441d844f157282090d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3037,11 +3037,13 @@
     "nodes": {
       "4f8c5da8-2e31-5533-80b8-cb1fc517536e": [
         "/",
-        "/leko-arts-your-theme-creator"
+        "/leko-arts-your-theme-creator",
+        "/progress"
       ],
       "fa75032e-27b6-5e68-9fba-387eab2b80f0": [
         "/",
-        "/leko-arts-your-theme-creator"
+        "/leko-arts-your-theme-creator",
+        "/progress"
       ],
       "89288723-d616-56ac-802b-3e1f420d9e85": [
         "/",
@@ -3076,7 +3078,8 @@
         "/scheduling"
       ],
       "4c843aad-75d1-58c3-ac81-f1445a23a426": [
-        "/leko-arts-your-theme-creator"
+        "/leko-arts-your-theme-creator",
+        "/progress"
       ],
       "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": [
         "/smart-triangle-make-triangles-smart",
@@ -3101,19 +3104,20 @@
   "jsonDataPaths": {
     "smart-triangle-make-triangles-smart-cb8": "236/path---smart-triangle-make-triangles-smart-cb-8-d77-pcvfJWLL7nBu90PEarPvbnUPNDo",
     "chat-7ce": "596/path---chat-7-ce-d82-Npabmeq7yj11VKopMHamQ6uN2e4",
-    "leko-arts-your-theme-creator-75e": "802/path---leko-arts-your-theme-creator-75-e-4a1-vLac6URXpfNG15Zf8ElggJYxzj4",
+    "leko-arts-your-theme-creator-75e": "331/path---leko-arts-your-theme-creator-75-e-4a1-RV9h3n905aS3Gwpb3HzdyoJdmzM",
     "scheduling-fdb": "698/path---scheduling-fdb-25b-tu8FZMMuXJKlTTShashHG36WWYU",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "371/path---index-6a9-K4n5OsdyTLb8mRCOcL7AhDdTgWg",
+    "index": "271/path---index-6a9-o10lQMXMgTtT6Z21ttaETI2j4Ak",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
     "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
     "chat-with-us-5a0": "835/path---chat-with-us-5-a-0-949-WKdJNmjQdcVfV17P1MGJmGBCdXo",
     "check-out-our-events-45e": "476/path---check-out-our-events-45-e-baf-ozDVpDEwLrstsMkwn5kdBC1fig",
-    "calendar-5fa": "792/path---calendar-5-fa-73a-ypEoK2xXlIE6B1yH2XrlcodFg"
+    "calendar-5fa": "792/path---calendar-5-fa-73a-ypEoK2xXlIE6B1yH2XrlcodFg",
+    "progress-4aa": "644/path---progress-4-aa-2f7-eQWf0y055HjklOAxfRAl9NjKuBw"
   },
   "components": {
     "/Users/TonyFaieta/team-8/src/templates/project.jsx": {
