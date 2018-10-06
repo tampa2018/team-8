@@ -8,7 +8,36 @@ import Login from "./components/signin";
 import SignUp from "./SignUp/signupview";
 
 class App extends Component {
-  render() {
+  state = { loading: true, authenticated: false, user: null };
+
+  componentWillMount() {
+    app.auth().onAuthStateChanged(user => {
+      if (user) {
+        this.setState({
+          authenticated: true,
+          currentUser: user,
+          loading: false
+        });
+      } else {
+        this.setState({
+          authenticated: false,
+          currentUser: null,
+          loading: false
+        });
+      }
+    });
+  }
+
+  render(){
+    const { authenticated, loading } = this.state;
+
+    if (loading) {
+      return <p>Loading..</p>;
+    }
+
+
+
+  //render() {
     return (
       <div>
       <Router>
