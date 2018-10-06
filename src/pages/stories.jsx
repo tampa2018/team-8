@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './style/App.css';
-import  './child.js';
+import  './child';
 
 class Stories extends Component {
   constructor() {
