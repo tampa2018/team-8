@@ -2,13 +2,15 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { Header, Container, Layout } from 'components';
 import config from '../../config/website';
+import { Link } from 'gatsby';
 
 const About = () => (
   <Layout>
     <Helmet title={`About | ${config.siteTitle}`} />
-    <Header>About</Header>
+    <Header>About
+    </Header>
     <Container type="text">
-      <h1 style={{textAlign: 'center'}}>Two decades ago, Catalyst Miami emerged as a critical node in the local 
+      <h1 style={{textAlign: 'center'}}>Two decades ago, Catalyst Miami emerged as a critical node in the local
       network of nonprofit organizations.</h1>
       <p>
       <br/>

@@ -8,10 +8,10 @@
     "type": "git"
   },
   "dependencies": {
-    "firebase": "^5.5.3",
     "emotion": "^9.2.9",
     "emotion-server": "^9.2.9",
     "emotion-theming": "^9.2.9",
+    "firebase": "^5.5.3",
     "gatsby": "^2.0.0",
     "gatsby-image": "^2.0.5",
     "gatsby-plugin-catch-links": "^2.0.2",
@@ -36,6 +36,7 @@
     "polished": "^2.0.3",
     "prop-types": "^15.6.2",
     "react": "^16.5.1",
+    "react-big-calendar": "^0.20.1",
     "react-dom": "^16.5.1",
     "react-emotion": "^9.2.9",
     "react-helmet": "^5.2.0",
