@@ -25,11 +25,6 @@
         "path": "/LogIn/"
     },
     {
-        "componentChunkName": "component---src-pages-about-jsx",
-        "jsonName": "about-f34",
-        "path": "/about/"
-    },
-    {
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "calendar-5fa",
         "path": "/calendar"
@@ -43,6 +38,11 @@
         "componentChunkName": "component---src-pages-contact-jsx",
         "jsonName": "contact-26a",
         "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---src-pages-dash-jsx",
+        "jsonName": "dash-717",
+        "path": "/dash/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

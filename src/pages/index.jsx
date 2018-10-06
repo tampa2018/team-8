@@ -1,49 +1,29 @@
 import React from 'react';
-import { graphql } from 'gatsby';
-import PropTypes from 'prop-types';
-import { ProjectListing, Layout } from 'components';
+import Helmet from 'react-helmet';
+import { Header, Container, Layout } from 'components';
+import config from '../../config/website';
 
-const Index = ({
-  data: {
-    allMarkdownRemark: { edges: projectEdges },
-  },
-}) => (
+const About = () => (
   <Layout>
-    <ProjectListing projectEdges={projectEdges} />
+    <Helmet title={`About | ${config.siteTitle}`} />
+    <Header>About</Header>
+    <Container type="text">
+      <h1 style={{textAlign: 'center'}}>Two decades ago, Catalyst Miami emerged as a critical node in the local 
+      network of nonprofit organizations.</h1>
+      <p>
+      <br/>
+      Founded by Daniella Levine Cava as the Human Services Coalition, our defining role is to identify and launch innovative community building strategies.
+
+      Our Vision
+
+      A just and equitable society in which all communities thrive.
+
+      Our Mission
+
+      To identify and collectively solve issues adversely affecting low-wealth communities throughout Miami-Dade County.
+      </p>
+    </Container>
   </Layout>
 );
 
-export default Index;
-
-Index.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array.isRequired,
-    }),
-  }).isRequired,
-};
-
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            service
-            client
-            cover {
-              childImageSharp {
-                fluid(maxWidth: 850, quality: 90, traceSVG: { color: "#f3f3f3" }) {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+export default About;

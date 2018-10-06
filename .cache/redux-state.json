@@ -2162,20 +2162,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-<<<<<<< HEAD
-      "buildTime": "2018-10-06T08:49:37.084Z",
-=======
-      "buildTime": "2018-10-06T08:43:16.602Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+      "buildTime": "2018-10-06T09:24:51.430Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "ac696800218b2978327c583124746cc6",
-=======
-        "contentDigest": "74e5b07d4085ed776da520d0ccd0ff40",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+        "contentDigest": "20f600546ba68d2ed9c9fa7df2c4b81f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2185,11 +2177,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "6e9844c419f3bef64ada4bf9c0a708e6",
-=======
-        "contentDigest": "1929426d34b5be5d69d32efe8f3bf5e6",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+        "contentDigest": "6883d296be0299d4feec00750140e2b0",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2198,21 +2186,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects",
       "relativePath": "",
       "extension": "",
-<<<<<<< HEAD
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
+      "accessTime": "2018-10-06T09:24:56.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-10-06T07:24:22.497Z",
-      "accessTime": "2018-10-06T08:43:38.192Z",
-      "changeTime": "2018-10-06T07:24:22.497Z",
-      "birthTime": "2018-10-06T06:13:43.360Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content",
       "base": "projects",
@@ -2228,12 +2207,11 @@
       "blksize": 4096,
       "ino": 9990644,
       "blocks": 0,
-<<<<<<< HEAD
-      "atimeMs": 1538815782000,
+      "atimeMs": 1538817896000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
+      "atime": "2018-10-06T09:24:56.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2243,24 +2221,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3449d5bf19c0b6b092da33b3a327676b",
-=======
-      "atimeMs": 1538815418192.15,
-      "mtimeMs": 1538810662496.6956,
-      "ctimeMs": 1538810662496.6956,
-      "birthtimeMs": 1538806423359.5754,
-      "atime": "2018-10-06T08:43:38.192Z",
-      "mtime": "2018-10-06T07:24:22.497Z",
-      "ctime": "2018-10-06T07:24:22.497Z",
-      "birthtime": "2018-10-06T06:13:43.360Z"
-    },
-    "b5d0ee09-81f0-5b7d-b746-91728c1a62c6": {
-      "id": "b5d0ee09-81f0-5b7d-b746-91728c1a62c6",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "39e30c633dfd69fcfb386de77ab50ce1",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+        "contentDigest": "237ebdb15c15c59cccbae60a2c20524a",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2269,21 +2230,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
       "relativePath": "2017-10-25",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
+      "accessTime": "2018-10-06T09:24:56.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.227Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.227Z",
-      "birthTime": "2018-10-06T07:24:22.199Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-25",
@@ -2299,83 +2251,11 @@
       "blksize": 4096,
       "ino": 9990645,
       "blocks": 0,
-<<<<<<< HEAD
-      "atimeMs": 1538815782000,
+      "atimeMs": 1538817896000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "4dc936bf-24f7-5165-b256-a9dd7fb8da6f": {
-      "id": "4dc936bf-24f7-5165-b256-a9dd7fb8da6f",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "127ee640dc97925999f73710141b00f8",
-=======
-      "atimeMs": 1538815418195.885,
-      "mtimeMs": 1538810662227.316,
-      "ctimeMs": 1538810662227.316,
-      "birthtimeMs": 1538810662198.5452,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.227Z",
-      "ctime": "2018-10-06T07:24:22.227Z",
-      "birthtime": "2018-10-06T07:24:22.199Z"
-    },
-    "50c3a8ce-ded0-5dbf-b974-344c9918b004": {
-      "id": "50c3a8ce-ded0-5dbf-b974-344c9918b004",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9d9e7ebeb567a81f19192c88d4339d76",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
-        "type": "Directory",
-        "description": "Directory \"content/projects/2017-10-27\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
-      "relativePath": "2017-10-27",
-      "extension": "",
-<<<<<<< HEAD
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.314Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.314Z",
-      "birthTime": "2018-10-06T07:24:22.254Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
-      "base": "2017-10-27",
-      "ext": "",
-      "name": "2017-10-27",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990651,
-      "blocks": 0,
-<<<<<<< HEAD
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
+      "atime": "2018-10-06T09:24:56.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2385,24 +2265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f8980d320dd46eceec74480ee9913faa",
-=======
-      "atimeMs": 1538815418195.9482,
-      "mtimeMs": 1538810662314.2285,
-      "ctimeMs": 1538810662314.2285,
-      "birthtimeMs": 1538810662253.658,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.314Z",
-      "ctime": "2018-10-06T07:24:22.314Z",
-      "birthtime": "2018-10-06T07:24:22.254Z"
-    },
-    "628b0e43-9404-5ec3-9343-547722dc3b48": {
-      "id": "628b0e43-9404-5ec3-9343-547722dc3b48",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cf14709d25d92d8354dde6743f3a42f8",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+        "contentDigest": "00aefacb4ad2f871c8bc618d7b837d6c",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2411,21 +2274,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
       "relativePath": "2017-10-26",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
+      "accessTime": "2018-10-06T09:24:56.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.399Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.399Z",
-      "birthTime": "2018-10-06T07:24:22.357Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-26",
@@ -2441,12 +2295,55 @@
       "blksize": 4096,
       "ino": 9990648,
       "blocks": 0,
-<<<<<<< HEAD
-      "atimeMs": 1538815782000,
+      "atimeMs": 1538817896000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
+      "atime": "2018-10-06T09:24:56.000Z",
+      "mtime": "2018-10-06T07:39:56.000Z",
+      "ctime": "2018-10-06T07:39:56.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "4dc936bf-24f7-5165-b256-a9dd7fb8da6f": {
+      "id": "4dc936bf-24f7-5165-b256-a9dd7fb8da6f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e76f8dc1e95493fc20392c891ad019db",
+        "type": "Directory",
+        "description": "Directory \"content/projects/2017-10-27\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "relativePath": "2017-10-27",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-10-06T07:39:56.000Z",
+      "accessTime": "2018-10-06T09:24:56.000Z",
+      "changeTime": "2018-10-06T07:39:56.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "base": "2017-10-27",
+      "ext": "",
+      "name": "2017-10-27",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990651,
+      "blocks": 0,
+      "atimeMs": 1538817896000,
+      "mtimeMs": 1538811596000,
+      "ctimeMs": 1538811596000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T09:24:56.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2456,24 +2353,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "427b0afbdca142184bf5467389c53e8a",
-=======
-      "atimeMs": 1538815418195.9155,
-      "mtimeMs": 1538810662399.3474,
-      "ctimeMs": 1538810662399.3474,
-      "birthtimeMs": 1538810662356.9534,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.399Z",
-      "ctime": "2018-10-06T07:24:22.399Z",
-      "birthtime": "2018-10-06T07:24:22.357Z"
-    },
-    "61ca337a-32f2-5327-973b-dfeed7dc61cd": {
-      "id": "61ca337a-32f2-5327-973b-dfeed7dc61cd",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d37dc85e1305e907b2bbc89914140b1a",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
+        "contentDigest": "6a75b21f67bad9ed074cb4b185660159",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2482,21 +2362,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
       "relativePath": "2017-10-28",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
+      "accessTime": "2018-10-06T09:24:56.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.540Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.540Z",
-      "birthTime": "2018-10-06T07:24:22.497Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-28",
@@ -2512,166 +2383,11 @@
       "blksize": 4096,
       "ino": 9990654,
       "blocks": 0,
-<<<<<<< HEAD
-      "atimeMs": 1538815782000,
+      "atimeMs": 1538817896000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6": {
-      "id": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
-=======
-      "atimeMs": 1538815418195.9746,
-      "mtimeMs": 1538810662539.5308,
-      "ctimeMs": 1538810662539.5308,
-      "birthtimeMs": 1538810662496.6758,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.540Z",
-      "ctime": "2018-10-06T07:24:22.540Z",
-      "birthtime": "2018-10-06T07:24:22.497Z"
-    },
-    "2408300f-3a7d-598e-836a-7e30c22f3c27": {
-      "id": "2408300f-3a7d-598e-836a-7e30c22f3c27",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
-      "children": [
-        "0d2f6978-549e-5361-91dc-ac264bd9598d"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7d755f32d623ca863fe173efb87355e2",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-27/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
-      "relativePath": "2017-10-27/index.md",
-      "extension": "md",
-      "size": 829,
-      "prettySize": "829 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-27",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990652,
-      "blocks": 8,
-      "atimeMs": 1538813980000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "fe77565f-3757-5dfe-ab2f-206dfb3391f6": {
-      "id": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
-      "children": [
-        "c10a0c4d-bfad-526d-a1bf-12af974bf58a"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7a17476e9a03c801f15b22e6eb063b23",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-26/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
-      "relativePath": "2017-10-26/index.md",
-      "extension": "md",
-      "size": 834,
-      "prettySize": "834 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-26",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990650,
-      "blocks": 8,
-      "atimeMs": 1538813980000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "de621f8d-3ef0-5d6c-9699-30ef3029455f": {
-      "id": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
-      "children": [
-        "7eae1b6d-97a0-5353-a18e-20f48a39b82a"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c184a9008c773690c8eb86b43fc9d031",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-28/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
-      "relativePath": "2017-10-28/index.md",
-      "extension": "md",
-      "size": 582,
-      "prettySize": "582 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-28",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990655,
-      "blocks": 8,
-      "atimeMs": 1538813980000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T09:24:56.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2696,7 +2412,7 @@
       "size": 836,
       "prettySize": "836 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
       "root": "/",
@@ -2714,11 +2430,152 @@
       "blksize": 4096,
       "ino": 9990647,
       "blocks": 8,
-      "atimeMs": 1538813980000,
+      "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T08:49:42.000Z",
+      "mtime": "2018-10-06T07:39:56.000Z",
+      "ctime": "2018-10-06T07:39:56.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "de621f8d-3ef0-5d6c-9699-30ef3029455f": {
+      "id": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
+      "children": [
+        "7eae1b6d-97a0-5353-a18e-20f48a39b82a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c184a9008c773690c8eb86b43fc9d031",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-28/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 582,
+      "prettySize": "582 B",
+      "modifiedTime": "2018-10-06T07:39:56.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
+      "changeTime": "2018-10-06T07:39:56.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990655,
+      "blocks": 8,
+      "atimeMs": 1538815782000,
+      "mtimeMs": 1538811596000,
+      "ctimeMs": 1538811596000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T08:49:42.000Z",
+      "mtime": "2018-10-06T07:39:56.000Z",
+      "ctime": "2018-10-06T07:39:56.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "fe77565f-3757-5dfe-ab2f-206dfb3391f6": {
+      "id": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
+      "children": [
+        "c10a0c4d-bfad-526d-a1bf-12af974bf58a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7a17476e9a03c801f15b22e6eb063b23",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-26/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
+      "relativePath": "2017-10-26/index.md",
+      "extension": "md",
+      "size": 834,
+      "prettySize": "834 B",
+      "modifiedTime": "2018-10-06T07:39:56.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
+      "changeTime": "2018-10-06T07:39:56.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-26",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990650,
+      "blocks": 8,
+      "atimeMs": 1538815782000,
+      "mtimeMs": 1538811596000,
+      "ctimeMs": 1538811596000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T08:49:42.000Z",
+      "mtime": "2018-10-06T07:39:56.000Z",
+      "ctime": "2018-10-06T07:39:56.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6": {
+      "id": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+      "children": [
+        "0d2f6978-549e-5361-91dc-ac264bd9598d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7d755f32d623ca863fe173efb87355e2",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-27/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "relativePath": "2017-10-27/index.md",
+      "extension": "md",
+      "size": 829,
+      "prettySize": "829 B",
+      "modifiedTime": "2018-10-06T07:39:56.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
+      "changeTime": "2018-10-06T07:39:56.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990652,
+      "blocks": 8,
+      "atimeMs": 1538815782000,
+      "mtimeMs": 1538811596000,
+      "ctimeMs": 1538811596000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T08:49:42.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2743,7 +2600,7 @@
       "size": 209762,
       "prettySize": "210 kB",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
       "root": "/",
@@ -2761,11 +2618,11 @@
       "blksize": 4096,
       "ino": 9990646,
       "blocks": 416,
-      "atimeMs": 1538813980000,
+      "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T08:49:42.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -2800,7 +2657,7 @@
       "size": 292267,
       "prettySize": "292 kB",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
       "root": "/",
@@ -2818,69 +2675,41 @@
       "blksize": 4096,
       "ino": 9990649,
       "blocks": 576,
-      "atimeMs": 1538813980000,
+      "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T08:49:42.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
     },
-    "0d2f6978-549e-5361-91dc-ac264bd9598d": {
-      "id": "0d2f6978-549e-5361-91dc-ac264bd9598d",
+    "5da8479f-5ecd-50e1-8893-d640868a4eff": {
+      "id": "5da8479f-5ecd-50e1-8893-d640868a4eff",
       "children": [],
-      "parent": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+      "parent": "753a9e13-122d-5a79-9843-1613936c8bc3",
       "internal": {
         "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
         "type": "MarkdownRemark",
-        "contentDigest": "c6539a4a2a5dfdc46c29ae4c8b910e7d",
+        "contentDigest": "63b38c68cd5e26a17f17b2eb27160c3a",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Calendar",
-        "client": "Calendar",
-        "cover": "./smartTriangle.jpg",
-        "date": "2017-10-27",
-        "service": "Check out our events!",
-        "_PARENT": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6"
+        "title": "Scheduling",
+        "client": "Scheduling",
+        "cover": "./blobSphere.jpg",
+        "date": "2017-10-25",
+        "service": "Schedule your next session!",
+        "_PARENT": "753a9e13-122d-5a79-9843-1613936c8bc3"
       },
       "excerpt": "",
       "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
       "fields": {
-        "slug": "/calendar"
-      }
-    },
-    "c10a0c4d-bfad-526d-a1bf-12af974bf58a": {
-      "id": "c10a0c4d-bfad-526d-a1bf-12af974bf58a",
-      "children": [],
-      "parent": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
-      "internal": {
-        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "type": "MarkdownRemark",
-        "contentDigest": "21d9e683fbde962bdc7615258ba4683c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Chat with us!",
-        "client": "Chat",
-        "cover": "./cubeRound.jpg",
-        "date": "2017-10-26",
-        "service": "Talk to your coach or mentor!",
-        "_PARENT": "fe77565f-3757-5dfe-ab2f-206dfb3391f6"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/chat-with-us"
+        "slug": "/scheduling"
       }
     },
     "7eae1b6d-97a0-5353-a18e-20f48a39b82a": {
@@ -2911,32 +2740,60 @@
         "slug": "/progress"
       }
     },
-    "5da8479f-5ecd-50e1-8893-d640868a4eff": {
-      "id": "5da8479f-5ecd-50e1-8893-d640868a4eff",
+    "c10a0c4d-bfad-526d-a1bf-12af974bf58a": {
+      "id": "c10a0c4d-bfad-526d-a1bf-12af974bf58a",
       "children": [],
-      "parent": "753a9e13-122d-5a79-9843-1613936c8bc3",
+      "parent": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
       "internal": {
         "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
         "type": "MarkdownRemark",
-        "contentDigest": "63b38c68cd5e26a17f17b2eb27160c3a",
+        "contentDigest": "21d9e683fbde962bdc7615258ba4683c",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "Scheduling",
-        "client": "Scheduling",
-        "cover": "./blobSphere.jpg",
-        "date": "2017-10-25",
-        "service": "Schedule your next session!",
-        "_PARENT": "753a9e13-122d-5a79-9843-1613936c8bc3"
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./cubeRound.jpg",
+        "date": "2017-10-26",
+        "service": "Talk to your coach or mentor!",
+        "_PARENT": "fe77565f-3757-5dfe-ab2f-206dfb3391f6"
       },
       "excerpt": "",
       "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
       "fields": {
-        "slug": "/scheduling"
+        "slug": "/chat-with-us"
+      }
+    },
+    "0d2f6978-549e-5361-91dc-ac264bd9598d": {
+      "id": "0d2f6978-549e-5361-91dc-ac264bd9598d",
+      "children": [],
+      "parent": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+      "internal": {
+        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "type": "MarkdownRemark",
+        "contentDigest": "c6539a4a2a5dfdc46c29ae4c8b910e7d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Calendar",
+        "client": "Calendar",
+        "cover": "./smartTriangle.jpg",
+        "date": "2017-10-27",
+        "service": "Check out our events!",
+        "_PARENT": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/calendar"
       }
     },
     "893c58a4-6736-59df-bdfc-42c2e3e835e4": {
@@ -2969,7 +2826,7 @@
       "size": 404825,
       "prettySize": "405 kB",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
       "root": "/",
@@ -2987,11 +2844,11 @@
       "blksize": 4096,
       "ino": 9990653,
       "blocks": 792,
-      "atimeMs": 1538813980000,
+      "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T08:49:42.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -3026,7 +2883,7 @@
       "size": 472968,
       "prettySize": "473 kB",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:19:40.000Z",
+      "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
       "root": "/",
@@ -3044,11 +2901,11 @@
       "blksize": 4096,
       "ino": 9990656,
       "blocks": 928,
-      "atimeMs": 1538813980000,
+      "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
       "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:19:40.000Z",
+      "atime": "2018-10-06T08:49:42.000Z",
       "mtime": "2018-10-06T07:39:56.000Z",
       "ctime": "2018-10-06T07:39:56.000Z",
       "birthtime": "2018-10-06T07:39:56.000Z"
@@ -3063,46 +2920,24 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /calendar": {
-      "jsonName": "calendar-5fa",
-      "internalComponentName": "ComponentCalendar",
-      "path": "/calendar",
+    "SitePage /scheduling": {
+      "jsonName": "scheduling-fdb",
+      "internalComponentName": "ComponentScheduling",
+      "path": "/scheduling",
       "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/calendar"
+        "slug": "/scheduling"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "id": "SitePage /calendar",
+      "id": "SitePage /scheduling",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a6381fbfc40568fc75fcf9cac89ad1a0",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /chat-with-us": {
-      "jsonName": "chat-with-us-5a0",
-      "internalComponentName": "ComponentChatWithUs",
-      "path": "/chat-with-us",
-      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/chat-with-us"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "id": "SitePage /chat-with-us",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "efb5fb85d51dc2d3a3e3dfceca73ece2",
+        "contentDigest": "35fce9c84b45e07e316146dc230e0c74",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3129,24 +2964,46 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /scheduling": {
-      "jsonName": "scheduling-fdb",
-      "internalComponentName": "ComponentScheduling",
-      "path": "/scheduling",
+    "SitePage /chat-with-us": {
+      "jsonName": "chat-with-us-5a0",
+      "internalComponentName": "ComponentChatWithUs",
+      "path": "/chat-with-us",
       "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/scheduling"
+        "slug": "/chat-with-us"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "id": "SitePage /scheduling",
+      "id": "SitePage /chat-with-us",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "35fce9c84b45e07e316146dc230e0c74",
+        "contentDigest": "efb5fb85d51dc2d3a3e3dfceca73ece2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /calendar": {
+      "jsonName": "calendar-5fa",
+      "internalComponentName": "ComponentCalendar",
+      "path": "/calendar",
+      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/calendar"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "id": "SitePage /calendar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a6381fbfc40568fc75fcf9cac89ad1a0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3167,26 +3024,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "d51460b7d07130ec8391ba68fbaf2fb4",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx",
-      "componentChunkName": "component---src-pages-about-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "48c4fa57e3f420485715bf8b6fc22f64",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3251,26 +3088,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "364ff10dac07f089682bfd7abb75fa0f",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /LogIn/": {
       "jsonName": "log-in-313",
       "internalComponentName": "ComponentLogIn",
@@ -3310,6 +3127,46 @@
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "364ff10dac07f089682bfd7abb75fa0f",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dash/": {
+      "jsonName": "dash-717",
+      "internalComponentName": "ComponentDash",
+      "path": "/dash/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "componentChunkName": "component---src-pages-dash-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "id": "SitePage /dash/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d70ce703178d27959fc9061afcc3c4d9",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -3318,89 +3175,91 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "46c56b53-9a1a-5a92-85ba-df6af99b44a7": [],
-      "67e421b0-3016-54d7-bc52-cf37fffd7eb2": [],
-      "8f721d7a-f17d-5a4f-89d6-45fe771a1114": [],
-      "0d815e3b-9127-5240-bd9f-288f86bd243e": [],
-      "8fc38e94-45e9-5d09-b9d1-4765948e0f00": [],
-      "ca8259ae-e2f9-5215-a971-8e7bd83afa43": [],
-      "4c843aad-75d1-58c3-ac81-f1445a23a426": [],
-      "4f8c5da8-2e31-5533-80b8-cb1fc517536e": [],
-      "fa75032e-27b6-5e68-9fba-387eab2b80f0": [],
-      "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": [],
-      "89288723-d616-56ac-802b-3e1f420d9e85": [],
-      "79550403-fb51-5018-89de-5f4ce78f6098": [],
       "e95d6185-c444-5def-9926-8c91687b2d73": [
         "/",
-        "/progress"
+        "/progress",
+        "/i/",
+        "/dash/"
       ],
       "8d23f9c3-3114-5737-8445-0e3835524612": [
         "/",
-        "/progress"
+        "/progress",
+        "/i/",
+        "/dash/"
       ],
       "c194354d-2515-524e-8e4a-be84e7f6a59f": [
         "/",
-        "/calendar"
+        "/calendar",
+        "/i/",
+        "/dash/"
       ],
       "9d750198-15aa-5ba2-af89-1526690c4e56": [
         "/",
-        "/calendar"
+        "/calendar",
+        "/i/",
+        "/dash/"
       ],
       "8e3b8a36-8915-599e-9c1a-9858fa7cf5dc": [
         "/",
-        "/chat-with-us"
+        "/chat-with-us",
+        "/i/",
+        "/dash/"
       ],
       "893c58a4-6736-59df-bdfc-42c2e3e835e4": [
         "/",
-        "/chat-with-us"
+        "/chat-with-us",
+        "/i/",
+        "/dash/"
       ],
       "4c6a47fe-c7ee-564a-8779-fc67995e0e2b": [
         "/",
-        "/scheduling"
+        "/scheduling",
+        "/i/",
+        "/dash/"
       ],
       "767cb9a5-cc48-54ea-9006-36479356aa12": [
         "/",
+        "/scheduling",
+        "/i/",
+        "/dash/"
+      ],
+      "5da8479f-5ecd-50e1-8893-d640868a4eff": [
         "/scheduling"
-      ],
-      "0d2f6978-549e-5361-91dc-ac264bd9598d": [
-        "/calendar"
-      ],
-      "c10a0c4d-bfad-526d-a1bf-12af974bf58a": [
-        "/chat-with-us"
       ],
       "7eae1b6d-97a0-5353-a18e-20f48a39b82a": [
         "/progress"
       ],
-      "5da8479f-5ecd-50e1-8893-d640868a4eff": [
-        "/scheduling"
+      "c10a0c4d-bfad-526d-a1bf-12af974bf58a": [
+        "/chat-with-us"
+      ],
+      "0d2f6978-549e-5361-91dc-ac264bd9598d": [
+        "/calendar"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        "/"
+        "/",
+        "/i/",
+        "/dash/"
       ]
     }
   },
   "jsonDataPaths": {
-    "smart-triangle-make-triangles-smart-cb8": "236/path---smart-triangle-make-triangles-smart-cb-8-d77-pcvfJWLL7nBu90PEarPvbnUPNDo",
-    "chat-7ce": "596/path---chat-7-ce-d82-Npabmeq7yj11VKopMHamQ6uN2e4",
-    "leko-arts-your-theme-creator-75e": "331/path---leko-arts-your-theme-creator-75-e-4a1-RV9h3n905aS3Gwpb3HzdyoJdmzM",
-    "scheduling-fdb": "698/path---scheduling-fdb-25b-tu8FZMMuXJKlTTShashHG36WWYU",
-    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
-    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
-    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "271/path---index-6a9-o10lQMXMgTtT6Z21ttaETI2j4Ak",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
-    "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
     "chat-with-us-5a0": "835/path---chat-with-us-5-a-0-949-WKdJNmjQdcVfV17P1MGJmGBCdXo",
-    "check-out-our-events-45e": "476/path---check-out-our-events-45-e-baf-ozDVpDEwLrstsMkwn5kdBC1fig",
-    "calendar-5fa": "792/path---calendar-5-fa-73a-ypEoK2xXlIE6B1yH2XrlcodFg",
+    "scheduling-fdb": "698/path---scheduling-fdb-25b-tu8FZMMuXJKlTTShashHG36WWYU",
     "progress-4aa": "644/path---progress-4-aa-2f7-eQWf0y055HjklOAxfRAl9NjKuBw",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "calendar-5fa": "792/path---calendar-5-fa-73a-ypEoK2xXlIE6B1yH2XrlcodFg",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "app-946": "788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E",
+    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "firebase-535": "5/path---firebase-535-32e-NZuapzHg3X9TaN1iIixfv1W23E",
-    "log-in-313": "6/path---log-in-313-3a5-NZuapzHg3X9TaN1iIixfv1W23E"
+    "log-in-313": "6/path---log-in-313-3a5-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "271/path---index-6a9-o10lQMXMgTtT6Z21ttaETI2j4Ak",
+    "i-b7f": "519/path---i-b-7-f-1e3-o10lQMXMgTtT6Z21ttaETI2j4Ak",
+    "dash-717": "308/path---dash-717-78e-o10lQMXMgTtT6Z21ttaETI2j4Ak"
   },
   "components": {
     "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx": {
@@ -3415,10 +3274,6 @@
       "query": "",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx": {
-      "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx"
-    },
     "/Users/stephen/Development/Projects/team-8/src/pages/App.js": {
       "query": "",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/App.js"
@@ -3431,13 +3286,17 @@
       "query": "",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx": {
-      "query": "query IndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          service\n          client\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 850, quality: 90, traceSVG: {color: \"#f3f3f3\"}) {\n                ...GatsbyImageSharpFluid_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx"
-    },
     "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js": {
       "query": "",
       "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx": {
+      "query": "query IndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          service\n          client\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 850, quality: 90, traceSVG: {color: \"#f3f3f3\"}) {\n                ...GatsbyImageSharpFluid_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx"
     }
   },
   "staticQueryComponents": {}

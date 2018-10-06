@@ -33,7 +33,7 @@ class LogIn extends Component {
                     let newState = [];
                     for (let item in items) {
                         if (items[item].email == this.state.email && items[item].password == this.state.password) {
-                                alert("You're In")
+                                window.location.href = '/dash';
                                 gotin = 1;
                         }
                     }
