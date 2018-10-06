@@ -36,6 +36,10 @@ const About = () => (
       <br/>
       <br/>
       Our programs and initiatives endeavor to further our community building strategies, while strengthening partnerships and promoting collaboration across Miami-Dade County. We weave our organization’s core values throughout our work.
+      <br/>
+      <br/>
+      Please visit our website for more information about career planning, health, and other necessities: 
+      https://catalystmiami.org/
       </p>
     </Container>
   </Layout>
