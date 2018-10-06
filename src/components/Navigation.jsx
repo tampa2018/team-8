@@ -118,6 +118,13 @@ Log In
       >
         Contact
       </Link>
+      <Link
+        to="cal"
+        activeClassName={css`
+          ${active};
+        `}>Calendar
+      </Link>
+
     </Nav>
     <Name>
       <Link to="/">{config.siteTitle}</Link>

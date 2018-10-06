@@ -33,13 +33,6 @@ const InfoBlock = styled.div`
     ${props => props.theme.spacer.horizontal};
 `;
 
-const Top = styled.div`
-  font-size: 80%;
-  margin-bottom: 0.5rem;
-  position: relative;
-  text-transform: uppercase;
-`;
-
 const Bottom = styled.div`
   font-size: 125%;
 `;
@@ -54,15 +47,6 @@ const Project = ({ pageContext: { slug }, data: { markdownRemark: postNode } }) 
         <h1>{project.title}</h1>
         <InformationWrapper>
           <InfoBlock>
-            <Top>Client</Top>
-            <Bottom>{project.client}</Bottom>
-          </InfoBlock>
-          <InfoBlock>
-            <Top>Date</Top>
-            <Bottom>{project.date}</Bottom>
-          </InfoBlock>
-          <InfoBlock>
-            <Top>Service</Top>
             <Bottom>{project.service}</Bottom>
           </InfoBlock>
         </InformationWrapper>
