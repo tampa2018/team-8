@@ -6,7 +6,15 @@
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
 
 <!-- add the lines below -->
-
+<style>
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+</style>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -29,6 +37,8 @@
     <title>Groot's App</title>
 
 <script src="https://www.gstatic.com/firebasejs/5.5.3/firebase.js"></script>
+<script src="http://fb.me/react-0.8.0.js"></script>
+    <script src="http://fb.me/JSXTransformer-0.8.0.js"></script>
 <script>
   // Initialize Firebase
   var config = {
@@ -40,6 +50,16 @@
     messagingSenderId: "959126174970"
   };
   firebase.initializeApp(config);
+</script>
+<script>
+function myFunction() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
 </script>
 <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.1.0/email.min.js"></script>
 <script type="text/javascript">
