@@ -1,6 +1,6 @@
 ---
-client: "Scheduling"
-title: "Scheduling"
+client: "Schedule"
+title: "Appt"
 cover: "./blobSphere.jpg"
 date: "2017-10-25"
 service: "Schedule your next session!"

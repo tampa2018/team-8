@@ -87,7 +87,7 @@ const Navigation = () => (
   <Wrapper>
     <Nav>
       <Link
-        to="/about"
+        to="/"
         activeClassName={css`
           ${active};
         `}
@@ -101,6 +101,14 @@ ${active};
 `}
 >
 Sign Up
+</Link>
+<Link
+to="/LogIn"
+activeClassName={css`
+${active};
+`}
+>
+Log In
 </Link>
       <Link
         to="/contact"

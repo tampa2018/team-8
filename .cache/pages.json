@@ -20,9 +20,19 @@
         "path": "/App/"
     },
     {
-        "componentChunkName": "component---src-pages-about-jsx",
-        "jsonName": "about-f34",
-        "path": "/about/"
+        "componentChunkName": "component---src-pages-appt-js",
+        "jsonName": "appt-7f1",
+        "path": "/Appt/"
+    },
+    {
+        "componentChunkName": "component---src-pages-log-in-js",
+        "jsonName": "log-in-313",
+        "path": "/LogIn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "appt-c40",
+        "path": "/appt"
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
@@ -40,6 +50,11 @@
         "path": "/contact/"
     },
     {
+        "componentChunkName": "component---src-pages-dash-jsx",
+        "jsonName": "dash-717",
+        "path": "/dash/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
@@ -53,10 +68,5 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "progress-4aa",
         "path": "/progress"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "scheduling-fdb",
-        "path": "/scheduling"
     }
 ]
