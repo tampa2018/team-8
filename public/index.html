@@ -3,6 +3,12 @@
   <head>
     <meta charset="utf-8">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+
+<!-- add the lines below -->
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
     <!--
@@ -20,6 +26,20 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+
+<script src="https://www.gstatic.com/firebasejs/5.5.3/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA2TY67Q0NPnBaNEHv3-2_phC3I4n84uBk",
+    authDomain: "team-8-26f27.firebaseapp.com",
+    databaseURL: "https://team-8-26f27.firebaseio.com",
+    projectId: "team-8-26f27",
+    storageBucket: "team-8-26f27.appspot.com",
+    messagingSenderId: "959126174970"
+  };
+  firebase.initializeApp(config);
+</script>
   </head>
   <body>
     <noscript>
