@@ -55,7 +55,6 @@ class App extends Component {
       let items = snapshot.val();
       let newState = [];
       for (let item in items) {
-                alert(items[item].firstname);
         newState.push({
           id: item,
           firstname: items[item].firstname,

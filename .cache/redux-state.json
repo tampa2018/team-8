@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/.cache/dev-404-page.js",
+      "component": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/.cache/dev-404-page.js",
+      "componentPath": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31c46f3a0ffbcfec2519a5e016862e9a",
+        "contentDigest": "d5a59e647a8fabbd820d65f8ba968092",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "83c910df7433a4dfce1c00887450e317",
+        "contentDigest": "4c05b9a3574b1d8f9998c1dec380a182",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "450d365b2950dbfb363cb8a2ded4a4af",
+        "contentDigest": "f3426047ea5c18c992f79380614a11cd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2a0c77d344921a492bab5ab7a8ad8a85",
+        "contentDigest": "565253036aae8105c6563354ac3f789b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d3bcb79fdc7f9d70cbdf2e0ed1f8c80b",
+        "contentDigest": "8fad7d782bc30c7b07140f867840059f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "66e8bf2ad177155a21fa6366068323f1",
+        "contentDigest": "9ff631f0874acf928b02abb20ff57ead",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -272,13 +272,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2c35bc258f29dfa4cd984cbfd768378f",
+        "contentDigest": "c913a21901dd669a3950c22709d9f8fb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-emotion": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-emotion",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-emotion",
       "id": "Plugin gatsby-plugin-emotion",
       "name": "gatsby-plugin-emotion",
       "version": "2.0.5",
@@ -296,7 +296,7 @@
       "ssrAPIs": [
         "replaceRenderer"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-emotion",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-emotion",
       "packageJson": {
         "name": "gatsby-plugin-emotion",
         "description": "Gatsby plugin to add support for Emotion",
@@ -352,20 +352,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8e9d23d6513ce32d128f65d290eba9be",
+        "contentDigest": "a5ae908adc8adc571cd60e5920706b56",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "2.0.2",
       "pluginOptions": {
         "plugins": [],
         "name": "projects",
-        "path": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects"
+        "path": "/Users/TonyFaieta/team-8/content/projects"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -373,7 +373,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -463,20 +463,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5330f7e135ea9170ecd8ab66da649654",
+        "contentDigest": "5628e5d06397680a2a69e5c0b923b57a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "2.1.6",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-images",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "2.0.3",
@@ -494,10 +494,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-external-links",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
             "id": "Plugin gatsby-remark-external-links",
             "name": "gatsby-remark-external-links",
             "version": "0.0.4",
@@ -509,10 +509,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-external-links"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links"
           },
           {
-            "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
             "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
             "version": "2.0.5",
@@ -523,7 +523,7 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe"
           }
         ]
       },
@@ -533,7 +533,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -653,13 +653,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e6fb7beb4ea441af2349c858446affb5",
+        "contentDigest": "341f9906f5260d31264eee9805369fdc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-images",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "2.0.3",
@@ -677,7 +677,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -756,13 +756,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ae16fb9eddb6a36a5b020e0685d852f8",
+        "contentDigest": "8537e2724e4b9640c70861719519c656",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-external-links": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-external-links",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
       "id": "Plugin gatsby-remark-external-links",
       "name": "gatsby-remark-external-links",
       "version": "0.0.4",
@@ -774,7 +774,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-external-links",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
       "packageJson": {
         "name": "gatsby-remark-external-links",
         "description": "Automatically adds the target and rel attributes to external links in markdown.",
@@ -837,13 +837,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "693aeb8223fdcf5bde472c7bb75e731d",
+        "contentDigest": "4448f266c434db07e04a9a954653975f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
       "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
       "version": "2.0.5",
@@ -854,7 +854,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -926,13 +926,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3f16f671be521e8272bfa0fd2b4ef3e4",
+        "contentDigest": "9d2645819b6178c2708e041840b7a9dc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "2.0.6",
@@ -947,7 +947,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -995,13 +995,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7919654182ce72b0188e4fe71db698a5",
+        "contentDigest": "ceee3303803cd80e4c176c2411c20e75",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-nprogress": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-nprogress",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-nprogress",
       "id": "Plugin gatsby-plugin-nprogress",
       "name": "gatsby-plugin-nprogress",
       "version": "2.0.5",
@@ -1016,7 +1016,7 @@
         "onRouteUpdate"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-nprogress",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-nprogress",
       "packageJson": {
         "name": "gatsby-plugin-nprogress",
         "description": "Shows page loading indicator when loading page resources is delayed",
@@ -1067,13 +1067,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0bec44d941e4a7f7467bbeea4cb67587",
+        "contentDigest": "17a4aa5906eac03d08312fc9fa828ec9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.6",
@@ -1083,7 +1083,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -1188,13 +1188,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4c6343dc3b500ddf07b2df18427dfc5d",
+        "contentDigest": "6635b0fb855492d2b6d32b9cddc29370",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-sharp": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.3",
@@ -1208,7 +1208,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -1280,13 +1280,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1f01d7bf9e1b49d5fab436b2c61947de",
+        "contentDigest": "d6fa20afd3c26d3a2fe3747219f9ed99",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-lodash": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-lodash",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-lodash",
       "id": "Plugin gatsby-plugin-lodash",
       "name": "gatsby-plugin-lodash",
       "version": "3.0.1",
@@ -1299,7 +1299,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-lodash",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-lodash",
       "packageJson": {
         "name": "gatsby-plugin-lodash",
         "description": "Easy modular Lodash builds. Adds the Lodash webpack & Babel plugins to your Gatsby build",
@@ -1354,13 +1354,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8268c43ef136542bc9c063efadee682c",
+        "contentDigest": "7fb378981fd05194a2ef898938ea5335",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-typography": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-typography",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-typography",
       "id": "Plugin gatsby-plugin-typography",
       "name": "gatsby-plugin-typography",
       "version": "2.2.0",
@@ -1375,7 +1375,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
@@ -1432,13 +1432,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5795b38245c2aaa44058b578c5a70ca0",
+        "contentDigest": "7d43eb8e6d37f40c0257f5a5c58e898d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-catch-links",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "2.0.4",
@@ -1450,7 +1450,7 @@
         "onClientEntry"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -1501,13 +1501,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f6bf4c8c4cd10663dc9c26af29f49aff",
+        "contentDigest": "1b512b6d20e4e88b396cadf57e6913ef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sitemap": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-sitemap",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sitemap",
       "id": "Plugin gatsby-plugin-sitemap",
       "name": "gatsby-plugin-sitemap",
       "version": "2.0.1",
@@ -1521,7 +1521,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-sitemap",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sitemap",
       "packageJson": {
         "name": "gatsby-plugin-sitemap",
         "description": "Gatsby plugin that automatically creates a sitemap for your site",
@@ -1571,13 +1571,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "61f2d0fbec236a7c93f1363f6dac650b",
+        "contentDigest": "61456aaf40c1b2064a5631ab12c00edf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.4",
@@ -1599,7 +1599,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -1659,13 +1659,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2c4ea28904d2db4a90c81cd013fd758e",
+        "contentDigest": "5531125eadfce759ddee0a7df598e27c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "2.0.5",
@@ -1682,7 +1682,7 @@
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1744,13 +1744,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9a89640be35eef573a41e51e71745b62",
+        "contentDigest": "f52f08be085716f66703986da113bf36",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-netlify": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-netlify",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-netlify",
       "id": "Plugin gatsby-plugin-netlify",
       "name": "gatsby-plugin-netlify",
       "version": "2.0.1",
@@ -1763,7 +1763,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-netlify",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-netlify",
       "packageJson": {
         "name": "gatsby-plugin-netlify",
         "description": "A Gatsby plugin which generates a _headers file for netlify",
@@ -1828,13 +1828,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a950e7cde903a995d546c55eb5a21502",
+        "contentDigest": "c11f322fb3b58008c74998c2bb83bad0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8",
+      "resolve": "/Users/TonyFaieta/team-8",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "479df3477ef70d499bbc8395949d3d35",
@@ -1848,7 +1848,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8",
+      "pluginFilepath": "/Users/TonyFaieta/team-8",
       "packageJson": {
         "name": "gatsby-starter-portfolio-emma",
         "description": "Gatsby Starter Portfolio Emma",
@@ -2054,19 +2054,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "96162e035ae2db1ba8e1337b6148559d",
+        "contentDigest": "1ef8e60d3373177aa7cd83341750ee7b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages",
+        "path": "/Users/TonyFaieta/team-8/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -2074,7 +2074,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/bhumikajain/Documents/GitHub/team-8/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -2149,7 +2149,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "781f116ea1960f00a7ace0878a623e28",
+        "contentDigest": "95e259c3dd0fa1dccec616179e4fed76",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2162,82 +2162,82 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T11:26:29.594Z",
+      "buildTime": "2018-10-06T13:11:23.346Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b07f02e8831cef2ea09281ee72f47ecc",
+        "contentDigest": "fb1549fbee3b475f262d3e07b2514358",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "bc6fd2ea-1359-5c4c-a938-88683fa0d081": {
-      "id": "bc6fd2ea-1359-5c4c-a938-88683fa0d081",
+    "b747b850-876c-5510-bfe5-61dbd46de330": {
+      "id": "b747b850-876c-5510-bfe5-61dbd46de330",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "195f5512e7ec5eaffdf7912d902317fe",
+        "contentDigest": "694ccadcf0871c3bdbf125d782cf29a2",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects",
       "relativePath": "",
       "extension": "",
-      "size": 204,
-      "prettySize": "204 B",
-      "modifiedTime": "2018-10-06T08:29:39.000Z",
-      "accessTime": "2018-10-06T11:26:53.000Z",
-      "changeTime": "2018-10-06T08:29:39.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-10-06T07:24:22.497Z",
+      "accessTime": "2018-10-06T13:11:50.876Z",
+      "changeTime": "2018-10-06T07:24:22.497Z",
+      "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content",
+      "dir": "/Users/TonyFaieta/team-8/content",
       "base": "projects",
       "ext": "",
       "name": "projects",
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 6,
-      "uid": 503,
+      "nlink": 7,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405727,
+      "ino": 8621495353,
       "blocks": 0,
-      "atimeMs": 1538825213000,
-      "mtimeMs": 1538814579000,
-      "ctimeMs": 1538814579000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T11:26:53.000Z",
-      "mtime": "2018-10-06T08:29:39.000Z",
-      "ctime": "2018-10-06T08:29:39.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538831510875.6897,
+      "mtimeMs": 1538810662496.6956,
+      "ctimeMs": 1538810662496.6956,
+      "birthtimeMs": 1538806423359.5754,
+      "atime": "2018-10-06T13:11:50.876Z",
+      "mtime": "2018-10-06T07:24:22.497Z",
+      "ctime": "2018-10-06T07:24:22.497Z",
+      "birthtime": "2018-10-06T06:13:43.360Z"
     },
-    "ac5222d7-f1c4-5931-a147-8f68821425a4": {
-      "id": "ac5222d7-f1c4-5931-a147-8f68821425a4",
+    "b5d0ee09-81f0-5b7d-b746-91728c1a62c6": {
+      "id": "b5d0ee09-81f0-5b7d-b746-91728c1a62c6",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1dc1ce29a754be8653bd8787bf4f6d8b",
+        "contentDigest": "78fd47cd43f2d9798cf6857f1e07d6be",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
       "relativePath": "2017-10-25",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T10:28:59.000Z",
-      "accessTime": "2018-10-06T11:26:53.000Z",
-      "changeTime": "2018-10-06T10:28:59.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T13:03:21.328Z",
+      "accessTime": "2018-10-06T13:11:50.879Z",
+      "changeTime": "2018-10-06T13:03:21.328Z",
+      "birthTime": "2018-10-06T07:24:22.199Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-25",
       "ext": "",
       "name": "2017-10-25",
@@ -2245,43 +2245,43 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405728,
+      "ino": 8621592667,
       "blocks": 0,
-      "atimeMs": 1538825213000,
-      "mtimeMs": 1538821739000,
-      "ctimeMs": 1538821739000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T11:26:53.000Z",
-      "mtime": "2018-10-06T10:28:59.000Z",
-      "ctime": "2018-10-06T10:28:59.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538831510879.3667,
+      "mtimeMs": 1538831001328.4463,
+      "ctimeMs": 1538831001328.4463,
+      "birthtimeMs": 1538810662198.5452,
+      "atime": "2018-10-06T13:11:50.879Z",
+      "mtime": "2018-10-06T13:03:21.328Z",
+      "ctime": "2018-10-06T13:03:21.328Z",
+      "birthtime": "2018-10-06T07:24:22.199Z"
     },
-    "7b20bd78-44ee-536a-ac5a-4efd188b5f73": {
-      "id": "7b20bd78-44ee-536a-ac5a-4efd188b5f73",
+    "50c3a8ce-ded0-5dbf-b974-344c9918b004": {
+      "id": "50c3a8ce-ded0-5dbf-b974-344c9918b004",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3b5e57ee78514fbcfe56ce0c04d20847",
+        "contentDigest": "1dbaddd84abc95c43faf8b5f67444f69",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "relativePath": "2017-10-26",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T10:12:51.000Z",
-      "accessTime": "2018-10-06T11:26:53.000Z",
-      "changeTime": "2018-10-06T10:12:51.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T13:03:13.019Z",
+      "accessTime": "2018-10-06T13:11:50.879Z",
+      "changeTime": "2018-10-06T13:03:13.019Z",
+      "birthTime": "2018-10-06T07:24:22.254Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-26",
       "ext": "",
       "name": "2017-10-26",
@@ -2289,43 +2289,43 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405731,
+      "ino": 8621592670,
       "blocks": 0,
-      "atimeMs": 1538825213000,
-      "mtimeMs": 1538820771000,
-      "ctimeMs": 1538820771000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T11:26:53.000Z",
-      "mtime": "2018-10-06T10:12:51.000Z",
-      "ctime": "2018-10-06T10:12:51.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538831510879.3408,
+      "mtimeMs": 1538830993019.4368,
+      "ctimeMs": 1538830993019.4368,
+      "birthtimeMs": 1538810662253.658,
+      "atime": "2018-10-06T13:11:50.879Z",
+      "mtime": "2018-10-06T13:03:13.019Z",
+      "ctime": "2018-10-06T13:03:13.019Z",
+      "birthtime": "2018-10-06T07:24:22.254Z"
     },
-    "d736f55e-001d-5fe7-b6dd-40f3b1939aa7": {
-      "id": "d736f55e-001d-5fe7-b6dd-40f3b1939aa7",
+    "628b0e43-9404-5ec3-9343-547722dc3b48": {
+      "id": "628b0e43-9404-5ec3-9343-547722dc3b48",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "65261d38d480beca003d75882f9479e5",
+        "contentDigest": "b80fb995b15144840c774c52c3ca9d2a",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
       "relativePath": "2017-10-27",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T10:20:33.000Z",
-      "accessTime": "2018-10-06T11:26:53.000Z",
-      "changeTime": "2018-10-06T10:20:33.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T13:03:13.103Z",
+      "accessTime": "2018-10-06T13:11:50.879Z",
+      "changeTime": "2018-10-06T13:03:13.103Z",
+      "birthTime": "2018-10-06T07:24:22.357Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-27",
       "ext": "",
       "name": "2017-10-27",
@@ -2333,43 +2333,43 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405734,
+      "ino": 8621592673,
       "blocks": 0,
-      "atimeMs": 1538825213000,
-      "mtimeMs": 1538821233000,
-      "ctimeMs": 1538821233000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T11:26:53.000Z",
-      "mtime": "2018-10-06T10:20:33.000Z",
-      "ctime": "2018-10-06T10:20:33.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538831510879.4001,
+      "mtimeMs": 1538830993102.7407,
+      "ctimeMs": 1538830993102.7407,
+      "birthtimeMs": 1538810662356.9534,
+      "atime": "2018-10-06T13:11:50.879Z",
+      "mtime": "2018-10-06T13:03:13.103Z",
+      "ctime": "2018-10-06T13:03:13.103Z",
+      "birthtime": "2018-10-06T07:24:22.357Z"
     },
-    "7a848a6b-e7f5-52a1-931f-db16f46053bf": {
-      "id": "7a848a6b-e7f5-52a1-931f-db16f46053bf",
+    "61ca337a-32f2-5327-973b-dfeed7dc61cd": {
+      "id": "61ca337a-32f2-5327-973b-dfeed7dc61cd",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e0e24a6a6dfe8377f6bfa7899678e309",
+        "contentDigest": "ac5dc8f6ea6be8edf3eb91c9b7ec0166",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
       "relativePath": "2017-10-28",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T10:32:33.000Z",
-      "accessTime": "2018-10-06T11:26:53.000Z",
-      "changeTime": "2018-10-06T10:32:33.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T13:03:13.105Z",
+      "accessTime": "2018-10-06T13:11:50.879Z",
+      "changeTime": "2018-10-06T13:03:13.105Z",
+      "birthTime": "2018-10-06T07:24:22.497Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-28",
       "ext": "",
       "name": "2017-10-28",
@@ -2377,25 +2377,72 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405737,
+      "ino": 8621592676,
       "blocks": 0,
-      "atimeMs": 1538825213000,
-      "mtimeMs": 1538821953000,
-      "ctimeMs": 1538821953000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T11:26:53.000Z",
-      "mtime": "2018-10-06T10:32:33.000Z",
-      "ctime": "2018-10-06T10:32:33.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538831510879.425,
+      "mtimeMs": 1538830993105.4443,
+      "ctimeMs": 1538830993105.4443,
+      "birthtimeMs": 1538810662496.6758,
+      "atime": "2018-10-06T13:11:50.879Z",
+      "mtime": "2018-10-06T13:03:13.105Z",
+      "ctime": "2018-10-06T13:03:13.105Z",
+      "birthtime": "2018-10-06T07:24:22.497Z"
     },
-    "efd75f59-14df-59ab-bbb6-6aeb12597106": {
-      "id": "efd75f59-14df-59ab-bbb6-6aeb12597106",
+    "2408300f-3a7d-598e-836a-7e30c22f3c27": {
+      "id": "2408300f-3a7d-598e-836a-7e30c22f3c27",
       "children": [
-        "929fb67f-a6ee-51b0-8a2d-e771083141a4"
+        "46c56b53-9a1a-5a92-85ba-df6af99b44a7"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "80a91403ee154b56657672447b194d87",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-25/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/index.md",
+      "relativePath": "2017-10-25/index.md",
+      "extension": "md",
+      "size": 942,
+      "prettySize": "942 B",
+      "modifiedTime": "2018-10-06T13:08:15.536Z",
+      "accessTime": "2018-10-06T13:11:50.867Z",
+      "changeTime": "2018-10-06T13:08:15.536Z",
+      "birthTime": "2018-10-06T13:03:21.328Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-25",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621815159,
+      "blocks": 8,
+      "atimeMs": 1538831510867.3076,
+      "mtimeMs": 1538831295536.0002,
+      "ctimeMs": 1538831295536.0002,
+      "birthtimeMs": 1538831001328.4307,
+      "atime": "2018-10-06T13:11:50.867Z",
+      "mtime": "2018-10-06T13:08:15.536Z",
+      "ctime": "2018-10-06T13:08:15.536Z",
+      "birthtime": "2018-10-06T13:03:21.328Z"
+    },
+    "4de42e4d-8d0d-5910-901e-b36f91d5c3f0": {
+      "id": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
+      "children": [
+        "0d815e3b-9127-5240-bd9f-288f86bd243e"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2406,17 +2453,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/index.md",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
       "relativePath": "2017-10-26/index.md",
       "extension": "md",
       "size": 211,
       "prettySize": "211 B",
-      "modifiedTime": "2018-10-06T10:12:55.000Z",
-      "accessTime": "2018-10-06T10:13:41.000Z",
-      "changeTime": "2018-10-06T10:12:55.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
+      "modifiedTime": "2018-10-06T13:03:13.020Z",
+      "accessTime": "2018-10-06T13:03:13.679Z",
+      "changeTime": "2018-10-06T13:03:13.020Z",
+      "birthTime": "2018-10-06T13:03:13.019Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2424,241 +2471,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22405733,
+      "ino": 8621814851,
       "blocks": 8,
-      "atimeMs": 1538820821000,
-      "mtimeMs": 1538820775000,
-      "ctimeMs": 1538820775000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:13:41.000Z",
-      "mtime": "2018-10-06T10:12:55.000Z",
-      "ctime": "2018-10-06T10:12:55.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
+      "atimeMs": 1538830993679.1375,
+      "mtimeMs": 1538830993019.8186,
+      "ctimeMs": 1538830993019.8186,
+      "birthtimeMs": 1538830993019.423,
+      "atime": "2018-10-06T13:03:13.679Z",
+      "mtime": "2018-10-06T13:03:13.020Z",
+      "ctime": "2018-10-06T13:03:13.020Z",
+      "birthtime": "2018-10-06T13:03:13.019Z"
     },
-    "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d": {
-      "id": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d",
+    "167e35df-b2f1-578e-8f41-56f0203b9496": {
+      "id": "167e35df-b2f1-578e-8f41-56f0203b9496",
       "children": [
-        "9e553320-05d6-5f5f-a97f-e082b43bfd71"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "76115aa143911c48aff8113a07d8957b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-25/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
-      "relativePath": "2017-10-25/index.md",
-      "extension": "md",
-      "size": 223,
-      "prettySize": "223 B",
-      "modifiedTime": "2018-10-06T10:27:32.000Z",
-      "accessTime": "2018-10-06T10:27:32.000Z",
-      "changeTime": "2018-10-06T10:27:32.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-25",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405730,
-      "blocks": 8,
-      "atimeMs": 1538821652000,
-      "mtimeMs": 1538821652000,
-      "ctimeMs": 1538821652000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:27:32.000Z",
-      "mtime": "2018-10-06T10:27:32.000Z",
-      "ctime": "2018-10-06T10:27:32.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "5147df29-a832-59db-92fb-8d5ecd8a4157": {
-      "id": "5147df29-a832-59db-92fb-8d5ecd8a4157",
-      "children": [
-        "a3bb39a9-5917-544b-b19a-92cce285de54"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6588b0f71d774f42eb8fffa2f974a779",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-27/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/index.md",
-      "relativePath": "2017-10-27/index.md",
-      "extension": "md",
-      "size": 217,
-      "prettySize": "217 B",
-      "modifiedTime": "2018-10-06T10:00:05.000Z",
-      "accessTime": "2018-10-06T10:02:29.000Z",
-      "changeTime": "2018-10-06T10:00:05.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-27",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405735,
-      "blocks": 8,
-      "atimeMs": 1538820149000,
-      "mtimeMs": 1538820005000,
-      "ctimeMs": 1538820005000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:02:29.000Z",
-      "mtime": "2018-10-06T10:00:05.000Z",
-      "ctime": "2018-10-06T10:00:05.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "f37dea84-717f-54ca-a4e7-54b32e686c01": {
-      "id": "f37dea84-717f-54ca-a4e7-54b32e686c01",
-      "children": [
-        "aede7514-8fa2-5b89-8db0-1a95fe46ea8c"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4ad912acff86636c50206d8ebbfeb070",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-28/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/index.md",
-      "relativePath": "2017-10-28/index.md",
-      "extension": "md",
-      "size": 190,
-      "prettySize": "190 B",
-      "modifiedTime": "2018-10-06T10:32:47.000Z",
-      "accessTime": "2018-10-06T10:33:47.000Z",
-      "changeTime": "2018-10-06T10:32:47.000Z",
-      "birthTime": "2018-10-06T08:29:39.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-28",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22405738,
-      "blocks": 8,
-      "atimeMs": 1538822027000,
-      "mtimeMs": 1538821967000,
-      "ctimeMs": 1538821967000,
-      "birthtimeMs": 1538814579000,
-      "atime": "2018-10-06T10:33:47.000Z",
-      "mtime": "2018-10-06T10:32:47.000Z",
-      "ctime": "2018-10-06T10:32:47.000Z",
-      "birthtime": "2018-10-06T08:29:39.000Z"
-    },
-    "a1d54087-4c24-5236-9c77-4fa29ef1d313": {
-      "id": "a1d54087-4c24-5236-9c77-4fa29ef1d313",
-      "children": [
-        "1409203d-30cb-53c1-9eeb-6210936ad77b"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-27/calendaricon.jpeg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/calendaricon.jpeg",
-      "relativePath": "2017-10-27/calendaricon.jpeg",
-      "extension": "jpeg",
-      "size": 3788,
-      "prettySize": "3.79 kB",
-      "modifiedTime": "2018-10-06T10:19:21.000Z",
-      "accessTime": "2018-10-06T10:19:21.000Z",
-      "changeTime": "2018-10-06T10:20:33.000Z",
-      "birthTime": "2018-10-06T10:19:21.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27",
-      "base": "calendaricon.jpeg",
-      "ext": ".jpeg",
-      "name": "calendaricon",
-      "relativeDirectory": "2017-10-27",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22442222,
-      "blocks": 8,
-      "atimeMs": 1538821161000,
-      "mtimeMs": 1538821161000,
-      "ctimeMs": 1538821233000,
-      "birthtimeMs": 1538821161000,
-      "atime": "2018-10-06T10:19:21.000Z",
-      "mtime": "2018-10-06T10:19:21.000Z",
-      "ctime": "2018-10-06T10:20:33.000Z",
-      "birthtime": "2018-10-06T10:19:21.000Z"
-    },
-    "a3bb39a9-5917-544b-b19a-92cce285de54": {
-      "id": "a3bb39a9-5917-544b-b19a-92cce285de54",
-      "children": [],
-      "parent": "5147df29-a832-59db-92fb-8d5ecd8a4157",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "d4eb7eb3eeee8d73f432a54d7174babe",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Calendar",
-        "client": "Calendar",
-        "cover": "./calendaricon.jpeg",
-        "date": "2017-10-27",
-        "service": "Check out our weekly calendars to find out about local opportunities and events we offer! Hope to see you there!",
-        "_PARENT": "5147df29-a832-59db-92fb-8d5ecd8a4157"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-27/index.md",
-      "fields": {
-        "slug": "/calendar"
-      }
-    },
-    "e44868f6-430e-56bd-a592-a005bb922fc3": {
-      "id": "e44868f6-430e-56bd-a592-a005bb922fc3",
-      "children": [
-        "16ef5001-951b-5f95-8931-a1da3378fdd8"
+        "4a51f5a9-4683-5bd8-a95e-5a644b8a3fcf"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2669,17 +2500,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/chaticon.jpeg",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/chaticon.jpeg",
       "relativePath": "2017-10-26/chaticon.jpeg",
       "extension": "jpeg",
       "size": 3869,
       "prettySize": "3.87 kB",
-      "modifiedTime": "2018-10-06T10:12:40.000Z",
-      "accessTime": "2018-10-06T10:12:52.000Z",
-      "changeTime": "2018-10-06T10:12:51.000Z",
-      "birthTime": "2018-10-06T10:12:40.000Z",
+      "modifiedTime": "2018-10-06T13:03:13.018Z",
+      "accessTime": "2018-10-06T13:03:14.420Z",
+      "changeTime": "2018-10-06T13:03:13.018Z",
+      "birthTime": "2018-10-06T13:03:13.018Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "base": "chaticon.jpeg",
       "ext": ".jpeg",
       "name": "chaticon",
@@ -2687,73 +2518,72 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22441591,
+      "ino": 8621814850,
       "blocks": 8,
-      "atimeMs": 1538820772000,
-      "mtimeMs": 1538820760000,
-      "ctimeMs": 1538820771000,
-      "birthtimeMs": 1538820760000,
-      "atime": "2018-10-06T10:12:52.000Z",
-      "mtime": "2018-10-06T10:12:40.000Z",
-      "ctime": "2018-10-06T10:12:51.000Z",
-      "birthtime": "2018-10-06T10:12:40.000Z"
+      "atimeMs": 1538830994419.724,
+      "mtimeMs": 1538830993018.0208,
+      "ctimeMs": 1538830993018.0208,
+      "birthtimeMs": 1538830993017.8906,
+      "atime": "2018-10-06T13:03:14.420Z",
+      "mtime": "2018-10-06T13:03:13.018Z",
+      "ctime": "2018-10-06T13:03:13.018Z",
+      "birthtime": "2018-10-06T13:03:13.018Z"
     },
-    "16ef5001-951b-5f95-8931-a1da3378fdd8": {
-      "id": "16ef5001-951b-5f95-8931-a1da3378fdd8",
-      "children": [],
-      "parent": "e44868f6-430e-56bd-a592-a005bb922fc3",
-      "internal": {
-        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "929fb67f-a6ee-51b0-8a2d-e771083141a4": {
-      "id": "929fb67f-a6ee-51b0-8a2d-e771083141a4",
-      "children": [],
-      "parent": "efd75f59-14df-59ab-bbb6-6aeb12597106",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "4ffa8484884d39a2023b94224e2f4cef",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Chat with us!",
-        "client": "Chat",
-        "cover": "./chaticon.jpeg",
-        "date": "2017-10-26",
-        "service": "Do you want your questions answered now? Chat with our coaches and get the most out of your cat4u experience!",
-        "_PARENT": "efd75f59-14df-59ab-bbb6-6aeb12597106"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/chat-with-us"
-      }
-    },
-    "1409203d-30cb-53c1-9eeb-6210936ad77b": {
-      "id": "1409203d-30cb-53c1-9eeb-6210936ad77b",
-      "children": [],
-      "parent": "a1d54087-4c24-5236-9c77-4fa29ef1d313",
-      "internal": {
-        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "480c4c27-1b3f-5c0a-a56d-ada40a44752d": {
-      "id": "480c4c27-1b3f-5c0a-a56d-ada40a44752d",
+    "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15": {
+      "id": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15",
       "children": [
-        "b6a7e6f1-b401-5178-a1e8-22070d0b8cda"
+        "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6588b0f71d774f42eb8fffa2f974a779",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-27/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/index.md",
+      "relativePath": "2017-10-27/index.md",
+      "extension": "md",
+      "size": 217,
+      "prettySize": "217 B",
+      "modifiedTime": "2018-10-06T13:03:13.103Z",
+      "accessTime": "2018-10-06T13:03:13.854Z",
+      "changeTime": "2018-10-06T13:03:13.103Z",
+      "birthTime": "2018-10-06T13:03:13.103Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621814853,
+      "blocks": 8,
+      "atimeMs": 1538830993853.836,
+      "mtimeMs": 1538830993102.8386,
+      "ctimeMs": 1538830993102.8386,
+      "birthtimeMs": 1538830993102.7246,
+      "atime": "2018-10-06T13:03:13.854Z",
+      "mtime": "2018-10-06T13:03:13.103Z",
+      "ctime": "2018-10-06T13:03:13.103Z",
+      "birthtime": "2018-10-06T13:03:13.103Z"
+    },
+    "ca50d3cf-d128-52d0-bd11-4d929b627223": {
+      "id": "ca50d3cf-d128-52d0-bd11-4d929b627223",
+      "children": [
+        "38514413-9b1c-5fbe-afcf-11bc55702237"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2764,17 +2594,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/scheduleicon.jpg",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/scheduleicon.jpg",
       "relativePath": "2017-10-25/scheduleicon.jpg",
       "extension": "jpg",
       "size": 3170,
       "prettySize": "3.17 kB",
-      "modifiedTime": "2018-10-06T10:28:28.000Z",
-      "accessTime": "2018-10-06T10:29:08.000Z",
-      "changeTime": "2018-10-06T10:28:59.000Z",
-      "birthTime": "2018-10-06T10:28:28.000Z",
+      "modifiedTime": "2018-10-06T13:03:13.017Z",
+      "accessTime": "2018-10-06T13:03:13.853Z",
+      "changeTime": "2018-10-06T13:03:13.017Z",
+      "birthTime": "2018-10-06T13:03:13.016Z",
       "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
       "base": "scheduleicon.jpg",
       "ext": ".jpg",
       "name": "scheduleicon",
@@ -2782,29 +2612,210 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22443079,
+      "ino": 8621814849,
       "blocks": 8,
-      "atimeMs": 1538821748000,
-      "mtimeMs": 1538821708000,
-      "ctimeMs": 1538821739000,
-      "birthtimeMs": 1538821708000,
-      "atime": "2018-10-06T10:29:08.000Z",
-      "mtime": "2018-10-06T10:28:28.000Z",
-      "ctime": "2018-10-06T10:28:59.000Z",
-      "birthtime": "2018-10-06T10:28:28.000Z"
+      "atimeMs": 1538830993852.7,
+      "mtimeMs": 1538830993016.5288,
+      "ctimeMs": 1538830993016.5288,
+      "birthtimeMs": 1538830993016.4045,
+      "atime": "2018-10-06T13:03:13.853Z",
+      "mtime": "2018-10-06T13:03:13.017Z",
+      "ctime": "2018-10-06T13:03:13.017Z",
+      "birthtime": "2018-10-06T13:03:13.016Z"
     },
-    "9e553320-05d6-5f5f-a97f-e082b43bfd71": {
-      "id": "9e553320-05d6-5f5f-a97f-e082b43bfd71",
-      "children": [],
-      "parent": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d",
+    "a9b42645-b716-511b-9cbc-7f2df1ce0f37": {
+      "id": "a9b42645-b716-511b-9cbc-7f2df1ce0f37",
+      "children": [
+        "d726c402-636d-56e7-8130-f8e5bff3c0db"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "",
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-27/calendaricon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/calendaricon.jpeg",
+      "relativePath": "2017-10-27/calendaricon.jpeg",
+      "extension": "jpeg",
+      "size": 3788,
+      "prettySize": "3.79 kB",
+      "modifiedTime": "2018-10-06T13:03:13.063Z",
+      "accessTime": "2018-10-06T13:03:14.907Z",
+      "changeTime": "2018-10-06T13:03:13.063Z",
+      "birthTime": "2018-10-06T13:03:13.062Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
+      "base": "calendaricon.jpeg",
+      "ext": ".jpeg",
+      "name": "calendaricon",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621814852,
+      "blocks": 8,
+      "atimeMs": 1538830994906.9922,
+      "mtimeMs": 1538830993063.265,
+      "ctimeMs": 1538830993063.265,
+      "birthtimeMs": 1538830993062.0222,
+      "atime": "2018-10-06T13:03:14.907Z",
+      "mtime": "2018-10-06T13:03:13.063Z",
+      "ctime": "2018-10-06T13:03:13.063Z",
+      "birthtime": "2018-10-06T13:03:13.062Z"
+    },
+    "63669045-437b-5fce-a3d7-a55885968356": {
+      "id": "63669045-437b-5fce-a3d7-a55885968356",
+      "children": [
+        "4c843aad-75d1-58c3-ac81-f1445a23a426"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4ad912acff86636c50206d8ebbfeb070",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-28/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 190,
+      "prettySize": "190 B",
+      "modifiedTime": "2018-10-06T13:03:13.104Z",
+      "accessTime": "2018-10-06T13:03:13.861Z",
+      "changeTime": "2018-10-06T13:03:13.104Z",
+      "birthTime": "2018-10-06T13:03:13.104Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621814854,
+      "blocks": 8,
+      "atimeMs": 1538830993860.504,
+      "mtimeMs": 1538830993104.4136,
+      "ctimeMs": 1538830993104.4136,
+      "birthtimeMs": 1538830993104.3013,
+      "atime": "2018-10-06T13:03:13.861Z",
+      "mtime": "2018-10-06T13:03:13.104Z",
+      "ctime": "2018-10-06T13:03:13.104Z",
+      "birthtime": "2018-10-06T13:03:13.104Z"
+    },
+    "4a51f5a9-4683-5bd8-a95e-5a644b8a3fcf": {
+      "id": "4a51f5a9-4683-5bd8-a95e-5a644b8a3fcf",
+      "children": [],
+      "parent": "167e35df-b2f1-578e-8f41-56f0203b9496",
+      "internal": {
+        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "38514413-9b1c-5fbe-afcf-11bc55702237": {
+      "id": "38514413-9b1c-5fbe-afcf-11bc55702237",
+      "children": [],
+      "parent": "ca50d3cf-d128-52d0-bd11-4d929b627223",
+      "internal": {
+        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "d726c402-636d-56e7-8130-f8e5bff3c0db": {
+      "id": "d726c402-636d-56e7-8130-f8e5bff3c0db",
+      "children": [],
+      "parent": "a9b42645-b716-511b-9cbc-7f2df1ce0f37",
+      "internal": {
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "4f95ab29-0ebe-5d97-9c84-53cb0e4c166d": {
+      "id": "4f95ab29-0ebe-5d97-9c84-53cb0e4c166d",
+      "children": [
+        "9bdff976-58c6-57a2-826c-962d884a4a54"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-28/progressicon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/progressicon.jpeg",
+      "relativePath": "2017-10-28/progressicon.jpeg",
+      "extension": "jpeg",
+      "size": 4789,
+      "prettySize": "4.79 kB",
+      "modifiedTime": "2018-10-06T13:03:13.106Z",
+      "accessTime": "2018-10-06T13:03:14.574Z",
+      "changeTime": "2018-10-06T13:03:13.106Z",
+      "birthTime": "2018-10-06T13:03:13.105Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
+      "base": "progressicon.jpeg",
+      "ext": ".jpeg",
+      "name": "progressicon",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621814855,
+      "blocks": 16,
+      "atimeMs": 1538830994574.184,
+      "mtimeMs": 1538830993105.573,
+      "ctimeMs": 1538830993105.573,
+      "birthtimeMs": 1538830993105.4294,
+      "atime": "2018-10-06T13:03:14.574Z",
+      "mtime": "2018-10-06T13:03:13.106Z",
+      "ctime": "2018-10-06T13:03:13.106Z",
+      "birthtime": "2018-10-06T13:03:13.105Z"
+    },
+    "9bdff976-58c6-57a2-826c-962d884a4a54": {
+      "id": "9bdff976-58c6-57a2-826c-962d884a4a54",
+      "children": [],
+      "parent": "4f95ab29-0ebe-5d97-9c84-53cb0e4c166d",
+      "internal": {
+        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "46c56b53-9a1a-5a92-85ba-df6af99b44a7": {
+      "id": "46c56b53-9a1a-5a92-85ba-df6af99b44a7",
+      "children": [],
+      "parent": "2408300f-3a7d-598e-836a-7e30c22f3c27",
+      "internal": {
+        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n>>>>>>> master\n",
         "type": "MarkdownRemark",
-        "contentDigest": "c8dc77d2bab5b3e66db3764a78fe776a",
+        "contentDigest": "382f573ce02879a7749f7bf8025882ec",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2816,90 +2827,79 @@
         "cover": "./scheduleicon.jpg",
         "date": "2017-10-25",
         "service": "Schedule your next session with us. Continued commitment is the key to success! And we would love to see you again!",
-        "_PARENT": "68b8d1d4-a8af-5ab9-8fe1-56b53be2961d"
+        "_PARENT": "2408300f-3a7d-598e-836a-7e30c22f3c27"
       },
       "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-25/index.md",
+      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n>>>>>>> master\n",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/index.md",
       "fields": {
         "slug": "/scheduling"
       }
     },
-    "b6a7e6f1-b401-5178-a1e8-22070d0b8cda": {
-      "id": "b6a7e6f1-b401-5178-a1e8-22070d0b8cda",
+    "0d815e3b-9127-5240-bd9f-288f86bd243e": {
+      "id": "0d815e3b-9127-5240-bd9f-288f86bd243e",
       "children": [],
-      "parent": "480c4c27-1b3f-5c0a-a56d-ada40a44752d",
-      "internal": {
-        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "00930ef8-d672-5fb7-bc27-b5dddc9c9146": {
-      "id": "00930ef8-d672-5fb7-bc27-b5dddc9c9146",
-      "children": [
-        "ebf027bb-da80-58a3-a2b6-e62de0e6645a"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-28/progressicon.jpeg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/progressicon.jpeg",
-      "relativePath": "2017-10-28/progressicon.jpeg",
-      "extension": "jpeg",
-      "size": 4789,
-      "prettySize": "4.79 kB",
-      "modifiedTime": "2018-10-06T10:32:03.000Z",
-      "accessTime": "2018-10-06T10:32:03.000Z",
-      "changeTime": "2018-10-06T10:32:26.000Z",
-      "birthTime": "2018-10-06T10:32:03.000Z",
-      "root": "/",
-      "dir": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28",
-      "base": "progressicon.jpeg",
-      "ext": ".jpeg",
-      "name": "progressicon",
-      "relativeDirectory": "2017-10-28",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 22443365,
-      "blocks": 16,
-      "atimeMs": 1538821923000,
-      "mtimeMs": 1538821923000,
-      "ctimeMs": 1538821946000,
-      "birthtimeMs": 1538821923000,
-      "atime": "2018-10-06T10:32:03.000Z",
-      "mtime": "2018-10-06T10:32:03.000Z",
-      "ctime": "2018-10-06T10:32:26.000Z",
-      "birthtime": "2018-10-06T10:32:03.000Z"
-    },
-    "ebf027bb-da80-58a3-a2b6-e62de0e6645a": {
-      "id": "ebf027bb-da80-58a3-a2b6-e62de0e6645a",
-      "children": [],
-      "parent": "00930ef8-d672-5fb7-bc27-b5dddc9c9146",
-      "internal": {
-        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "aede7514-8fa2-5b89-8db0-1a95fe46ea8c": {
-      "id": "aede7514-8fa2-5b89-8db0-1a95fe46ea8c",
-      "children": [],
-      "parent": "f37dea84-717f-54ca-a4e7-54b32e686c01",
+      "parent": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
       "internal": {
         "content": "",
         "type": "MarkdownRemark",
-        "contentDigest": "e0bd45de692df49c075fabc7b74d6873",
+        "contentDigest": "d294fe4075448206c2f1bdc3cddac39b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./chaticon.jpeg",
+        "date": "2017-10-26",
+        "service": "Do you want your questions answered now? Chat with our coaches and get the most out of your cat4u experience!",
+        "_PARENT": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/chat-with-us"
+      }
+    },
+    "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": {
+      "id": "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c",
+      "children": [],
+      "parent": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "f7a000e2de4aa0119407675901d56273",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Calendar",
+        "client": "Calendar",
+        "cover": "./calendaricon.jpeg",
+        "date": "2017-10-27",
+        "service": "Check out our weekly calendars to find out about local opportunities and events we offer! Hope to see you there!",
+        "_PARENT": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/calendar"
+      }
+    },
+    "4c843aad-75d1-58c3-ac81-f1445a23a426": {
+      "id": "4c843aad-75d1-58c3-ac81-f1445a23a426",
+      "children": [],
+      "parent": "63669045-437b-5fce-a3d7-a55885968356",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "4b2c6c4dce1794c164206e583e9d25eb",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2911,33 +2911,33 @@
         "cover": "./progressicon.jpeg",
         "date": "2017-10-28",
         "service": "Celebrate your accomplishments by tracking your progress. Setting goals is important!",
-        "_PARENT": "f37dea84-717f-54ca-a4e7-54b32e686c01"
+        "_PARENT": "63669045-437b-5fce-a3d7-a55885968356"
       },
       "excerpt": "",
       "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/bhumikajain/Documents/GitHub/team-8/content/projects/2017-10-28/index.md",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
       "fields": {
         "slug": "/progress"
       }
     },
-    "SitePage /calendar": {
-      "jsonName": "calendar-5fa",
-      "internalComponentName": "ComponentCalendar",
-      "path": "/calendar",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+    "SitePage /scheduling": {
+      "jsonName": "scheduling-fdb",
+      "internalComponentName": "ComponentScheduling",
+      "path": "/scheduling",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/calendar"
+        "slug": "/scheduling"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "id": "SitePage /calendar",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /scheduling",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e34723682682b340ed73c8f2bfb739c0",
+        "contentDigest": "fe384662c8b144aff36eba0ea75294bc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2946,42 +2946,42 @@
       "jsonName": "chat-with-us-5a0",
       "internalComponentName": "ComponentChatWithUs",
       "path": "/chat-with-us",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
         "slug": "/chat-with-us"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "id": "SitePage /chat-with-us",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ce0fd0b15fe43338bc37d662bd4952df",
+        "contentDigest": "19237c3cbbba24601f6b227116412558",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /scheduling": {
-      "jsonName": "scheduling-fdb",
-      "internalComponentName": "ComponentScheduling",
-      "path": "/scheduling",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+    "SitePage /calendar": {
+      "jsonName": "calendar-5fa",
+      "internalComponentName": "ComponentCalendar",
+      "path": "/calendar",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/scheduling"
+        "slug": "/calendar"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
-      "id": "SitePage /scheduling",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /calendar",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "79c06cdd0bc859f6ae365d3c7dba3376",
+        "contentDigest": "e52001b9499a9ffca8217ba515a4efba",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2990,20 +2990,20 @@
       "jsonName": "progress-4aa",
       "internalComponentName": "ComponentProgress",
       "path": "/progress",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
         "slug": "/progress"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "id": "SitePage /progress",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1cb9e62702019fb20d22f8885767e217",
+        "contentDigest": "7a4a3e35eca06a441d844f157282090d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3012,18 +3012,18 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "895450e14da453d81b40faf158fa9da5",
+        "contentDigest": "42214afe51af3f430680c3da6275c66f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3032,18 +3032,18 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/about.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/about.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/about.jsx",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e4883edbbe872f45f145fc2d8536f481",
+        "contentDigest": "15a3979f5fd818e7487da1f8cd296ef2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3052,18 +3052,38 @@
       "jsonName": "app-946",
       "internalComponentName": "ComponentApp",
       "path": "/App/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/App.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/App.js",
       "componentChunkName": "component---src-pages-app-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/App.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/App.js",
       "id": "SitePage /App/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7fbd9f4ce0d79fad2c4b6ebd67d0cad8",
+        "contentDigest": "1aea23d2fa5b30b988fbb778cc4f3af5",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Appt/": {
+      "jsonName": "appt-7f1",
+      "internalComponentName": "ComponentAppt",
+      "path": "/Appt/",
+      "component": "/Users/TonyFaieta/team-8/src/pages/Appt.js",
+      "componentChunkName": "component---src-pages-appt-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/Appt.js",
+      "id": "SitePage /Appt/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d923de0dd151e3f1ef5cb0a6db9e2133",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3072,18 +3092,38 @@
       "jsonName": "contact-26a",
       "internalComponentName": "ComponentContact",
       "path": "/contact/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/contact.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/contact.jsx",
       "componentChunkName": "component---src-pages-contact-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/contact.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/contact.jsx",
       "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a9b8e96492749b882818992d5968f367",
+        "contentDigest": "41bc61e6515a954315d8f4119fe5ed46",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dash/": {
+      "jsonName": "dash-717",
+      "internalComponentName": "ComponentDash",
+      "path": "/dash/",
+      "component": "/Users/TonyFaieta/team-8/src/pages/dash.jsx",
+      "componentChunkName": "component---src-pages-dash-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/dash.jsx",
+      "id": "SitePage /dash/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c7ddc0b44b7a268929566eab1f1d2037",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3092,18 +3132,18 @@
       "jsonName": "firebase-535",
       "internalComponentName": "ComponentFirebase",
       "path": "/firebase/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/firebase.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/firebase.js",
       "componentChunkName": "component---src-pages-firebase-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/firebase.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/firebase.js",
       "id": "SitePage /firebase/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f4e882c2dd11580277bd08dae95058af",
+        "contentDigest": "a02aff42067bef7f159f24f4772f820b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3112,18 +3152,38 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/index.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/index.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4ee897e5bcfcd7eceace8a78185f808",
+        "contentDigest": "6c858810a77ec596d63419e19f16bd36",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /LogIn/": {
+      "jsonName": "log-in-313",
+      "internalComponentName": "ComponentLogIn",
+      "path": "/LogIn/",
+      "component": "/Users/TonyFaieta/team-8/src/pages/LogIn.js",
+      "componentChunkName": "component---src-pages-log-in-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/LogIn.js",
+      "id": "SitePage /LogIn/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d1cf637f9bada07e0e35f8c2089b501b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3132,18 +3192,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fba36c94e9846ff8e3fba0ca0a6e3e35",
+        "contentDigest": "c68f2d66d45e0bec846f23eb3a86bf2f",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -3155,161 +3215,118 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "46c56b53-9a1a-5a92-85ba-df6af99b44a7": [],
-      "67e421b0-3016-54d7-bc52-cf37fffd7eb2": [],
-      "8f721d7a-f17d-5a4f-89d6-45fe771a1114": [],
-      "0d815e3b-9127-5240-bd9f-288f86bd243e": [],
-      "8fc38e94-45e9-5d09-b9d1-4765948e0f00": [],
-      "ca8259ae-e2f9-5215-a971-8e7bd83afa43": [],
-      "4c843aad-75d1-58c3-ac81-f1445a23a426": [],
-      "4f8c5da8-2e31-5533-80b8-cb1fc517536e": [],
-      "fa75032e-27b6-5e68-9fba-387eab2b80f0": [],
-      "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": [],
-      "89288723-d616-56ac-802b-3e1f420d9e85": [],
-      "79550403-fb51-5018-89de-5f4ce78f6098": [],
-      "950c8c4c-f35b-5504-ab60-9407d4ba1c50": [
-        "/",
+      "4f95ab29-0ebe-5d97-9c84-53cb0e4c166d": [
+        "/dash/",
         "/progress"
       ],
-      "d9974492-4633-5963-9b93-9a32009711e1": [
-        "/",
+      "9bdff976-58c6-57a2-826c-962d884a4a54": [
+        "/dash/",
         "/progress"
       ],
-      "d6d2ef17-da0e-5e39-bfde-b3f28806602a": [
-        "/",
+      "a9b42645-b716-511b-9cbc-7f2df1ce0f37": [
+        "/dash/",
         "/calendar"
       ],
-      "980b91ef-354f-508f-b93b-35b411ae95e5": [
-        "/",
+      "d726c402-636d-56e7-8130-f8e5bff3c0db": [
+        "/dash/",
         "/calendar"
       ],
-      "e2acb20f-bf01-5ad0-9140-9d03b5e5ca79": [
-        "/",
-        "/chat-with-us-do-you-want-your-questions-answered-now-chat-with-our-coaches-and-get-the-most-out-of-your-cat-4-u-experience",
-        "/chat-with-us-hi-there",
+      "167e35df-b2f1-578e-8f41-56f0203b9496": [
+        "/dash/",
         "/chat-with-us"
       ],
-      "42d7ab20-e8c4-5ddc-ad82-e5a6b2348003": [
-        "/",
-        "/chat-with-us-do-you-want-your-questions-answered-now-chat-with-our-coaches-and-get-the-most-out-of-your-cat-4-u-experience",
-        "/chat-with-us-hi-there",
+      "4a51f5a9-4683-5bd8-a95e-5a644b8a3fcf": [
+        "/dash/",
         "/chat-with-us"
       ],
-      "499f9e8d-acb2-5323-83e2-ea14586773e6": [
-        "/",
+      "ca50d3cf-d128-52d0-bd11-4d929b627223": [
+        "/dash/",
         "/scheduling"
       ],
-      "03bebb04-2bad-5151-8e57-aa8c66c4420e": [
-        "/",
+      "38514413-9b1c-5fbe-afcf-11bc55702237": [
+        "/dash/",
         "/scheduling"
       ],
-      "929fb67f-a6ee-51b0-8a2d-e771083141a4": [
-        "/chat-with-us-do-you-want-your-questions-answered-now-chat-with-our-coaches-and-get-the-most-out-of-your-cat-4-u-experience",
-        "/chat-with-us-hi-there",
+      "46c56b53-9a1a-5a92-85ba-df6af99b44a7": [
+        "/scheduling"
+      ],
+      "0d815e3b-9127-5240-bd9f-288f86bd243e": [
         "/chat-with-us"
       ],
-      "9e553320-05d6-5f5f-a97f-e082b43bfd71": [
-        "/scheduling"
-      ],
-      "a3bb39a9-5917-544b-b19a-92cce285de54": [
+      "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": [
         "/calendar"
       ],
-      "aede7514-8fa2-5b89-8db0-1a95fe46ea8c": [
-        "/progress"
-      ],
-      "a1d54087-4c24-5236-9c77-4fa29ef1d313": [
-        "/",
-        "/calendar"
-      ],
-      "1409203d-30cb-53c1-9eeb-6210936ad77b": [
-        "/",
-        "/calendar"
-      ],
-      "e44868f6-430e-56bd-a592-a005bb922fc3": [
-        "/",
-        "/chat-with-us"
-      ],
-      "16ef5001-951b-5f95-8931-a1da3378fdd8": [
-        "/",
-        "/chat-with-us"
-      ],
-      "480c4c27-1b3f-5c0a-a56d-ada40a44752d": [
-        "/",
-        "/scheduling"
-      ],
-      "b6a7e6f1-b401-5178-a1e8-22070d0b8cda": [
-        "/",
-        "/scheduling"
-      ],
-      "00930ef8-d672-5fb7-bc27-b5dddc9c9146": [
-        "/",
-        "/progress"
-      ],
-      "ebf027bb-da80-58a3-a2b6-e62de0e6645a": [
-        "/",
+      "4c843aad-75d1-58c3-ac81-f1445a23a426": [
         "/progress"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        "/"
+        "/dash/"
       ]
     }
   },
   "jsonDataPaths": {
-    "smart-triangle-make-triangles-smart-cb8": "236/path---smart-triangle-make-triangles-smart-cb-8-d77-pcvfJWLL7nBu90PEarPvbnUPNDo",
-    "chat-7ce": "596/path---chat-7-ce-d82-Npabmeq7yj11VKopMHamQ6uN2e4",
-    "leko-arts-your-theme-creator-75e": "331/path---leko-arts-your-theme-creator-75-e-4a1-RV9h3n905aS3Gwpb3HzdyoJdmzM",
-    "scheduling-fdb": "575/path---scheduling-fdb-25b-n0Kap7gGTYsRieFUP7tjM1uCCU",
+    "calendar-5fa": "290/path---calendar-5-fa-73a-TwFEhNSbyNvewaBi6e1REketGeY",
+    "chat-with-us-5a0": "719/path---chat-with-us-5-a-0-949-DmtTGVzLi7z59oLOdkLgbKWp19Q",
+    "scheduling-fdb": "4/path---scheduling-fdb-25b-73bEShQOGhoYdnMcr4vyKxcs0iM",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dash-717": "356/path---dash-717-78e-FnFPglN655oRIiX3YMyQATgshyg",
+    "progress-4aa": "44/path---progress-4-aa-2f7-gQmk8hlXuHEgAeAV8p8Lle4B0g",
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "462/path---index-6a9-FnFPglN655oRIiX3YMyQATgshyg",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
-    "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
-    "chat-with-us-5a0": "719/path---chat-with-us-5-a-0-949-DmtTGVzLi7z59oLOdkLgbKWp19Q",
-    "check-out-our-events-45e": "476/path---check-out-our-events-45-e-baf-ozDVpDEwLrstsMkwn5kdBC1fig",
-    "calendar-5fa": "290/path---calendar-5-fa-73a-TwFEhNSbyNvewaBi6e1REketGeY",
-    "progress-4aa": "44/path---progress-4-aa-2f7-gQmk8hlXuHEgAeAV8p8Lle4B0g",
     "app-946": "788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E",
+    "appt-7f1": "341/path---appt-7-f-1-9e1-NZuapzHg3X9TaN1iIixfv1W23E",
     "firebase-535": "5/path---firebase-535-32e-NZuapzHg3X9TaN1iIixfv1W23E",
-    "chat-with-us-do-you-want-your-questions-answered-now-chat-with-our-coaches-and-get-the-most-out-of-your-cat-4-u-experience-3f4": "789/path---chat-with-us-do-you-want-your-questions-answered-now-chat-with-our-coaches-and-get-the-most-out-of-your-cat-4-u-experience-3-f-4-c6a-9feaVIsoZD4M1xXiKAQn1FGPH98",
-    "chat-with-us-hi-there-3c4": "837/path---chat-with-us-hi-there-3-c-4-37a-ppXR7ce4Tr5A1fTMV96MvY4"
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "log-in-313": "6/path---log-in-313-3a5-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx": {
+    "/Users/TonyFaieta/team-8/src/templates/project.jsx": {
       "query": "query ProjectPostBySlug(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    excerpt\n    frontmatter {\n      title\n      date(formatString: \"DD.MM.YYYY\")\n      client\n      service\n      cover {\n        childImageSharp {\n          resize(width: 800) {\n            src\n          }\n        }\n      }\n    }\n    fields {\n      slug\n    }\n  }\n}\n",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/templates/project.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/.cache/dev-404-page.js": {
+    "/Users/TonyFaieta/team-8/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/.cache/dev-404-page.js"
+      "componentPath": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/404.jsx": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/404.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/about.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/about.jsx": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/about.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/about.jsx"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/App.js": {
+    "/Users/TonyFaieta/team-8/src/pages/App.js": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/App.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/App.js"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/contact.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/Appt.js": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/contact.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/Appt.js"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/firebase.js": {
+    "/Users/TonyFaieta/team-8/src/pages/contact.jsx": {
       "query": "",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/firebase.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/contact.jsx"
     },
-    "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/index.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/dash.jsx": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          service\n          client\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 850, quality: 90, traceSVG: {color: \"#f3f3f3\"}) {\n                ...GatsbyImageSharpFluid_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "componentPath": "/Users/bhumikajain/Documents/GitHub/team-8/src/pages/index.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/dash.jsx"
+    },
+    "/Users/TonyFaieta/team-8/src/pages/firebase.js": {
+      "query": "",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/firebase.js"
+    },
+    "/Users/TonyFaieta/team-8/src/pages/index.jsx": {
+      "query": "",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/index.jsx"
+    },
+    "/Users/TonyFaieta/team-8/src/pages/LogIn.js": {
+      "query": "",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/LogIn.js"
     }
   },
   "staticQueryComponents": {}

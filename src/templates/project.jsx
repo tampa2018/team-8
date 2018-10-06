@@ -33,13 +33,6 @@ const InfoBlock = styled.div`
     ${props => props.theme.spacer.horizontal};
 `;
 
-const Top = styled.div`
-  font-size: 80%;
-  margin-bottom: 0.5rem;
-  position: relative;
-  text-transform: uppercase;
-`;
-
 const Bottom = styled.div`
   font-size: 125%;
 `;
