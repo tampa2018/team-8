@@ -1,0 +1,52 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-jsx",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-jsx",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-jsx",
+        "jsonName": "about-f34",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "chat-7ce",
+        "path": "/chat"
+    },
+    {
+        "componentChunkName": "component---src-pages-contact-jsx",
+        "jsonName": "contact-26a",
+        "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "leko-arts-your-theme-creator-75e",
+        "path": "/leko-arts-your-theme-creator"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "mint-a01",
+        "path": "/mint"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "schedule-b30",
+        "path": "/schedule"
+    }
+]
