@@ -7,8 +7,13 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      currentItem: '',
-      username: '',
+        firstname: '',
+        lastname: '',
+        email: '',
+        city: '',
+        zipcode: '',
+        phone: '',
+        focus: '',
       items: []
     }
     this.handleChange = this.handleChange.bind(this);
@@ -23,13 +28,23 @@ class App extends Component {
     e.preventDefault();
     const itemsRef = firebase.database().ref('items');
     const item = {
-      title: this.state.currentItem,
-      user: this.state.username
+        firstname: this.state.firstname,
+        lastname: this.state.lastname,
+        email: this.state.email,
+        city: this.state.city,
+        zipcode: this.state.zipcode,
+        phone: this.state.phone,
+        focus: this.state.focus,
     }
     itemsRef.push(item);
     this.setState({
-      currentItem: '',
-      username: ''
+      firstname: '',
+      lastname: '',
+      email: '',
+      city: '',
+      zipcode: '',
+      phone: '',
+      focus: ''
     });
   }
   componentDidMount() {
@@ -40,8 +55,13 @@ class App extends Component {
       for (let item in items) {
         newState.push({
           id: item,
-          title: items[item].title,
-          user: items[item].user
+          firstname: items[item].firstname,
+          lastname: items[item].lastname,
+          email: items[item].email,
+          city: items[item].city,
+          zipcode: items[item].zipcode,
+          phone: items[item].phone,
+          focus: items[item].focus
         });
       }
       this.setState({
@@ -49,42 +69,34 @@ class App extends Component {
       });
     });
   }
-  removeItem(itemId) {
-    const itemRef = firebase.database().ref(`/items/${itemId}`);
-    itemRef.remove();
-  }
   render() {
     return (
       <div className='app'>
         <header>
             <div className="wrapper">
-              <h1>Fun Food Friends</h1>
+              <h1>Catalyst Miami Sign Up</h1>
 
             </div>
         </header>
         <div className='container'>
           <section className='add-item'>
                 <form onSubmit={this.handleSubmit}>
-                  <input type="text" name="username" placeholder="What's your name?" onChange={this.handleChange} value={this.state.username} />
-                  <input type="text" name="currentItem" placeholder="What are you bringing?" onChange={this.handleChange} value={this.state.currentItem} />
-                  <button>Add Item</button>
+                    <input type="text" name="firstname" placeholder="First Name" onChange={this.handleChange} value={this.state.firstname} />
+                    <input type="text" name="lastname" placeholder="Last Name" onChange={this.handleChange} value={this.state.lastname} />
+                    <input type="text" name="email" placeholder="Email" onChange={this.handleChange} value={this.state.email} />
+                    <input type="text" name="city" placeholder="City" onChange={this.handleChange} value={this.state.city} />
+                    <input type="text" name="zipcode" placeholder="ZIP Code" onChange={this.handleChange} value={this.state.zipcode} />
+                    <input type="text" name="phone" placeholder="Phone Number" onChange={this.handleChange} value={this.state.phone} />
+                    <label> Focus Area </label>
+                    <select name="focus" onChange={this.handleChange} value={this.state.focus}>
+                        <option value="none">N/A</option>
+                        <option value="health">Health</option>
+                        <option value="wealth">Wealth</option>
+                        <option value="politics">Politics</option>
+                        <option value="relationships">Relationships</option>
+                    </select>
+                  <button>Sign Up</button>
                 </form>
-          </section>
-          <section className='display-item'>
-              <div className="wrapper">
-                <ul>
-                  {this.state.items.map((item) => {
-                    return (
-                      <li key={item.id}>
-                        <h3>{item.title}</h3>
-                        <p>brought by: {item.user}
-                          <button onClick={() => this.removeItem(item.id)}>Remove Item</button>
-                        </p>
-                      </li>
-                    )
-                  })}
-                </ul>
-              </div>
           </section>
         </div>
       </div>
