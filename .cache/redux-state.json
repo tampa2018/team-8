@@ -1,0 +1,3428 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cffa5adc77bf31cec1a1b24eabc61d1b",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "89eae2c0b7220755271d073379cf2493",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin load-babel-config": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "Plugin load-babel-config",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "57be89fa118c767cfe37ddfa80fc87d5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "71dc710a09adcec38899eb4611c0aec6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9a997a6b4e0593b03a24ecc279dbc291",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b986a6826bf5a94e7068fc721b8c807d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "89cffce8a750c878ac9afbfb37ad605d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-emotion": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-emotion",
+      "id": "Plugin gatsby-plugin-emotion",
+      "name": "gatsby-plugin-emotion",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "autoLabel": true,
+        "labelFormat": "[filename]--[local]"
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "emotion",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "emotion-server",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "235fca6c8898661ee68b3ecef1483fd6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "projects",
+        "path": "/Users/stephen/Development/Projects/team-8/content/projects"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.2",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c53be3b40ec6963ca81a9144bf08e091",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.6",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "2.0.3",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 820,
+              "quality": 90,
+              "linkImagesToOriginal": false,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+            "id": "Plugin gatsby-remark-external-links",
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4",
+            "pluginOptions": {
+              "plugins": [],
+              "target": "_blank",
+              "rel": "nofollow noopener noreferrer"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links"
+          },
+          {
+            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d3db60a780300cb09fb00f18af757b02",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "2.0.3",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 820,
+        "quality": 90,
+        "linkImagesToOriginal": false,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8be2c6ef8ffd61b9592642a0e6488ea2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-external-links": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+      "id": "Plugin gatsby-remark-external-links",
+      "name": "gatsby-remark-external-links",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "target": "_blank",
+        "rel": "nofollow noopener noreferrer"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+      "packageJson": {
+        "name": "gatsby-remark-external-links",
+        "description": "Automatically adds the target and rel attributes to external links in markdown.",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Jimmy Longley",
+          "email": "jimmylongley@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "dedent",
+            "version": "^0.7.0"
+          },
+          {
+            "name": "jest",
+            "version": "^21.2.1"
+          },
+          {
+            "name": "remark",
+            "version": "^8.0.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "31ae8882c177357819bcdfeb86006dad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3e27356aaf4fbab6ca3a6817753b5060",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-12345689-1"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8bf73b5f2850f7c7060f5c60385a15cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-nprogress": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-nprogress",
+      "id": "Plugin gatsby-plugin-nprogress",
+      "name": "gatsby-plugin-nprogress",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "color": "#3498DB"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry",
+        "onRouteUpdateDelayed",
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-nprogress",
+      "packageJson": {
+        "name": "gatsby-plugin-nprogress",
+        "description": "Shows page loading indicator when loading page resources is delayed",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "nprogress",
+            "version": "^0.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e87e2d46ce325998f740fdc1c998ba10",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.2"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "805023c8e5b6c857ea422b7c490635a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.3",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "37236e64426965fb3050621614b6f1c5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-lodash": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-lodash",
+      "id": "Plugin gatsby-plugin-lodash",
+      "name": "gatsby-plugin-lodash",
+      "version": "3.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-lodash",
+      "packageJson": {
+        "name": "gatsby-plugin-lodash",
+        "description": "Easy modular Lodash builds. Adds the Lodash webpack & Babel plugins to your Gatsby build",
+        "version": "3.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-plugin-lodash",
+            "version": "^3.2.11"
+          },
+          {
+            "name": "lodash-webpack-plugin",
+            "version": "^0.11.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c87992947b7b08d8fd4f5fcf1029fad7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.jsx"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "53aea188be25547fc482fe39cd0a8fec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-beta"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7e41957f2faade2d209f116552ae1d95",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5f5469b2b8eb5f88235a5a60ca225099",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Catalyst Miami",
+        "short_name": "Catalyst Miami Code For Good",
+        "description": "Web App Code For Good",
+        "start_url": "/",
+        "background_color": "#2b2e3c",
+        "theme_color": "#3498DB",
+        "display": "standalone",
+        "icon": "src/favicon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a0151e9735fb2811a69995b250968f3b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onPrefetchPathname",
+        "onServiceWorkerActive"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.4.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-beta"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0d38d9cb83084e22e653cabe7f8e23f3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-netlify",
+      "id": "Plugin gatsby-plugin-netlify",
+      "name": "gatsby-plugin-netlify",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "kebab-hash",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^3.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3b70796fb2b345a5e96f0b18a1834189",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/stephen/Development/Projects/team-8",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "479df3477ef70d499bbc8395949d3d35",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8",
+      "packageJson": {
+        "name": "gatsby-starter-portfolio-emma",
+        "description": "Gatsby Starter Portfolio Emma",
+        "version": "2.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby",
+          "lekoarts",
+          "portfolio",
+          "starter",
+          "gatsby-starter"
+        ],
+        "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "react-i18next",
+            "version": "8.0.7"
+          },
+          {
+            "name": "i18next-xhr-backend",
+            "version": "1.5.1"
+          },
+          {
+            "name": "i18next",
+            "version": "11.9.0"
+          },
+          {
+            "name": "i18next-browser-languagedetector",
+            "version": "2.2.3"
+          },
+          {
+            "name": "emotion",
+            "version": "^9.2.9"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^9.2.9"
+          },
+          {
+            "name": "emotion-theming",
+            "version": "^9.2.9"
+          },
+          {
+            "name": "firebase",
+            "version": "^5.5.3"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-lodash",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-nprogress",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "^0.0.4"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.11"
+          },
+          {
+            "name": "polished",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-big-calendar",
+            "version": "^0.20.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^9.2.9"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.13"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.17"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "chalk",
+            "version": "^2.4.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.6.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.14.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.1"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^2.6.2"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.11.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.14.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ba553783464b37d3ef437399e51eb8a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/stephen/Development/Projects/team-8/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f3ac68d424032596bf3ab7cea5de28b3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "siteUrl": ""
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-10-06T14:48:00.025Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a8542264953f2329d49e63a997a8903",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a735b130-f076-5642-a63a-0b91a92b964c": {
+      "id": "a735b130-f076-5642-a63a-0b91a92b964c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9a8638bacb8eead7c57223cf6648d08a",
+        "type": "Directory",
+        "description": "Directory \"content/projects\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "relativePath": "",
+      "extension": "",
+      "size": 238,
+      "prettySize": "238 B",
+      "modifiedTime": "2018-10-06T12:28:11.000Z",
+      "accessTime": "2018-10-06T14:48:05.000Z",
+      "changeTime": "2018-10-06T12:28:11.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content",
+      "base": "projects",
+      "ext": "",
+      "name": "projects",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990644,
+      "blocks": 0,
+      "atimeMs": 1538837285000,
+      "mtimeMs": 1538828891000,
+      "ctimeMs": 1538828891000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T14:48:05.000Z",
+      "mtime": "2018-10-06T12:28:11.000Z",
+      "ctime": "2018-10-06T12:28:11.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "946515c8-8ca8-589e-be06-7bb5a8b76d2c": {
+      "id": "946515c8-8ca8-589e-be06-7bb5a8b76d2c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "556b838e77ccf471fe10e8952e0a9a76",
+        "type": "Directory",
+        "description": "Directory \"content/projects/2017-10-25\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
+      "relativePath": "2017-10-25",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-10-06T14:47:53.000Z",
+      "accessTime": "2018-10-06T14:48:05.000Z",
+      "changeTime": "2018-10-06T14:47:53.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "base": "2017-10-25",
+      "ext": "",
+      "name": "2017-10-25",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990645,
+      "blocks": 0,
+      "atimeMs": 1538837285000,
+      "mtimeMs": 1538837273000,
+      "ctimeMs": 1538837273000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T14:48:05.000Z",
+      "mtime": "2018-10-06T14:47:53.000Z",
+      "ctime": "2018-10-06T14:47:53.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "fa12689f-90bd-57ef-be32-48dbc7e20280": {
+      "id": "fa12689f-90bd-57ef-be32-48dbc7e20280",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "82c32bc8dcd521b59cd6a12ffb8125f7",
+        "type": "Directory",
+        "description": "Directory \"content/projects/2017-10-26\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "relativePath": "2017-10-26",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:48:05.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "base": "2017-10-26",
+      "ext": "",
+      "name": "2017-10-26",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990648,
+      "blocks": 0,
+      "atimeMs": 1538837285000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T14:48:05.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "4dc936bf-24f7-5165-b256-a9dd7fb8da6f": {
+      "id": "4dc936bf-24f7-5165-b256-a9dd7fb8da6f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d34aa96f75f05d4d1079d00234949e23",
+        "type": "Directory",
+        "description": "Directory \"content/projects/2017-10-27\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "relativePath": "2017-10-27",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:48:05.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "base": "2017-10-27",
+      "ext": "",
+      "name": "2017-10-27",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990651,
+      "blocks": 0,
+      "atimeMs": 1538837285000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T14:48:05.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "cb12fcdf-82f3-5427-b7f3-b833b0d1e2e5": {
+      "id": "cb12fcdf-82f3-5427-b7f3-b833b0d1e2e5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "162b1777bcb37032ca6330c4d2cc0c06",
+        "type": "Directory",
+        "description": "Directory \"content/projects/2017-10-28\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
+      "relativePath": "2017-10-28",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:48:05.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T07:39:56.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "base": "2017-10-28",
+      "ext": "",
+      "name": "2017-10-28",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9990654,
+      "blocks": 0,
+      "atimeMs": 1538837285000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538811596000,
+      "atime": "2018-10-06T14:48:05.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T07:39:56.000Z"
+    },
+    "3fb7e4a0-6b34-5583-8da2-0e1e8358ea20": {
+      "id": "3fb7e4a0-6b34-5583-8da2-0e1e8358ea20",
+      "children": [
+        "79298818-04f9-5298-8f8c-1151f56dd228"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-25/scheduleicon.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/scheduleicon.jpg",
+      "relativePath": "2017-10-25/scheduleicon.jpg",
+      "extension": "jpg",
+      "size": 3170,
+      "prettySize": "3.17 kB",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:53.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
+      "base": "scheduleicon.jpg",
+      "ext": ".jpg",
+      "name": "scheduleicon",
+      "relativeDirectory": "2017-10-25",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117333,
+      "blocks": 8,
+      "atimeMs": 1538837273000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:53.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "ab23a996-2a9f-54a2-9254-e666c9f587df": {
+      "id": "ab23a996-2a9f-54a2-9254-e666c9f587df",
+      "children": [
+        "93e6e9fa-9634-5318-8528-df0a23bbb93f"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-26/chaticon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/chaticon.jpeg",
+      "relativePath": "2017-10-26/chaticon.jpeg",
+      "extension": "jpeg",
+      "size": 3869,
+      "prettySize": "3.87 kB",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:18.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "base": "chaticon.jpeg",
+      "ext": ".jpeg",
+      "name": "chaticon",
+      "relativeDirectory": "2017-10-26",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117334,
+      "blocks": 8,
+      "atimeMs": 1538837238000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:18.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "fe77565f-3757-5dfe-ab2f-206dfb3391f6": {
+      "id": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
+      "children": [
+        "c10a0c4d-bfad-526d-a1bf-12af974bf58a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "908fbc2f29632ab2f616c0d67a40b790",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-26/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
+      "relativePath": "2017-10-26/index.md",
+      "extension": "md",
+      "size": 211,
+      "prettySize": "211 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:21.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-26",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117335,
+      "blocks": 8,
+      "atimeMs": 1538837241000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:21.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6": {
+      "id": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+      "children": [
+        "0d2f6978-549e-5361-91dc-ac264bd9598d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6588b0f71d774f42eb8fffa2f974a779",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-27/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "relativePath": "2017-10-27/index.md",
+      "extension": "md",
+      "size": 217,
+      "prettySize": "217 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:17.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117337,
+      "blocks": 8,
+      "atimeMs": 1538837237000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:17.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "de621f8d-3ef0-5d6c-9699-30ef3029455f": {
+      "id": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
+      "children": [
+        "7eae1b6d-97a0-5353-a18e-20f48a39b82a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4ad912acff86636c50206d8ebbfeb070",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-28/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 190,
+      "prettySize": "190 B",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:26.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117338,
+      "blocks": 8,
+      "atimeMs": 1538837246000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:26.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "753a9e13-122d-5a79-9843-1613936c8bc3": {
+      "id": "753a9e13-122d-5a79-9843-1613936c8bc3",
+      "children": [
+        "5da8479f-5ecd-50e1-8893-d640868a4eff"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e897e4d460e2ee4aa21e46fc18bfa606",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-25/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
+      "relativePath": "2017-10-25/index.md",
+      "extension": "md",
+      "size": 211,
+      "prettySize": "211 B",
+      "modifiedTime": "2018-10-06T14:47:53.000Z",
+      "accessTime": "2018-10-06T14:47:54.000Z",
+      "changeTime": "2018-10-06T14:47:53.000Z",
+      "birthTime": "2018-10-06T14:44:29.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-25",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10118361,
+      "blocks": 8,
+      "atimeMs": 1538837274000,
+      "mtimeMs": 1538837273000,
+      "ctimeMs": 1538837273000,
+      "birthtimeMs": 1538837069000,
+      "atime": "2018-10-06T14:47:54.000Z",
+      "mtime": "2018-10-06T14:47:53.000Z",
+      "ctime": "2018-10-06T14:47:53.000Z",
+      "birthtime": "2018-10-06T14:44:29.000Z"
+    },
+    "fca52800-2c71-5973-9e26-8b84f56362ae": {
+      "id": "fca52800-2c71-5973-9e26-8b84f56362ae",
+      "children": [
+        "b75ba3a3-4c41-57c7-b211-2c852859e8ec"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-27/calendaricon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/calendaricon.jpeg",
+      "relativePath": "2017-10-27/calendaricon.jpeg",
+      "extension": "jpeg",
+      "size": 3788,
+      "prettySize": "3.79 kB",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:13.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "base": "calendaricon.jpeg",
+      "ext": ".jpeg",
+      "name": "calendaricon",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117336,
+      "blocks": 8,
+      "atimeMs": 1538837233000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:13.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "79298818-04f9-5298-8f8c-1151f56dd228": {
+      "id": "79298818-04f9-5298-8f8c-1151f56dd228",
+      "children": [],
+      "parent": "3fb7e4a0-6b34-5583-8da2-0e1e8358ea20",
+      "internal": {
+        "contentDigest": "3d748b22d2a4b8ccebcaa24733f58f1a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "93e6e9fa-9634-5318-8528-df0a23bbb93f": {
+      "id": "93e6e9fa-9634-5318-8528-df0a23bbb93f",
+      "children": [],
+      "parent": "ab23a996-2a9f-54a2-9254-e666c9f587df",
+      "internal": {
+        "contentDigest": "d1c92793e51cb38ded0fcba0097e790a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b75ba3a3-4c41-57c7-b211-2c852859e8ec": {
+      "id": "b75ba3a3-4c41-57c7-b211-2c852859e8ec",
+      "children": [],
+      "parent": "fca52800-2c71-5973-9e26-8b84f56362ae",
+      "internal": {
+        "contentDigest": "d53c9bacc8c9bf8c124a025702d350bb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a7d76e1f-4a1d-5ad4-b8cd-3750d728f21b": {
+      "id": "a7d76e1f-4a1d-5ad4-b8cd-3750d728f21b",
+      "children": [
+        "819c26b2-abab-54b5-bb53-7eca9ef47dbe"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-28/progressicon.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/progressicon.jpeg",
+      "relativePath": "2017-10-28/progressicon.jpeg",
+      "extension": "jpeg",
+      "size": 4789,
+      "prettySize": "4.79 kB",
+      "modifiedTime": "2018-10-06T14:44:07.000Z",
+      "accessTime": "2018-10-06T14:47:13.000Z",
+      "changeTime": "2018-10-06T14:44:07.000Z",
+      "birthTime": "2018-10-06T14:44:07.000Z",
+      "root": "/",
+      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
+      "base": "progressicon.jpeg",
+      "ext": ".jpeg",
+      "name": "progressicon",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10117339,
+      "blocks": 16,
+      "atimeMs": 1538837233000,
+      "mtimeMs": 1538837047000,
+      "ctimeMs": 1538837047000,
+      "birthtimeMs": 1538837047000,
+      "atime": "2018-10-06T14:47:13.000Z",
+      "mtime": "2018-10-06T14:44:07.000Z",
+      "ctime": "2018-10-06T14:44:07.000Z",
+      "birthtime": "2018-10-06T14:44:07.000Z"
+    },
+    "819c26b2-abab-54b5-bb53-7eca9ef47dbe": {
+      "id": "819c26b2-abab-54b5-bb53-7eca9ef47dbe",
+      "children": [],
+      "parent": "a7d76e1f-4a1d-5ad4-b8cd-3750d728f21b",
+      "internal": {
+        "contentDigest": "1680be8d911093740daf0c4928b5d2ad",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c10a0c4d-bfad-526d-a1bf-12af974bf58a": {
+      "id": "c10a0c4d-bfad-526d-a1bf-12af974bf58a",
+      "children": [],
+      "parent": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "0301279999537d21a75f2661646aa030",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./chaticon.jpeg",
+        "date": "2017-10-26",
+        "service": "Do you want your questions answered now? Chat with our coaches and get the most out of your cat4u experience!",
+        "_PARENT": "fe77565f-3757-5dfe-ab2f-206dfb3391f6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/chat-with-us"
+      }
+    },
+    "0d2f6978-549e-5361-91dc-ac264bd9598d": {
+      "id": "0d2f6978-549e-5361-91dc-ac264bd9598d",
+      "children": [],
+      "parent": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "e6a5d5682e42736006bbab29ed165ce9",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Calendar",
+        "client": "Calendar",
+        "cover": "./calendaricon.jpeg",
+        "date": "2017-10-27",
+        "service": "Check out our weekly calendars to find out about local opportunities and events we offer! Hope to see you there!",
+        "_PARENT": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/calendar"
+      }
+    },
+    "7eae1b6d-97a0-5353-a18e-20f48a39b82a": {
+      "id": "7eae1b6d-97a0-5353-a18e-20f48a39b82a",
+      "children": [],
+      "parent": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "a348bae904d53e05eaedfb1be8fb97a8",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Progress",
+        "client": "Progress",
+        "cover": "./progressicon.jpeg",
+        "date": "2017-10-28",
+        "service": "Celebrate your accomplishments by tracking your progress. Setting goals is important!",
+        "_PARENT": "de621f8d-3ef0-5d6c-9699-30ef3029455f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/progress"
+      }
+    },
+    "5da8479f-5ecd-50e1-8893-d640868a4eff": {
+      "id": "5da8479f-5ecd-50e1-8893-d640868a4eff",
+      "children": [],
+      "parent": "753a9e13-122d-5a79-9843-1613936c8bc3",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "fc2161664c335660c29438896aeee127",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Appt",
+        "client": "Appt",
+        "cover": "./scheduleicon.jpg",
+        "date": "2017-10-25",
+        "service": "Schedule your next session with us. Continued commitment is the key to success! And we would love to see you again!",
+        "_PARENT": "753a9e13-122d-5a79-9843-1613936c8bc3"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
+      "fields": {
+        "slug": "/appt"
+      }
+    },
+    "SitePage /chat-with-us": {
+      "jsonName": "chat-with-us-5a0",
+      "internalComponentName": "ComponentChatWithUs",
+      "path": "/chat-with-us",
+      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/chat-with-us"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "id": "SitePage /chat-with-us",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "efb5fb85d51dc2d3a3e3dfceca73ece2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /calendar": {
+      "jsonName": "calendar-5fa",
+      "internalComponentName": "ComponentCalendar",
+      "path": "/calendar",
+      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/calendar"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "id": "SitePage /calendar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a6381fbfc40568fc75fcf9cac89ad1a0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /progress": {
+      "jsonName": "progress-4aa",
+      "internalComponentName": "ComponentProgress",
+      "path": "/progress",
+      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/progress"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "id": "SitePage /progress",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e2ec4052f67a7b876d4fc02cc5c4b488",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /appt": {
+      "jsonName": "appt-c40",
+      "internalComponentName": "ComponentAppt",
+      "path": "/appt",
+      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/appt"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "id": "SitePage /appt",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f68761c3aa94bf2995ca0c44f06e709d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d51460b7d07130ec8391ba68fbaf2fb4",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "48c4fa57e3f420485715bf8b6fc22f64",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /App/": {
+      "jsonName": "app-946",
+      "internalComponentName": "ComponentApp",
+      "path": "/App/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/App.jsx",
+      "componentChunkName": "component---src-pages-app-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/App.jsx",
+      "id": "SitePage /App/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "21b92bc3b66fcf1461bd50fb9079673c",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Appt/": {
+      "jsonName": "appt-7f1",
+      "internalComponentName": "ComponentAppt",
+      "path": "/Appt/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.jsx",
+      "componentChunkName": "component---src-pages-appt-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.jsx",
+      "id": "SitePage /Appt/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec3b7057eed5131b3caf9692517b0d0a",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /cal/": {
+      "jsonName": "cal-36b",
+      "internalComponentName": "ComponentCal",
+      "path": "/cal/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/cal.jsx",
+      "componentChunkName": "component---src-pages-cal-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/cal.jsx",
+      "id": "SitePage /cal/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "516c6025ec55f2ddec36c2d919b92903",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /child/": {
+      "jsonName": "child-1bd",
+      "internalComponentName": "ComponentChild",
+      "path": "/child/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/child.js",
+      "componentChunkName": "component---src-pages-child-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/child.js",
+      "id": "SitePage /child/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1e80021a2b11437354cfd2be8bf484b1",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx",
+      "componentChunkName": "component---src-pages-contact-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1d5355a83c4fd3d8524915b7567263c",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dash/": {
+      "jsonName": "dash-717",
+      "internalComponentName": "ComponentDash",
+      "path": "/dash/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "componentChunkName": "component---src-pages-dash-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "id": "SitePage /dash/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d70ce703178d27959fc9061afcc3c4d9",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /firebase/": {
+      "jsonName": "firebase-535",
+      "internalComponentName": "ComponentFirebase",
+      "path": "/firebase/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js",
+      "componentChunkName": "component---src-pages-firebase-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js",
+      "id": "SitePage /firebase/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cc77b4690c6317ff2089ddc68c942f53",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "364ff10dac07f089682bfd7abb75fa0f",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /LogIn/": {
+      "jsonName": "log-in-313",
+      "internalComponentName": "ComponentLogIn",
+      "path": "/LogIn/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.jsx",
+      "componentChunkName": "component---src-pages-log-in-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.jsx",
+      "id": "SitePage /LogIn/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "950c952de2990c969a1406d66320fcc2",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /stories/": {
+      "jsonName": "stories-e47",
+      "internalComponentName": "ComponentStories",
+      "path": "/stories/",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/stories.jsx",
+      "componentChunkName": "component---src-pages-stories-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/stories.jsx",
+      "id": "SitePage /stories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d36fccce998886f653871c1b893be64e",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ee5f8940287aac869799b09bda5b472",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "d31761350aa6ff957831c09fdc9ae005"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "a7d76e1f-4a1d-5ad4-b8cd-3750d728f21b": [
+        "/dash/",
+        "/progress"
+      ],
+      "819c26b2-abab-54b5-bb53-7eca9ef47dbe": [
+        "/dash/",
+        "/progress"
+      ],
+      "fca52800-2c71-5973-9e26-8b84f56362ae": [
+        "/dash/",
+        "/calendar"
+      ],
+      "b75ba3a3-4c41-57c7-b211-2c852859e8ec": [
+        "/dash/",
+        "/calendar"
+      ],
+      "ab23a996-2a9f-54a2-9254-e666c9f587df": [
+        "/dash/",
+        "/chat-with-us"
+      ],
+      "93e6e9fa-9634-5318-8528-df0a23bbb93f": [
+        "/dash/",
+        "/chat-with-us"
+      ],
+      "3fb7e4a0-6b34-5583-8da2-0e1e8358ea20": [
+        "/dash/",
+        "/appt"
+      ],
+      "79298818-04f9-5298-8f8c-1151f56dd228": [
+        "/dash/",
+        "/appt"
+      ],
+      "c10a0c4d-bfad-526d-a1bf-12af974bf58a": [
+        "/chat-with-us"
+      ],
+      "0d2f6978-549e-5361-91dc-ac264bd9598d": [
+        "/calendar"
+      ],
+      "7eae1b6d-97a0-5353-a18e-20f48a39b82a": [
+        "/progress"
+      ],
+      "5da8479f-5ecd-50e1-8893-d640868a4eff": [
+        "/appt"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/dash/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "progress-4aa": "44/path---progress-4-aa-2f7-gQmk8hlXuHEgAeAV8p8Lle4B0g",
+    "calendar-5fa": "290/path---calendar-5-fa-73a-TwFEhNSbyNvewaBi6e1REketGeY",
+    "chat-with-us-5a0": "719/path---chat-with-us-5-a-0-949-DmtTGVzLi7z59oLOdkLgbKWp19Q",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dash-717": "197/path---dash-717-78e-8Y9nARuHWlelM59lC8Zh6BfHCjg",
+    "app-946": "788/path---app-946-524-NZuapzHg3X9TaN1iIixfv1W23E",
+    "appt-c40": "506/path---appt-c-40-483-AZjqiOHYcFyxELGeGF6McHaN9YI",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "appt-7f1": "341/path---appt-7-f-1-9e1-NZuapzHg3X9TaN1iIixfv1W23E",
+    "cal-36b": "692/path---cal-36-b-b67-NZuapzHg3X9TaN1iIixfv1W23E",
+    "child-1bd": "839/path---child-1-bd-22c-NZuapzHg3X9TaN1iIixfv1W23E",
+    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "firebase-535": "5/path---firebase-535-32e-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "log-in-313": "6/path---log-in-313-3a5-NZuapzHg3X9TaN1iIixfv1W23E",
+    "stories-e47": "727/path---stories-e-47-688-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx": {
+      "query": "query ProjectPostBySlug(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    excerpt\n    frontmatter {\n      title\n      date(formatString: \"DD.MM.YYYY\")\n      client\n      service\n      cover {\n        childImageSharp {\n          resize(width: 800) {\n            src\n          }\n        }\n      }\n    }\n    fields {\n      slug\n    }\n  }\n}\n",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/about.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/App.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/App.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/Appt.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/cal.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/cal.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/child.js": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/child.js"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx": {
+      "query": "query IndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          service\n          client\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 850, quality: 90, traceSVG: {color: \"#f3f3f3\"}) {\n                ...GatsbyImageSharpFluid_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.jsx"
+    },
+    "/Users/stephen/Development/Projects/team-8/src/pages/stories.jsx": {
+      "query": "",
+      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/stories.jsx"
+    }
+  },
+  "staticQueryComponents": {}
+}
