@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
 
-import Home from "./home";
-import Login from "./signin";
-import SignUp from "./signup";
+import Home from "./components/home";
+import Login from "./components/signin";
+import SignUp from "./components/signup";
 
 class App extends Component {
   render() {
