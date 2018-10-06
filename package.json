@@ -8,6 +8,10 @@
     "type": "git"
   },
   "dependencies": {
+    "react-i18next": "8.0.7",
+    "i18next-xhr-backend": "1.5.1",
+    "i18next": "11.9.0",
+    "i18next-browser-languagedetector": "2.2.3",
     "firebase": "^5.5.3",
     "emotion": "^9.2.9",
     "emotion-server": "^9.2.9",
