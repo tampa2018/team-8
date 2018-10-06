@@ -5,7 +5,7 @@ import './App.css';
 
 import Home from "./components/home";
 import Login from "./components/signin";
-import SignUp from "./components/signup";
+import SignUp from "./SignUp/signupview";
 
 class App extends Component {
   render() {
