@@ -20,9 +20,24 @@
         "path": "/App/"
     },
     {
+        "componentChunkName": "component---src-pages-appt-js",
+        "jsonName": "appt-7f1",
+        "path": "/Appt/"
+    },
+    {
         "componentChunkName": "component---src-pages-log-in-js",
         "jsonName": "log-in-313",
         "path": "/LogIn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "appt-c40",
+        "path": "/appt"
+    },
+    {
+        "componentChunkName": "component---src-pages-appt-js",
+        "jsonName": "appt-5cd",
+        "path": "/appt/"
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
@@ -58,10 +73,5 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "progress-4aa",
         "path": "/progress"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "scheduling-fdb",
-        "path": "/scheduling"
     }
 ]
