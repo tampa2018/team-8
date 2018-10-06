@@ -2082,12 +2082,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T07:03:13.952Z",
+      "buildTime": "2018-10-06T07:04:57.439Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f3a83a62baedd0866da3721ea51ffacf",
+        "contentDigest": "b6c733e4a2b204ed99ba97393898e0ee",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2097,7 +2097,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ee772a01fe65409d0d79694f5e9cdeed",
+        "contentDigest": "791b5b99dfc3872748cee4000bd34076",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2109,7 +2109,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-10-06T06:43:14.903Z",
-      "accessTime": "2018-10-06T07:03:25.395Z",
+      "accessTime": "2018-10-06T07:05:18.651Z",
       "changeTime": "2018-10-06T06:43:14.903Z",
       "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
@@ -2127,11 +2127,11 @@
       "blksize": 4096,
       "ino": 8621495353,
       "blocks": 0,
-      "atimeMs": 1538809405395.3425,
+      "atimeMs": 1538809518650.6077,
       "mtimeMs": 1538808194903.3806,
       "ctimeMs": 1538808194903.3806,
       "birthtimeMs": 1538806423359.5754,
-      "atime": "2018-10-06T07:03:25.395Z",
+      "atime": "2018-10-06T07:05:18.651Z",
       "mtime": "2018-10-06T06:43:14.903Z",
       "ctime": "2018-10-06T06:43:14.903Z",
       "birthtime": "2018-10-06T06:13:43.360Z"
@@ -2141,7 +2141,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2e67e032ca380dd4e18d25bbcce66382",
+        "contentDigest": "779c56c9323cb1dccdb43ede7aab9dfc",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2153,7 +2153,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T07:02:00.708Z",
-      "accessTime": "2018-10-06T07:03:25.400Z",
+      "accessTime": "2018-10-06T07:05:18.655Z",
       "changeTime": "2018-10-06T07:02:00.708Z",
       "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
@@ -2171,11 +2171,11 @@
       "blksize": 4096,
       "ino": 8621495354,
       "blocks": 0,
-      "atimeMs": 1538809405399.9802,
+      "atimeMs": 1538809518654.848,
       "mtimeMs": 1538809320707.8992,
       "ctimeMs": 1538809320707.8992,
       "birthtimeMs": 1538806423359.6677,
-      "atime": "2018-10-06T07:03:25.400Z",
+      "atime": "2018-10-06T07:05:18.655Z",
       "mtime": "2018-10-06T07:02:00.708Z",
       "ctime": "2018-10-06T07:02:00.708Z",
       "birthtime": "2018-10-06T06:13:43.360Z"
@@ -2185,7 +2185,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9ca75d0a9f9364d6e26698c98d29e5b0",
+        "contentDigest": "c5fc78d836e8dac5634f9697c3769466",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2197,7 +2197,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T07:02:00.734Z",
-      "accessTime": "2018-10-06T07:03:25.400Z",
+      "accessTime": "2018-10-06T07:05:18.655Z",
       "changeTime": "2018-10-06T07:02:00.734Z",
       "birthTime": "2018-10-06T06:13:43.373Z",
       "root": "/",
@@ -2215,11 +2215,11 @@
       "blksize": 4096,
       "ino": 8621495357,
       "blocks": 0,
-      "atimeMs": 1538809405400.003,
+      "atimeMs": 1538809518654.9248,
       "mtimeMs": 1538809320734.0942,
       "ctimeMs": 1538809320734.0942,
       "birthtimeMs": 1538806423373.3738,
-      "atime": "2018-10-06T07:03:25.400Z",
+      "atime": "2018-10-06T07:05:18.655Z",
       "mtime": "2018-10-06T07:02:00.734Z",
       "ctime": "2018-10-06T07:02:00.734Z",
       "birthtime": "2018-10-06T06:13:43.373Z"
@@ -2229,7 +2229,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "402cb693467672a4d7fbe0a033f3f16f",
+        "contentDigest": "9a407e3f4fe1c46c03f984a070ee8d1a",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
@@ -2241,7 +2241,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T06:13:43.410Z",
-      "accessTime": "2018-10-06T07:03:25.400Z",
+      "accessTime": "2018-10-06T07:05:18.655Z",
       "changeTime": "2018-10-06T06:39:54.668Z",
       "birthTime": "2018-10-06T06:13:43.409Z",
       "root": "/",
@@ -2259,11 +2259,11 @@
       "blksize": 4096,
       "ino": 8621495360,
       "blocks": 0,
-      "atimeMs": 1538809405400.0264,
+      "atimeMs": 1538809518655.0107,
       "mtimeMs": 1538806423410.1497,
       "ctimeMs": 1538807994667.8838,
       "birthtimeMs": 1538806423409.2158,
-      "atime": "2018-10-06T07:03:25.400Z",
+      "atime": "2018-10-06T07:05:18.655Z",
       "mtime": "2018-10-06T06:13:43.410Z",
       "ctime": "2018-10-06T06:39:54.668Z",
       "birthtime": "2018-10-06T06:13:43.409Z"
@@ -2273,7 +2273,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "83266ac7c779db6684108900aa8c772f",
+        "contentDigest": "45120745b299e54e455c7b303edda45d",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2285,7 +2285,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-10-06T06:30:14.447Z",
-      "accessTime": "2018-10-06T07:03:25.400Z",
+      "accessTime": "2018-10-06T07:05:18.655Z",
       "changeTime": "2018-10-06T06:39:54.665Z",
       "birthTime": "2018-10-06T06:13:43.428Z",
       "root": "/",
@@ -2303,11 +2303,11 @@
       "blksize": 4096,
       "ino": 8621495363,
       "blocks": 0,
-      "atimeMs": 1538809405400.049,
+      "atimeMs": 1538809518655.0818,
       "mtimeMs": 1538807414447.3872,
       "ctimeMs": 1538807994665.0671,
       "birthtimeMs": 1538806423427.7278,
-      "atime": "2018-10-06T07:03:25.400Z",
+      "atime": "2018-10-06T07:05:18.655Z",
       "mtime": "2018-10-06T06:30:14.447Z",
       "ctime": "2018-10-06T06:39:54.665Z",
       "birthtime": "2018-10-06T06:13:43.428Z"
@@ -2697,7 +2697,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cf294ceee07e3024eb0dfd2f2453d464",
+        "contentDigest": "7a17476e9a03c801f15b22e6eb063b23",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/projects/2017-10-26/index.md\"",
@@ -2707,11 +2707,11 @@
       "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
       "relativePath": "2017-10-26/index.md",
       "extension": "md",
-      "size": 833,
-      "prettySize": "833 B",
-      "modifiedTime": "2018-10-06T07:02:00.734Z",
-      "accessTime": "2018-10-06T07:02:01.152Z",
-      "changeTime": "2018-10-06T07:02:00.734Z",
+      "size": 834,
+      "prettySize": "834 B",
+      "modifiedTime": "2018-10-06T07:04:47.466Z",
+      "accessTime": "2018-10-06T07:04:47.466Z",
+      "changeTime": "2018-10-06T07:04:47.466Z",
       "birthTime": "2018-10-06T07:02:00.734Z",
       "root": "/",
       "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
@@ -2728,13 +2728,13 @@
       "blksize": 4096,
       "ino": 8621589007,
       "blocks": 8,
-      "atimeMs": 1538809321151.9211,
-      "mtimeMs": 1538809320734.3447,
-      "ctimeMs": 1538809320734.3447,
+      "atimeMs": 1538809487465.884,
+      "mtimeMs": 1538809487466.2312,
+      "ctimeMs": 1538809487466.2312,
       "birthtimeMs": 1538809320734.078,
-      "atime": "2018-10-06T07:02:01.152Z",
-      "mtime": "2018-10-06T07:02:00.734Z",
-      "ctime": "2018-10-06T07:02:00.734Z",
+      "atime": "2018-10-06T07:04:47.466Z",
+      "mtime": "2018-10-06T07:04:47.466Z",
+      "ctime": "2018-10-06T07:04:47.466Z",
       "birthtime": "2018-10-06T07:02:00.734Z"
     },
     "2408300f-3a7d-598e-836a-7e30c22f3c27": {
@@ -2784,34 +2784,6 @@
       "ctime": "2018-10-06T07:03:04.119Z",
       "birthtime": "2018-10-06T07:02:00.708Z"
     },
-    "0d815e3b-9127-5240-bd9f-288f86bd243e": {
-      "id": "0d815e3b-9127-5240-bd9f-288f86bd243e",
-      "children": [],
-      "parent": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
-      "internal": {
-        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "type": "MarkdownRemark",
-        "contentDigest": "3a5379e7f381503baad16607831a14f4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "CubeRound - Make Cubes round!",
-        "client": "CubeRound",
-        "cover": "./cubeRound.jpg",
-        "date": "2017-10-26",
-        "service": "Website",
-        "_PARENT": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/cube-round-make-cubes-round"
-      }
-    },
     "46c56b53-9a1a-5a92-85ba-df6af99b44a7": {
       "id": "46c56b53-9a1a-5a92-85ba-df6af99b44a7",
       "children": [],
@@ -2838,6 +2810,34 @@
       "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/index.md",
       "fields": {
         "slug": "/scheduling"
+      }
+    },
+    "0d815e3b-9127-5240-bd9f-288f86bd243e": {
+      "id": "0d815e3b-9127-5240-bd9f-288f86bd243e",
+      "children": [],
+      "parent": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
+      "internal": {
+        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "type": "MarkdownRemark",
+        "contentDigest": "5420d8f1dcf0821d199a436a3baa7837",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./cubeRound.jpg",
+        "date": "2017-10-26",
+        "service": "Talk to your coach or mentor!",
+        "_PARENT": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/chat-with-us"
       }
     },
     "SitePage /leko-arts-your-theme-creator": {
@@ -2884,28 +2884,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /cube-round-make-cubes-round": {
-      "jsonName": "cube-round-make-cubes-round-434",
-      "internalComponentName": "ComponentCubeRoundMakeCubesRound",
-      "path": "/cube-round-make-cubes-round",
-      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/cube-round-make-cubes-round"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
-      "id": "SitePage /cube-round-make-cubes-round",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "689758c180d152c89998321c645f6ba2",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /scheduling": {
       "jsonName": "scheduling-fdb",
       "internalComponentName": "ComponentScheduling",
@@ -2924,6 +2902,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "fe384662c8b144aff36eba0ea75294bc",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /chat-with-us": {
+      "jsonName": "chat-with-us-5a0",
+      "internalComponentName": "ComponentChatWithUs",
+      "path": "/chat-with-us",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/chat-with-us"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /chat-with-us",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "19237c3cbbba24601f6b227116412558",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3053,11 +3053,13 @@
       ],
       "8fc38e94-45e9-5d09-b9d1-4765948e0f00": [
         "/",
-        "/cube-round-make-cubes-round"
+        "/cube-round-make-cubes-round",
+        "/chat-with-us"
       ],
       "ca8259ae-e2f9-5215-a971-8e7bd83afa43": [
         "/",
-        "/cube-round-make-cubes-round"
+        "/cube-round-make-cubes-round",
+        "/chat-with-us"
       ],
       "67e421b0-3016-54d7-bc52-cf37fffd7eb2": [
         "/",
@@ -3076,7 +3078,8 @@
         "/smart-triangle-make-triangles-smart"
       ],
       "0d815e3b-9127-5240-bd9f-288f86bd243e": [
-        "/cube-round-make-cubes-round"
+        "/cube-round-make-cubes-round",
+        "/chat-with-us"
       ],
       "46c56b53-9a1a-5a92-85ba-df6af99b44a7": [
         "/blob-sphere-make-spheres-blob",
@@ -3098,10 +3101,11 @@
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "288/path---index-6a9-vqfIYOCaauMSLoXv7yVqa33OHb0",
+    "index": "248/path---index-6a9-iKqc0DaevH73bAPCXuM8fM78gP0",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "cube-round-make-cubes-round-434": "652/path---cube-round-make-cubes-round-434-d98-j9LdVE7SZ7JVTzEeiH0vd0cdFs",
-    "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM"
+    "cube-round-make-cubes-round-434": "696/path---cube-round-make-cubes-round-434-d98-OqUSszYByJJLj6JDfZfF7Mp8sq0",
+    "blob-sphere-make-spheres-blob-825": "830/path---blob-sphere-make-spheres-blob-825-517-XbQWjCkOZa27gHq2Wv64i9zM",
+    "chat-with-us-5a0": "835/path---chat-with-us-5-a-0-949-WKdJNmjQdcVfV17P1MGJmGBCdXo"
   },
   "components": {
     "/Users/TonyFaieta/team-8/src/templates/project.jsx": {

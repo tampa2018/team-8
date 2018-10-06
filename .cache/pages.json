@@ -20,14 +20,14 @@
         "path": "/about/"
     },
     {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "chat-with-us-5a0",
+        "path": "/chat-with-us"
+    },
+    {
         "componentChunkName": "component---src-pages-contact-jsx",
         "jsonName": "contact-26a",
         "path": "/contact/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "cube-round-make-cubes-round-434",
-        "path": "/cube-round-make-cubes-round"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

@@ -1,9 +1,9 @@
 ---
-client: "CubeRound"
-title: "CubeRound - Make Cubes round!"
+client: "Chat"
+title: "Chat with us!"
 cover: "./cubeRound.jpg"
 date: "2017-10-26"
-service: "Website"
+service: "Talk to your coach or mentor!"
 ---
 # Description
 
