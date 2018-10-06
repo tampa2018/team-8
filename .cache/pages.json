@@ -20,6 +20,11 @@
         "path": "/App/"
     },
     {
+        "componentChunkName": "component---src-pages-log-in-js",
+        "jsonName": "log-in-313",
+        "path": "/LogIn/"
+    },
+    {
         "componentChunkName": "component---src-pages-about-jsx",
         "jsonName": "about-f34",
         "path": "/about/"

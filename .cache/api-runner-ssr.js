@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-emotion/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-emotion/gatsby-ssr'),
       options: {"plugins":[],"autoLabel":true,"labelFormat":"[filename]--[local]"},
     },{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-12345689-1"},
     },{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography.jsx"},
     },{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Catalyst Miami","short_name":"Catalyst Miami Code For Good","description":"Web App Code For Good","start_url":"/","background_color":"#2b2e3c","theme_color":"#3498DB","display":"standalone","icon":"src/favicon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
