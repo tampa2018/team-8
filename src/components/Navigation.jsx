@@ -94,6 +94,14 @@ const Navigation = () => (
       >
         About
       </Link>
+<Link
+to="/App"
+activeClassName={css`
+${active};
+`}
+>
+Sign Up
+</Link>
       <Link
         to="/contact"
         activeClassName={css`
