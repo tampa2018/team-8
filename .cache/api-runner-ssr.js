@@ -15,7 +15,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Emma","short_name":"Emma - Gatsby Starter Portfolio","description":"Minimalistic bright portfolio with full-width grid and large images","start_url":"/","background_color":"#2b2e3c","theme_color":"#3498DB","display":"standalone","icon":"src/favicon.png"},
+      options: {"plugins":[],"name":"Catalyst Miami","short_name":"Catalyst Miami Code For Good","description":"Web App Code For Good","start_url":"/","background_color":"#2b2e3c","theme_color":"#3498DB","display":"standalone","icon":"src/favicon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

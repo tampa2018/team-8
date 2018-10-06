@@ -1,9 +1,9 @@
 ---
-client: "BlobSphere"
-title: "BlobSphere - Make Spheres blob!"
+client: "Scheduling"
+title: "Scheduling"
 cover: "./blobSphere.jpg"
 date: "2017-10-25"
-service: "App Design"
+service: "Schedule your next session!"
 ---
 # Description
 

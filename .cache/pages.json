@@ -20,11 +20,6 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "blob-sphere-make-spheres-blob-825",
-        "path": "/blob-sphere-make-spheres-blob"
-    },
-    {
         "componentChunkName": "component---src-pages-contact-jsx",
         "jsonName": "contact-26a",
         "path": "/contact/"
@@ -43,6 +38,11 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "leko-arts-your-theme-creator-75e",
         "path": "/leko-arts-your-theme-creator"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "scheduling-fdb",
+        "path": "/scheduling"
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
