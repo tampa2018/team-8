@@ -1,11 +1,11 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
   siteTitle: 'Catalyst Miami', // Navigation and Site Title
-  siteTitleAlt: 'Emma - Gatsby Starter Portfolio', // Alternative Site title for SEO
+  siteTitleAlt: 'Catalyst Miami Code For Good', // Alternative Site title for SEO
   siteUrl: 'https://portfolio-emma.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
-  siteDescription: 'Minimalistic bright portfolio with full-width grid and large images',
+  siteDescription: 'Web App Code For Good',
   author: 'LekoArts', // Author for schemaORGJSONLD
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@emma', // Twitter Username
