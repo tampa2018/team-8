@@ -1,15 +1,15 @@
-body {
+.SignInBody {
   font-family: 'Open Sans', sans-serif;
   background-color: #fff;
 }
 
-header {
+.SignInHeader {
   color: #fff;
   background-color: #103D5D;
   padding: 33px 0 25px 15px;
 }
 
-header h1 {
+.SignInHeader h1 {
   font-size: 25px;
   font-weight: 600;
   letter-spacing: 0.3px;

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './style/App.css';
 import firebase from './firebase.js';
 
 class App extends Component {
@@ -76,10 +76,9 @@ class App extends Component {
   render() {
     return (
       <div className='app'>
-        <header>
+        <header className="SignInHeader">
             <div className="wrapper">
               <h1>Catalyst Miami Sign Up</h1>
-
             </div>
         </header>
         <div className='container'>
