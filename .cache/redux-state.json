@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js",
+      "component": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js",
+      "componentPath": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cffa5adc77bf31cec1a1b24eabc61d1b",
+        "contentDigest": "d5a59e647a8fabbd820d65f8ba968092",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "89eae2c0b7220755271d073379cf2493",
+        "contentDigest": "4c05b9a3574b1d8f9998c1dec380a182",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin load-babel-config": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "Plugin load-babel-config",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "57be89fa118c767cfe37ddfa80fc87d5",
+        "contentDigest": "f3426047ea5c18c992f79380614a11cd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "71dc710a09adcec38899eb4611c0aec6",
+        "contentDigest": "565253036aae8105c6563354ac3f789b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9a997a6b4e0593b03a24ecc279dbc291",
+        "contentDigest": "8fad7d782bc30c7b07140f867840059f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,13 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b986a6826bf5a94e7068fc721b8c807d",
+        "contentDigest": "9ff631f0874acf928b02abb20ff57ead",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.0",
@@ -209,7 +209,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -272,13 +272,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "89cffce8a750c878ac9afbfb37ad605d",
+        "contentDigest": "c913a21901dd669a3950c22709d9f8fb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-emotion": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-emotion",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-emotion",
       "id": "Plugin gatsby-plugin-emotion",
       "name": "gatsby-plugin-emotion",
       "version": "2.0.5",
@@ -296,7 +296,7 @@
       "ssrAPIs": [
         "replaceRenderer"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-emotion",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-emotion",
       "packageJson": {
         "name": "gatsby-plugin-emotion",
         "description": "Gatsby plugin to add support for Emotion",
@@ -352,20 +352,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "235fca6c8898661ee68b3ecef1483fd6",
+        "contentDigest": "a5ae908adc8adc571cd60e5920706b56",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "2.0.2",
       "pluginOptions": {
         "plugins": [],
         "name": "projects",
-        "path": "/Users/stephen/Development/Projects/team-8/content/projects"
+        "path": "/Users/TonyFaieta/team-8/content/projects"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -373,7 +373,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -463,20 +463,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c53be3b40ec6963ca81a9144bf08e091",
+        "contentDigest": "5628e5d06397680a2a69e5c0b923b57a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "2.1.6",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "2.0.3",
@@ -494,10 +494,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
             "id": "Plugin gatsby-remark-external-links",
             "name": "gatsby-remark-external-links",
             "version": "0.0.4",
@@ -509,10 +509,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links"
           },
           {
-            "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
             "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
             "version": "2.0.5",
@@ -523,7 +523,7 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe"
           }
         ]
       },
@@ -533,7 +533,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -653,13 +653,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d3db60a780300cb09fb00f18af757b02",
+        "contentDigest": "341f9906f5260d31264eee9805369fdc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "2.0.3",
@@ -677,7 +677,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -756,13 +756,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8be2c6ef8ffd61b9592642a0e6488ea2",
+        "contentDigest": "8537e2724e4b9640c70861719519c656",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-external-links": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
       "id": "Plugin gatsby-remark-external-links",
       "name": "gatsby-remark-external-links",
       "version": "0.0.4",
@@ -774,7 +774,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-external-links",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-external-links",
       "packageJson": {
         "name": "gatsby-remark-external-links",
         "description": "Automatically adds the target and rel attributes to external links in markdown.",
@@ -837,13 +837,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "31ae8882c177357819bcdfeb86006dad",
+        "contentDigest": "4448f266c434db07e04a9a954653975f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
       "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
       "version": "2.0.5",
@@ -854,7 +854,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -926,13 +926,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3e27356aaf4fbab6ca3a6817753b5060",
+        "contentDigest": "9d2645819b6178c2708e041840b7a9dc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "2.0.6",
@@ -947,7 +947,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -995,13 +995,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8bf73b5f2850f7c7060f5c60385a15cc",
+        "contentDigest": "ceee3303803cd80e4c176c2411c20e75",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-nprogress": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-nprogress",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-nprogress",
       "id": "Plugin gatsby-plugin-nprogress",
       "name": "gatsby-plugin-nprogress",
       "version": "2.0.5",
@@ -1016,7 +1016,7 @@
         "onRouteUpdate"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-nprogress",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-nprogress",
       "packageJson": {
         "name": "gatsby-plugin-nprogress",
         "description": "Shows page loading indicator when loading page resources is delayed",
@@ -1067,13 +1067,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e87e2d46ce325998f740fdc1c998ba10",
+        "contentDigest": "17a4aa5906eac03d08312fc9fa828ec9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.6",
@@ -1083,7 +1083,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -1188,13 +1188,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "805023c8e5b6c857ea422b7c490635a6",
+        "contentDigest": "6635b0fb855492d2b6d32b9cddc29370",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-sharp": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.3",
@@ -1208,7 +1208,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -1280,13 +1280,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "37236e64426965fb3050621614b6f1c5",
+        "contentDigest": "d6fa20afd3c26d3a2fe3747219f9ed99",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-lodash": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-lodash",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-lodash",
       "id": "Plugin gatsby-plugin-lodash",
       "name": "gatsby-plugin-lodash",
       "version": "3.0.1",
@@ -1299,7 +1299,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-lodash",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-lodash",
       "packageJson": {
         "name": "gatsby-plugin-lodash",
         "description": "Easy modular Lodash builds. Adds the Lodash webpack & Babel plugins to your Gatsby build",
@@ -1354,13 +1354,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c87992947b7b08d8fd4f5fcf1029fad7",
+        "contentDigest": "7fb378981fd05194a2ef898938ea5335",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-typography": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-typography",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-typography",
       "id": "Plugin gatsby-plugin-typography",
       "name": "gatsby-plugin-typography",
       "version": "2.2.0",
@@ -1375,7 +1375,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
@@ -1432,13 +1432,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "53aea188be25547fc482fe39cd0a8fec",
+        "contentDigest": "7d43eb8e6d37f40c0257f5a5c58e898d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-catch-links",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "2.0.4",
@@ -1450,7 +1450,7 @@
         "onClientEntry"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -1501,13 +1501,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7e41957f2faade2d209f116552ae1d95",
+        "contentDigest": "1b512b6d20e4e88b396cadf57e6913ef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sitemap": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sitemap",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sitemap",
       "id": "Plugin gatsby-plugin-sitemap",
       "name": "gatsby-plugin-sitemap",
       "version": "2.0.1",
@@ -1521,7 +1521,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-sitemap",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-sitemap",
       "packageJson": {
         "name": "gatsby-plugin-sitemap",
         "description": "Gatsby plugin that automatically creates a sitemap for your site",
@@ -1571,13 +1571,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5f5469b2b8eb5f88235a5a60ca225099",
+        "contentDigest": "61456aaf40c1b2064a5631ab12c00edf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.4",
@@ -1599,7 +1599,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -1659,13 +1659,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a0151e9735fb2811a69995b250968f3b",
+        "contentDigest": "5531125eadfce759ddee0a7df598e27c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "2.0.5",
@@ -1682,7 +1682,7 @@
         "onServiceWorkerActive"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1744,13 +1744,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0d38d9cb83084e22e653cabe7f8e23f3",
+        "contentDigest": "f52f08be085716f66703986da113bf36",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-netlify": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-netlify",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-netlify",
       "id": "Plugin gatsby-plugin-netlify",
       "name": "gatsby-plugin-netlify",
       "version": "2.0.1",
@@ -1763,7 +1763,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-netlify",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-netlify",
       "packageJson": {
         "name": "gatsby-plugin-netlify",
         "description": "A Gatsby plugin which generates a _headers file for netlify",
@@ -1828,13 +1828,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b70796fb2b345a5e96f0b18a1834189",
+        "contentDigest": "c11f322fb3b58008c74998c2bb83bad0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/stephen/Development/Projects/team-8",
+      "resolve": "/Users/TonyFaieta/team-8",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "479df3477ef70d499bbc8395949d3d35",
@@ -1848,7 +1848,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8",
+      "pluginFilepath": "/Users/TonyFaieta/team-8",
       "packageJson": {
         "name": "gatsby-starter-portfolio-emma",
         "description": "Gatsby Starter Portfolio Emma",
@@ -2054,19 +2054,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ba553783464b37d3ef437399e51eb8a9",
+        "contentDigest": "1ef8e60d3373177aa7cd83341750ee7b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/stephen/Development/Projects/team-8/src/pages",
+        "path": "/Users/TonyFaieta/team-8/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -2074,7 +2074,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/stephen/Development/Projects/team-8/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/TonyFaieta/team-8/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -2149,7 +2149,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f3ac68d424032596bf3ab7cea5de28b3",
+        "contentDigest": "95e259c3dd0fa1dccec616179e4fed76",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2162,38 +2162,38 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-06T12:48:57.036Z",
+      "buildTime": "2018-10-06T12:59:18.729Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a16e995f67e7a728d1d409b6f49d0777",
+        "contentDigest": "e9549e4c0701486e339e0f0eb0f1743c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "a735b130-f076-5642-a63a-0b91a92b964c": {
-      "id": "a735b130-f076-5642-a63a-0b91a92b964c",
+    "b747b850-876c-5510-bfe5-61dbd46de330": {
+      "id": "b747b850-876c-5510-bfe5-61dbd46de330",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d489f91413a6947524ccf9bcbaf75b3",
+        "contentDigest": "75ead7acb3408498a51c7532595f9a71",
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects",
       "relativePath": "",
       "extension": "",
-      "size": 238,
-      "prettySize": "238 B",
-      "modifiedTime": "2018-10-06T12:28:11.000Z",
-      "accessTime": "2018-10-06T12:49:01.000Z",
-      "changeTime": "2018-10-06T12:28:11.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-10-06T07:24:22.497Z",
+      "accessTime": "2018-10-06T12:59:38.792Z",
+      "changeTime": "2018-10-06T07:24:22.497Z",
+      "birthTime": "2018-10-06T06:13:43.360Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content",
+      "dir": "/Users/TonyFaieta/team-8/content",
       "base": "projects",
       "ext": "",
       "name": "projects",
@@ -2205,39 +2205,39 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990644,
+      "ino": 8621495353,
       "blocks": 0,
-      "atimeMs": 1538830141000,
-      "mtimeMs": 1538828891000,
-      "ctimeMs": 1538828891000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:49:01.000Z",
-      "mtime": "2018-10-06T12:28:11.000Z",
-      "ctime": "2018-10-06T12:28:11.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830778792.1555,
+      "mtimeMs": 1538810662496.6956,
+      "ctimeMs": 1538810662496.6956,
+      "birthtimeMs": 1538806423359.5754,
+      "atime": "2018-10-06T12:59:38.792Z",
+      "mtime": "2018-10-06T07:24:22.497Z",
+      "ctime": "2018-10-06T07:24:22.497Z",
+      "birthtime": "2018-10-06T06:13:43.360Z"
     },
-    "946515c8-8ca8-589e-be06-7bb5a8b76d2c": {
-      "id": "946515c8-8ca8-589e-be06-7bb5a8b76d2c",
+    "b5d0ee09-81f0-5b7d-b746-91728c1a62c6": {
+      "id": "b5d0ee09-81f0-5b7d-b746-91728c1a62c6",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c90b031f2435fbf1c6fd50b4bb5653fa",
+        "contentDigest": "63af0e9245c830f721ba06127d7cff0e",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
       "relativePath": "2017-10-25",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T12:48:51.000Z",
-      "accessTime": "2018-10-06T12:49:01.000Z",
-      "changeTime": "2018-10-06T12:48:51.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T12:54:02.997Z",
+      "accessTime": "2018-10-06T12:59:38.796Z",
+      "changeTime": "2018-10-06T12:54:02.997Z",
+      "birthTime": "2018-10-06T07:24:22.199Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-25",
       "ext": "",
       "name": "2017-10-25",
@@ -2249,39 +2249,39 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990645,
+      "ino": 8621592667,
       "blocks": 0,
-      "atimeMs": 1538830141000,
-      "mtimeMs": 1538830131000,
-      "ctimeMs": 1538830131000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:49:01.000Z",
-      "mtime": "2018-10-06T12:48:51.000Z",
-      "ctime": "2018-10-06T12:48:51.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830778795.8193,
+      "mtimeMs": 1538830442997.213,
+      "ctimeMs": 1538830442997.213,
+      "birthtimeMs": 1538810662198.5452,
+      "atime": "2018-10-06T12:59:38.796Z",
+      "mtime": "2018-10-06T12:54:02.997Z",
+      "ctime": "2018-10-06T12:54:02.997Z",
+      "birthtime": "2018-10-06T07:24:22.199Z"
     },
-    "fa12689f-90bd-57ef-be32-48dbc7e20280": {
-      "id": "fa12689f-90bd-57ef-be32-48dbc7e20280",
+    "50c3a8ce-ded0-5dbf-b974-344c9918b004": {
+      "id": "50c3a8ce-ded0-5dbf-b974-344c9918b004",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "54b94e4cc185adce452d9177a9723de0",
+        "contentDigest": "8ad8727d411edcb58304d2f877568c28",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "relativePath": "2017-10-26",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T12:49:01.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T07:24:22.314Z",
+      "accessTime": "2018-10-06T12:59:38.796Z",
+      "changeTime": "2018-10-06T07:24:22.314Z",
+      "birthTime": "2018-10-06T07:24:22.254Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-26",
       "ext": "",
       "name": "2017-10-26",
@@ -2293,39 +2293,39 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990648,
+      "ino": 8621592670,
       "blocks": 0,
-      "atimeMs": 1538830141000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:49:01.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830778795.728,
+      "mtimeMs": 1538810662314.2285,
+      "ctimeMs": 1538810662314.2285,
+      "birthtimeMs": 1538810662253.658,
+      "atime": "2018-10-06T12:59:38.796Z",
+      "mtime": "2018-10-06T07:24:22.314Z",
+      "ctime": "2018-10-06T07:24:22.314Z",
+      "birthtime": "2018-10-06T07:24:22.254Z"
     },
-    "4dc936bf-24f7-5165-b256-a9dd7fb8da6f": {
-      "id": "4dc936bf-24f7-5165-b256-a9dd7fb8da6f",
+    "628b0e43-9404-5ec3-9343-547722dc3b48": {
+      "id": "628b0e43-9404-5ec3-9343-547722dc3b48",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1769803dd0a5eaef95963a255dfe8238",
+        "contentDigest": "c1706c6d30a9eaf515de3b2888489e3d",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
       "relativePath": "2017-10-27",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T12:49:01.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T07:24:22.399Z",
+      "accessTime": "2018-10-06T12:59:38.796Z",
+      "changeTime": "2018-10-06T07:24:22.399Z",
+      "birthTime": "2018-10-06T07:24:22.357Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-27",
       "ext": "",
       "name": "2017-10-27",
@@ -2337,39 +2337,39 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990651,
+      "ino": 8621592673,
       "blocks": 0,
-      "atimeMs": 1538830141000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:49:01.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830778795.7605,
+      "mtimeMs": 1538810662399.3474,
+      "ctimeMs": 1538810662399.3474,
+      "birthtimeMs": 1538810662356.9534,
+      "atime": "2018-10-06T12:59:38.796Z",
+      "mtime": "2018-10-06T07:24:22.399Z",
+      "ctime": "2018-10-06T07:24:22.399Z",
+      "birthtime": "2018-10-06T07:24:22.357Z"
     },
-    "cb12fcdf-82f3-5427-b7f3-b833b0d1e2e5": {
-      "id": "cb12fcdf-82f3-5427-b7f3-b833b0d1e2e5",
+    "61ca337a-32f2-5327-973b-dfeed7dc61cd": {
+      "id": "61ca337a-32f2-5327-973b-dfeed7dc61cd",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a776ae72f3c9b29895d8c1a030fc28ab",
+        "contentDigest": "9a69e8139e808a5ef61995e3ab298ed7",
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
       "relativePath": "2017-10-28",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T12:49:01.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-10-06T07:24:22.540Z",
+      "accessTime": "2018-10-06T12:59:38.796Z",
+      "changeTime": "2018-10-06T07:24:22.540Z",
+      "birthTime": "2018-10-06T07:24:22.497Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
+      "dir": "/Users/TonyFaieta/team-8/content/projects",
       "base": "2017-10-28",
       "ext": "",
       "name": "2017-10-28",
@@ -2381,21 +2381,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990654,
+      "ino": 8621592676,
       "blocks": 0,
-      "atimeMs": 1538830141000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:49:01.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830778795.7896,
+      "mtimeMs": 1538810662539.5308,
+      "ctimeMs": 1538810662539.5308,
+      "birthtimeMs": 1538810662496.6758,
+      "atime": "2018-10-06T12:59:38.796Z",
+      "mtime": "2018-10-06T07:24:22.540Z",
+      "ctime": "2018-10-06T07:24:22.540Z",
+      "birthtime": "2018-10-06T07:24:22.497Z"
     },
-    "753a9e13-122d-5a79-9843-1613936c8bc3": {
-      "id": "753a9e13-122d-5a79-9843-1613936c8bc3",
+    "2408300f-3a7d-598e-836a-7e30c22f3c27": {
+      "id": "2408300f-3a7d-598e-836a-7e30c22f3c27",
       "children": [
-        "5da8479f-5ecd-50e1-8893-d640868a4eff"
+        "46c56b53-9a1a-5a92-85ba-df6af99b44a7"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2406,17 +2406,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/index.md",
       "relativePath": "2017-10-25/index.md",
       "extension": "md",
       "size": 829,
       "prettySize": "829 B",
-      "modifiedTime": "2018-10-06T12:48:42.000Z",
-      "accessTime": "2018-10-06T12:48:42.000Z",
-      "changeTime": "2018-10-06T12:48:42.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "modifiedTime": "2018-10-06T12:54:02.997Z",
+      "accessTime": "2018-10-06T12:54:03.988Z",
+      "changeTime": "2018-10-06T12:54:02.997Z",
+      "birthTime": "2018-10-06T12:54:02.997Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2428,68 +2428,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 10065988,
+      "ino": 8621813227,
       "blocks": 8,
-      "atimeMs": 1538830122000,
-      "mtimeMs": 1538830122000,
-      "ctimeMs": 1538830122000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T12:48:42.000Z",
-      "mtime": "2018-10-06T12:48:42.000Z",
-      "ctime": "2018-10-06T12:48:42.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830443988.3484,
+      "mtimeMs": 1538830442997.4749,
+      "ctimeMs": 1538830442997.4749,
+      "birthtimeMs": 1538830442997.1997,
+      "atime": "2018-10-06T12:54:03.988Z",
+      "mtime": "2018-10-06T12:54:02.997Z",
+      "ctime": "2018-10-06T12:54:02.997Z",
+      "birthtime": "2018-10-06T12:54:02.997Z"
     },
-    "de621f8d-3ef0-5d6c-9699-30ef3029455f": {
-      "id": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
+    "4de42e4d-8d0d-5910-901e-b36f91d5c3f0": {
+      "id": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
       "children": [
-        "7eae1b6d-97a0-5353-a18e-20f48a39b82a"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c184a9008c773690c8eb86b43fc9d031",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/projects/2017-10-28/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
-      "relativePath": "2017-10-28/index.md",
-      "extension": "md",
-      "size": 582,
-      "prettySize": "582 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-28",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990655,
-      "blocks": 8,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "fe77565f-3757-5dfe-ab2f-206dfb3391f6": {
-      "id": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
-      "children": [
-        "c10a0c4d-bfad-526d-a1bf-12af974bf58a"
+        "0d815e3b-9127-5240-bd9f-288f86bd243e"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2500,17 +2453,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
       "relativePath": "2017-10-26/index.md",
       "extension": "md",
       "size": 834,
       "prettySize": "834 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "modifiedTime": "2018-10-06T07:24:22.316Z",
+      "accessTime": "2018-10-06T12:36:55.716Z",
+      "changeTime": "2018-10-06T07:24:22.316Z",
+      "birthTime": "2018-10-06T07:24:22.314Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2522,21 +2475,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990650,
+      "ino": 8621592672,
       "blocks": 8,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538829415716.391,
+      "mtimeMs": 1538810662315.5847,
+      "ctimeMs": 1538810662315.5847,
+      "birthtimeMs": 1538810662314.2134,
+      "atime": "2018-10-06T12:36:55.716Z",
+      "mtime": "2018-10-06T07:24:22.316Z",
+      "ctime": "2018-10-06T07:24:22.316Z",
+      "birthtime": "2018-10-06T07:24:22.314Z"
     },
-    "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6": {
-      "id": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
+    "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15": {
+      "id": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15",
       "children": [
-        "0d2f6978-549e-5361-91dc-ac264bd9598d"
+        "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2547,17 +2500,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/index.md",
       "relativePath": "2017-10-27/index.md",
       "extension": "md",
       "size": 829,
       "prettySize": "829 B",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "modifiedTime": "2018-10-06T07:24:22.358Z",
+      "accessTime": "2018-10-06T12:36:55.716Z",
+      "changeTime": "2018-10-06T07:24:22.358Z",
+      "birthTime": "2018-10-06T07:24:22.357Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2569,46 +2522,46 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990652,
+      "ino": 8621592674,
       "blocks": 8,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538829415716.401,
+      "mtimeMs": 1538810662358.4602,
+      "ctimeMs": 1538810662358.4602,
+      "birthtimeMs": 1538810662357.1055,
+      "atime": "2018-10-06T12:36:55.716Z",
+      "mtime": "2018-10-06T07:24:22.358Z",
+      "ctime": "2018-10-06T07:24:22.358Z",
+      "birthtime": "2018-10-06T07:24:22.357Z"
     },
-    "4c6a47fe-c7ee-564a-8779-fc67995e0e2b": {
-      "id": "4c6a47fe-c7ee-564a-8779-fc67995e0e2b",
+    "63669045-437b-5fce-a3d7-a55885968356": {
+      "id": "63669045-437b-5fce-a3d7-a55885968356",
       "children": [
-        "767cb9a5-cc48-54ea-9006-36479356aa12"
+        "4c843aad-75d1-58c3-ac81-f1445a23a426"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "contentDigest": "c184a9008c773690c8eb86b43fc9d031",
         "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-25/blobSphere.jpg\"",
+        "mediaType": "text/markdown",
+        "description": "File \"content/projects/2017-10-28/index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/blobSphere.jpg",
-      "relativePath": "2017-10-25/blobSphere.jpg",
-      "extension": "jpg",
-      "size": 209762,
-      "prettySize": "210 kB",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 582,
+      "prettySize": "582 B",
+      "modifiedTime": "2018-10-06T07:24:22.498Z",
+      "accessTime": "2018-10-06T12:36:55.716Z",
+      "changeTime": "2018-10-06T07:24:22.498Z",
+      "birthTime": "2018-10-06T07:24:22.497Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
-      "base": "blobSphere.jpg",
-      "ext": ".jpg",
-      "name": "blobSphere",
-      "relativeDirectory": "2017-10-25",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-28",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -2616,31 +2569,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990646,
-      "blocks": 416,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "ino": 8621592677,
+      "blocks": 8,
+      "atimeMs": 1538829415716.4153,
+      "mtimeMs": 1538810662497.7222,
+      "ctimeMs": 1538810662497.7222,
+      "birthtimeMs": 1538810662496.821,
+      "atime": "2018-10-06T12:36:55.716Z",
+      "mtime": "2018-10-06T07:24:22.498Z",
+      "ctime": "2018-10-06T07:24:22.498Z",
+      "birthtime": "2018-10-06T07:24:22.497Z"
     },
-    "767cb9a5-cc48-54ea-9006-36479356aa12": {
-      "id": "767cb9a5-cc48-54ea-9006-36479356aa12",
-      "children": [],
-      "parent": "4c6a47fe-c7ee-564a-8779-fc67995e0e2b",
-      "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "8e3b8a36-8915-599e-9c1a-9858fa7cf5dc": {
-      "id": "8e3b8a36-8915-599e-9c1a-9858fa7cf5dc",
+    "8fc38e94-45e9-5d09-b9d1-4765948e0f00": {
+      "id": "8fc38e94-45e9-5d09-b9d1-4765948e0f00",
       "children": [
-        "893c58a4-6736-59df-bdfc-42c2e3e835e4"
+        "ca8259ae-e2f9-5215-a971-8e7bd83afa43"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2651,17 +2594,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/cubeRound.jpg",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/cubeRound.jpg",
       "relativePath": "2017-10-26/cubeRound.jpg",
       "extension": "jpg",
       "size": 292267,
       "prettySize": "292 kB",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
+      "modifiedTime": "2018-10-06T07:24:22.258Z",
+      "accessTime": "2018-10-06T12:54:11.491Z",
+      "changeTime": "2018-10-06T07:24:22.258Z",
+      "birthTime": "2018-10-06T07:24:22.254Z",
       "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-26",
       "base": "cubeRound.jpg",
       "ext": ".jpg",
       "name": "cubeRound",
@@ -2673,233 +2616,25 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 9990649,
+      "ino": 8621592671,
       "blocks": 576,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
+      "atimeMs": 1538830451490.7332,
+      "mtimeMs": 1538810662258.4497,
+      "ctimeMs": 1538810662258.4497,
+      "birthtimeMs": 1538810662253.798,
+      "atime": "2018-10-06T12:54:11.491Z",
+      "mtime": "2018-10-06T07:24:22.258Z",
+      "ctime": "2018-10-06T07:24:22.258Z",
+      "birthtime": "2018-10-06T07:24:22.254Z"
     },
-    "7eae1b6d-97a0-5353-a18e-20f48a39b82a": {
-      "id": "7eae1b6d-97a0-5353-a18e-20f48a39b82a",
+    "46c56b53-9a1a-5a92-85ba-df6af99b44a7": {
+      "id": "46c56b53-9a1a-5a92-85ba-df6af99b44a7",
       "children": [],
-      "parent": "de621f8d-3ef0-5d6c-9699-30ef3029455f",
-      "internal": {
-        "content": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
-        "type": "MarkdownRemark",
-        "contentDigest": "0317a0c45082d9641c20e14c776a0ad3",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Progress",
-        "client": "Progress",
-        "cover": "./lekoarts.jpg",
-        "date": "2017-10-28",
-        "service": "See your progress!",
-        "_PARENT": "de621f8d-3ef0-5d6c-9699-30ef3029455f"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/index.md",
-      "fields": {
-        "slug": "/progress"
-      }
-    },
-    "c10a0c4d-bfad-526d-a1bf-12af974bf58a": {
-      "id": "c10a0c4d-bfad-526d-a1bf-12af974bf58a",
-      "children": [],
-      "parent": "fe77565f-3757-5dfe-ab2f-206dfb3391f6",
-      "internal": {
-        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "type": "MarkdownRemark",
-        "contentDigest": "21d9e683fbde962bdc7615258ba4683c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Chat with us!",
-        "client": "Chat",
-        "cover": "./cubeRound.jpg",
-        "date": "2017-10-26",
-        "service": "Talk to your coach or mentor!",
-        "_PARENT": "fe77565f-3757-5dfe-ab2f-206dfb3391f6"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/chat-with-us"
-      }
-    },
-    "0d2f6978-549e-5361-91dc-ac264bd9598d": {
-      "id": "0d2f6978-549e-5361-91dc-ac264bd9598d",
-      "children": [],
-      "parent": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
-      "internal": {
-        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "type": "MarkdownRemark",
-        "contentDigest": "c6539a4a2a5dfdc46c29ae4c8b910e7d",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Calendar",
-        "client": "Calendar",
-        "cover": "./smartTriangle.jpg",
-        "date": "2017-10-27",
-        "service": "Check out our events!",
-        "_PARENT": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/index.md",
-      "fields": {
-        "slug": "/calendar"
-      }
-    },
-    "893c58a4-6736-59df-bdfc-42c2e3e835e4": {
-      "id": "893c58a4-6736-59df-bdfc-42c2e3e835e4",
-      "children": [],
-      "parent": "8e3b8a36-8915-599e-9c1a-9858fa7cf5dc",
-      "internal": {
-        "contentDigest": "224143b7440585785b0d46827cc65219",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "c194354d-2515-524e-8e4a-be84e7f6a59f": {
-      "id": "c194354d-2515-524e-8e4a-be84e7f6a59f",
-      "children": [
-        "9d750198-15aa-5ba2-af89-1526690c4e56"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-27/smartTriangle.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27/smartTriangle.jpg",
-      "relativePath": "2017-10-27/smartTriangle.jpg",
-      "extension": "jpg",
-      "size": 404825,
-      "prettySize": "405 kB",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
-      "base": "smartTriangle.jpg",
-      "ext": ".jpg",
-      "name": "smartTriangle",
-      "relativeDirectory": "2017-10-27",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990653,
-      "blocks": 792,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "9d750198-15aa-5ba2-af89-1526690c4e56": {
-      "id": "9d750198-15aa-5ba2-af89-1526690c4e56",
-      "children": [],
-      "parent": "c194354d-2515-524e-8e4a-be84e7f6a59f",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "e95d6185-c444-5def-9926-8c91687b2d73": {
-      "id": "e95d6185-c444-5def-9926-8c91687b2d73",
-      "children": [
-        "8d23f9c3-3114-5737-8445-0e3835524612"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/projects/2017-10-28/lekoarts.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28/lekoarts.jpg",
-      "relativePath": "2017-10-28/lekoarts.jpg",
-      "extension": "jpg",
-      "size": 472968,
-      "prettySize": "473 kB",
-      "modifiedTime": "2018-10-06T07:39:56.000Z",
-      "accessTime": "2018-10-06T08:49:42.000Z",
-      "changeTime": "2018-10-06T07:39:56.000Z",
-      "birthTime": "2018-10-06T07:39:56.000Z",
-      "root": "/",
-      "dir": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
-      "base": "lekoarts.jpg",
-      "ext": ".jpg",
-      "name": "lekoarts",
-      "relativeDirectory": "2017-10-28",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 9990656,
-      "blocks": 928,
-      "atimeMs": 1538815782000,
-      "mtimeMs": 1538811596000,
-      "ctimeMs": 1538811596000,
-      "birthtimeMs": 1538811596000,
-      "atime": "2018-10-06T08:49:42.000Z",
-      "mtime": "2018-10-06T07:39:56.000Z",
-      "ctime": "2018-10-06T07:39:56.000Z",
-      "birthtime": "2018-10-06T07:39:56.000Z"
-    },
-    "8d23f9c3-3114-5737-8445-0e3835524612": {
-      "id": "8d23f9c3-3114-5737-8445-0e3835524612",
-      "children": [],
-      "parent": "e95d6185-c444-5def-9926-8c91687b2d73",
-      "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "5da8479f-5ecd-50e1-8893-d640868a4eff": {
-      "id": "5da8479f-5ecd-50e1-8893-d640868a4eff",
-      "children": [],
-      "parent": "753a9e13-122d-5a79-9843-1613936c8bc3",
+      "parent": "2408300f-3a7d-598e-836a-7e30c22f3c27",
       "internal": {
         "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "eb59411dc1b132e4ea6645919a78254e",
+        "contentDigest": "01627a82b669735d988c9cfd9dece82d",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2911,33 +2646,298 @@
         "cover": "./blobSphere.jpg",
         "date": "2017-10-25",
         "service": "Schedule your next session!",
-        "_PARENT": "753a9e13-122d-5a79-9843-1613936c8bc3"
+        "_PARENT": "2408300f-3a7d-598e-836a-7e30c22f3c27"
       },
       "excerpt": "",
       "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.\n",
-      "fileAbsolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25/index.md",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/index.md",
       "fields": {
         "slug": "/appt"
       }
     },
-    "SitePage /progress": {
-      "jsonName": "progress-4aa",
-      "internalComponentName": "ComponentProgress",
-      "path": "/progress",
-      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+    "0d815e3b-9127-5240-bd9f-288f86bd243e": {
+      "id": "0d815e3b-9127-5240-bd9f-288f86bd243e",
+      "children": [],
+      "parent": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0",
+      "internal": {
+        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "type": "MarkdownRemark",
+        "contentDigest": "5420d8f1dcf0821d199a436a3baa7837",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Chat with us!",
+        "client": "Chat",
+        "cover": "./cubeRound.jpg",
+        "date": "2017-10-26",
+        "service": "Talk to your coach or mentor!",
+        "_PARENT": "4de42e4d-8d0d-5910-901e-b36f91d5c3f0"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/chat-with-us"
+      }
+    },
+    "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": {
+      "id": "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c",
+      "children": [],
+      "parent": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15",
+      "internal": {
+        "content": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "type": "MarkdownRemark",
+        "contentDigest": "970b71e6dd7304bab8c06966fb651d28",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Calendar",
+        "client": "Calendar",
+        "cover": "./smartTriangle.jpg",
+        "date": "2017-10-27",
+        "service": "Check out our events!",
+        "_PARENT": "14cb4d39-bd4b-5f32-bd0a-d7d6ab943e15"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/calendar"
+      }
+    },
+    "4c843aad-75d1-58c3-ac81-f1445a23a426": {
+      "id": "4c843aad-75d1-58c3-ac81-f1445a23a426",
+      "children": [],
+      "parent": "63669045-437b-5fce-a3d7-a55885968356",
+      "internal": {
+        "content": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
+        "type": "MarkdownRemark",
+        "contentDigest": "31889021ba6dcc141a6e43343882d6b6",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Progress",
+        "client": "Progress",
+        "cover": "./lekoarts.jpg",
+        "date": "2017-10-28",
+        "service": "See your progress!",
+        "_PARENT": "63669045-437b-5fce-a3d7-a55885968356"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Description\n\nHi!\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\n\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\n\n![](./lekoarts.jpg)",
+      "fileAbsolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/progress"
+      }
+    },
+    "ca8259ae-e2f9-5215-a971-8e7bd83afa43": {
+      "id": "ca8259ae-e2f9-5215-a971-8e7bd83afa43",
+      "children": [],
+      "parent": "8fc38e94-45e9-5d09-b9d1-4765948e0f00",
+      "internal": {
+        "contentDigest": "224143b7440585785b0d46827cc65219",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "89288723-d616-56ac-802b-3e1f420d9e85": {
+      "id": "89288723-d616-56ac-802b-3e1f420d9e85",
+      "children": [
+        "79550403-fb51-5018-89de-5f4ce78f6098"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-27/smartTriangle.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-27/smartTriangle.jpg",
+      "relativePath": "2017-10-27/smartTriangle.jpg",
+      "extension": "jpg",
+      "size": 404825,
+      "prettySize": "405 kB",
+      "modifiedTime": "2018-10-06T07:24:22.405Z",
+      "accessTime": "2018-10-06T12:54:11.491Z",
+      "changeTime": "2018-10-06T07:24:22.405Z",
+      "birthTime": "2018-10-06T07:24:22.399Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-27",
+      "base": "smartTriangle.jpg",
+      "ext": ".jpg",
+      "name": "smartTriangle",
+      "relativeDirectory": "2017-10-27",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621592675,
+      "blocks": 792,
+      "atimeMs": 1538830451490.7542,
+      "mtimeMs": 1538810662404.773,
+      "ctimeMs": 1538810662404.773,
+      "birthtimeMs": 1538810662399.3274,
+      "atime": "2018-10-06T12:54:11.491Z",
+      "mtime": "2018-10-06T07:24:22.405Z",
+      "ctime": "2018-10-06T07:24:22.405Z",
+      "birthtime": "2018-10-06T07:24:22.399Z"
+    },
+    "67e421b0-3016-54d7-bc52-cf37fffd7eb2": {
+      "id": "67e421b0-3016-54d7-bc52-cf37fffd7eb2",
+      "children": [
+        "8f721d7a-f17d-5a4f-89d6-45fe771a1114"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-25/blobSphere.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-25/blobSphere.jpg",
+      "relativePath": "2017-10-25/blobSphere.jpg",
+      "extension": "jpg",
+      "size": 209762,
+      "prettySize": "210 kB",
+      "modifiedTime": "2018-10-06T07:24:22.202Z",
+      "accessTime": "2018-10-06T12:54:11.491Z",
+      "changeTime": "2018-10-06T07:24:22.202Z",
+      "birthTime": "2018-10-06T07:24:22.199Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-25",
+      "base": "blobSphere.jpg",
+      "ext": ".jpg",
+      "name": "blobSphere",
+      "relativeDirectory": "2017-10-25",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621592668,
+      "blocks": 416,
+      "atimeMs": 1538830451490.7173,
+      "mtimeMs": 1538810662202.3652,
+      "ctimeMs": 1538810662202.3652,
+      "birthtimeMs": 1538810662198.7466,
+      "atime": "2018-10-06T12:54:11.491Z",
+      "mtime": "2018-10-06T07:24:22.202Z",
+      "ctime": "2018-10-06T07:24:22.202Z",
+      "birthtime": "2018-10-06T07:24:22.199Z"
+    },
+    "79550403-fb51-5018-89de-5f4ce78f6098": {
+      "id": "79550403-fb51-5018-89de-5f4ce78f6098",
+      "children": [],
+      "parent": "89288723-d616-56ac-802b-3e1f420d9e85",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8f721d7a-f17d-5a4f-89d6-45fe771a1114": {
+      "id": "8f721d7a-f17d-5a4f-89d6-45fe771a1114",
+      "children": [],
+      "parent": "67e421b0-3016-54d7-bc52-cf37fffd7eb2",
+      "internal": {
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "4f8c5da8-2e31-5533-80b8-cb1fc517536e": {
+      "id": "4f8c5da8-2e31-5533-80b8-cb1fc517536e",
+      "children": [
+        "fa75032e-27b6-5e68-9fba-387eab2b80f0"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/projects/2017-10-28/lekoarts.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "/Users/TonyFaieta/team-8/content/projects/2017-10-28/lekoarts.jpg",
+      "relativePath": "2017-10-28/lekoarts.jpg",
+      "extension": "jpg",
+      "size": 472968,
+      "prettySize": "473 kB",
+      "modifiedTime": "2018-10-06T07:24:22.545Z",
+      "accessTime": "2018-10-06T12:54:11.491Z",
+      "changeTime": "2018-10-06T07:24:22.545Z",
+      "birthTime": "2018-10-06T07:24:22.540Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/team-8/content/projects/2017-10-28",
+      "base": "lekoarts.jpg",
+      "ext": ".jpg",
+      "name": "lekoarts",
+      "relativeDirectory": "2017-10-28",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8621592678,
+      "blocks": 928,
+      "atimeMs": 1538830451490.7683,
+      "mtimeMs": 1538810662545.28,
+      "ctimeMs": 1538810662545.28,
+      "birthtimeMs": 1538810662539.5142,
+      "atime": "2018-10-06T12:54:11.491Z",
+      "mtime": "2018-10-06T07:24:22.545Z",
+      "ctime": "2018-10-06T07:24:22.545Z",
+      "birthtime": "2018-10-06T07:24:22.540Z"
+    },
+    "fa75032e-27b6-5e68-9fba-387eab2b80f0": {
+      "id": "fa75032e-27b6-5e68-9fba-387eab2b80f0",
+      "children": [],
+      "parent": "4f8c5da8-2e31-5533-80b8-cb1fc517536e",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /appt": {
+      "jsonName": "appt-c40",
+      "internalComponentName": "ComponentAppt",
+      "path": "/appt",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/progress"
+        "slug": "/appt"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "id": "SitePage /progress",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /appt",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e2ec4052f67a7b876d4fc02cc5c4b488",
+        "contentDigest": "7a7d89855ef7b38b335a10c2104ab204",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2946,20 +2946,20 @@
       "jsonName": "chat-with-us-5a0",
       "internalComponentName": "ComponentChatWithUs",
       "path": "/chat-with-us",
-      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
         "slug": "/chat-with-us"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "id": "SitePage /chat-with-us",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "efb5fb85d51dc2d3a3e3dfceca73ece2",
+        "contentDigest": "19237c3cbbba24601f6b227116412558",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2968,42 +2968,42 @@
       "jsonName": "calendar-5fa",
       "internalComponentName": "ComponentCalendar",
       "path": "/calendar",
-      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
         "slug": "/calendar"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "id": "SitePage /calendar",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a6381fbfc40568fc75fcf9cac89ad1a0",
+        "contentDigest": "e52001b9499a9ffca8217ba515a4efba",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /appt": {
-      "jsonName": "appt-c40",
-      "internalComponentName": "ComponentAppt",
-      "path": "/appt",
-      "component": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
+    "SitePage /progress": {
+      "jsonName": "progress-4aa",
+      "internalComponentName": "ComponentProgress",
+      "path": "/progress",
+      "component": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
       "componentChunkName": "component---src-templates-project-jsx",
       "context": {
-        "slug": "/appt"
+        "slug": "/progress"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx",
-      "id": "SitePage /appt",
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx",
+      "id": "SitePage /progress",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f68761c3aa94bf2995ca0c44f06e709d",
+        "contentDigest": "7a4a3e35eca06a441d844f157282090d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3012,18 +3012,18 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d51460b7d07130ec8391ba68fbaf2fb4",
+        "contentDigest": "42214afe51af3f430680c3da6275c66f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3032,18 +3032,18 @@
       "jsonName": "app-946",
       "internalComponentName": "ComponentApp",
       "path": "/App/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/App.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/App.js",
       "componentChunkName": "component---src-pages-app-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/App.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/App.js",
       "id": "SitePage /App/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ed1cfef70dc40cd3443b719ba7df1403",
+        "contentDigest": "1aea23d2fa5b30b988fbb778cc4f3af5",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3052,18 +3052,18 @@
       "jsonName": "appt-7f1",
       "internalComponentName": "ComponentAppt",
       "path": "/Appt/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/Appt.js",
       "componentChunkName": "component---src-pages-appt-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/Appt.js",
       "id": "SitePage /Appt/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25fe9166d24c4ce5a26faae0cc1ecc52",
+        "contentDigest": "d923de0dd151e3f1ef5cb0a6db9e2133",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3072,18 +3072,18 @@
       "jsonName": "contact-26a",
       "internalComponentName": "ComponentContact",
       "path": "/contact/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/contact.jsx",
       "componentChunkName": "component---src-pages-contact-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/contact.jsx",
       "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b1d5355a83c4fd3d8524915b7567263c",
+        "contentDigest": "41bc61e6515a954315d8f4119fe5ed46",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3092,18 +3092,18 @@
       "jsonName": "dash-717",
       "internalComponentName": "ComponentDash",
       "path": "/dash/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/dash.jsx",
       "componentChunkName": "component---src-pages-dash-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/dash.jsx",
       "id": "SitePage /dash/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d70ce703178d27959fc9061afcc3c4d9",
+        "contentDigest": "c7ddc0b44b7a268929566eab1f1d2037",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3112,18 +3112,18 @@
       "jsonName": "firebase-535",
       "internalComponentName": "ComponentFirebase",
       "path": "/firebase/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/firebase.js",
       "componentChunkName": "component---src-pages-firebase-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/firebase.js",
       "id": "SitePage /firebase/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc77b4690c6317ff2089ddc68c942f53",
+        "contentDigest": "a02aff42067bef7f159f24f4772f820b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3132,18 +3132,18 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "364ff10dac07f089682bfd7abb75fa0f",
+        "contentDigest": "6c858810a77ec596d63419e19f16bd36",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3152,18 +3152,18 @@
       "jsonName": "log-in-313",
       "internalComponentName": "ComponentLogIn",
       "path": "/LogIn/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js",
+      "component": "/Users/TonyFaieta/team-8/src/pages/LogIn.js",
       "componentChunkName": "component---src-pages-log-in-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/LogIn.js",
       "id": "SitePage /LogIn/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c4f48c22dbed887c5c2c1b4f004f5a7b",
+        "contentDigest": "d1cf637f9bada07e0e35f8c2089b501b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3172,39 +3172,19 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "component": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ee5f8940287aac869799b09bda5b472",
+        "contentDigest": "c68f2d66d45e0bec846f23eb3a86bf2f",
         "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /appt/": {
-      "jsonName": "appt-5cd",
-      "internalComponentName": "ComponentAppt",
-      "path": "/appt/",
-      "component": "/Users/stephen/Development/Projects/team-8/src/pages/appt.js",
-      "componentChunkName": "component---src-pages-appt-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/appt.js",
-      "id": "SitePage /appt/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1cd910cd37d31c1dc05b8d6e8f9e706c",
-        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     }
@@ -3217,75 +3197,96 @@
     "nodes": {
       "e95d6185-c444-5def-9926-8c91687b2d73": [
         "/",
-        "/progress",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "8d23f9c3-3114-5737-8445-0e3835524612": [
         "/",
-        "/progress",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "c194354d-2515-524e-8e4a-be84e7f6a59f": [
         "/",
-        "/calendar",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "9d750198-15aa-5ba2-af89-1526690c4e56": [
         "/",
-        "/calendar",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "8e3b8a36-8915-599e-9c1a-9858fa7cf5dc": [
         "/",
-        "/chat-with-us",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "893c58a4-6736-59df-bdfc-42c2e3e835e4": [
         "/",
-        "/chat-with-us",
-        "/i/",
-        "/dash/"
+        "/i/"
       ],
       "4c6a47fe-c7ee-564a-8779-fc67995e0e2b": [
         "/",
         "/scheduling",
         "/i/",
-        "/dash/",
         "/schedule",
         "/appt-sched",
-        "/appointment",
-        "/appt"
+        "/appointment"
       ],
       "767cb9a5-cc48-54ea-9006-36479356aa12": [
         "/",
         "/scheduling",
         "/i/",
-        "/dash/",
         "/schedule",
         "/appt-sched",
-        "/appointment",
-        "/appt"
+        "/appointment"
       ],
       "5da8479f-5ecd-50e1-8893-d640868a4eff": [
         "/scheduling",
         "/schedule",
         "/appt-sched",
-        "/appointment",
-        "/appt"
+        "/appointment"
       ],
-      "7eae1b6d-97a0-5353-a18e-20f48a39b82a": [
+      "7eae1b6d-97a0-5353-a18e-20f48a39b82a": [],
+      "c10a0c4d-bfad-526d-a1bf-12af974bf58a": [],
+      "0d2f6978-549e-5361-91dc-ac264bd9598d": [],
+      "4f8c5da8-2e31-5533-80b8-cb1fc517536e": [
+        "/dash/",
         "/progress"
       ],
-      "c10a0c4d-bfad-526d-a1bf-12af974bf58a": [
+      "fa75032e-27b6-5e68-9fba-387eab2b80f0": [
+        "/dash/",
+        "/progress"
+      ],
+      "89288723-d616-56ac-802b-3e1f420d9e85": [
+        "/dash/",
+        "/calendar"
+      ],
+      "79550403-fb51-5018-89de-5f4ce78f6098": [
+        "/dash/",
+        "/calendar"
+      ],
+      "8fc38e94-45e9-5d09-b9d1-4765948e0f00": [
+        "/dash/",
         "/chat-with-us"
       ],
-      "0d2f6978-549e-5361-91dc-ac264bd9598d": [
+      "ca8259ae-e2f9-5215-a971-8e7bd83afa43": [
+        "/dash/",
+        "/chat-with-us"
+      ],
+      "67e421b0-3016-54d7-bc52-cf37fffd7eb2": [
+        "/dash/",
+        "/appt"
+      ],
+      "8f721d7a-f17d-5a4f-89d6-45fe771a1114": [
+        "/dash/",
+        "/appt"
+      ],
+      "46c56b53-9a1a-5a92-85ba-df6af99b44a7": [
+        "/appt"
+      ],
+      "0d815e3b-9127-5240-bd9f-288f86bd243e": [
+        "/chat-with-us"
+      ],
+      "6d27dcea-68d1-5947-8fa0-ac4c04f9d50c": [
         "/calendar"
+      ],
+      "4c843aad-75d1-58c3-ac81-f1445a23a426": [
+        "/progress"
       ]
     },
     "connections": {
@@ -3324,49 +3325,45 @@
     "appt-5cd": "458/path---appt-5-cd-d13-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx": {
+    "/Users/TonyFaieta/team-8/src/templates/project.jsx": {
       "query": "query ProjectPostBySlug(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    excerpt\n    frontmatter {\n      title\n      date(formatString: \"DD.MM.YYYY\")\n      client\n      service\n      cover {\n        childImageSharp {\n          resize(width: 800) {\n            src\n          }\n        }\n      }\n    }\n    fields {\n      slug\n    }\n  }\n}\n",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/templates/project.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/templates/project.jsx"
     },
-    "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js": {
+    "/Users/TonyFaieta/team-8/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/.cache/dev-404-page.js"
+      "componentPath": "/Users/TonyFaieta/team-8/.cache/dev-404-page.js"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/404.jsx": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/404.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/404.jsx"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/App.js": {
+    "/Users/TonyFaieta/team-8/src/pages/App.js": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/App.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/App.js"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/Appt.js": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/contact.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/Appt.js"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js": {
+    "/Users/TonyFaieta/team-8/src/pages/contact.jsx": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/firebase.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/contact.jsx"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js": {
-      "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/LogIn.js"
-    },
-    "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx": {
-      "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/index.jsx"
-    },
-    "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx": {
+    "/Users/TonyFaieta/team-8/src/pages/dash.jsx": {
       "query": "query IndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          service\n          client\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 850, quality: 90, traceSVG: {color: \"#f3f3f3\"}) {\n                ...GatsbyImageSharpFluid_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/dash.jsx"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/dash.jsx"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/Appt.js": {
+    "/Users/TonyFaieta/team-8/src/pages/firebase.js": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/Appt.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/firebase.js"
     },
-    "/Users/stephen/Development/Projects/team-8/src/pages/appt.js": {
+    "/Users/TonyFaieta/team-8/src/pages/index.jsx": {
       "query": "",
-      "componentPath": "/Users/stephen/Development/Projects/team-8/src/pages/appt.js"
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/index.jsx"
+    },
+    "/Users/TonyFaieta/team-8/src/pages/LogIn.js": {
+      "query": "",
+      "componentPath": "/Users/TonyFaieta/team-8/src/pages/LogIn.js"
     }
   },
   "staticQueryComponents": {}

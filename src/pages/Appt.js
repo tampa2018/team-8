@@ -1,13 +1,7 @@
 import React, { Component } from 'react';
 import './style/App.css';
-import firebase from './firebase.js';
 
-class Appt extends Component {
-    constructor() {
-        super();
-        
-    }
-    
+class Appt extends Component {    
     render() {
         return (
                 

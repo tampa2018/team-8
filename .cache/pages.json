@@ -35,11 +35,6 @@
         "path": "/appt"
     },
     {
-        "componentChunkName": "component---src-pages-appt-js",
-        "jsonName": "appt-5cd",
-        "path": "/appt/"
-    },
-    {
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "calendar-5fa",
         "path": "/calendar"
