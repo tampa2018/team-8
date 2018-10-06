@@ -30,9 +30,9 @@
         "path": "/LogIn/"
     },
     {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "appt-c40",
-        "path": "/appt"
+        "componentChunkName": "component---src-pages-about-jsx",
+        "jsonName": "about-f34",
+        "path": "/about/"
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
@@ -68,5 +68,10 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "progress-4aa",
         "path": "/progress"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "scheduling-fdb",
+        "path": "/scheduling"
     }
 ]
