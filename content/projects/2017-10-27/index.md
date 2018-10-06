@@ -1,9 +1,9 @@
 ---
-client: "SmartTriangle"
-title: "SmartTriangle - Make Triangles smart!"
+client: "Calendar"
+title: "Calendar"
 cover: "./smartTriangle.jpg"
 date: "2017-10-27"
-service: "Art Direction"
+service: "Check out our events!"
 ---
 # Description
 

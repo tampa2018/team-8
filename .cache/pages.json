@@ -21,6 +21,11 @@
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
+        "jsonName": "calendar-5fa",
+        "path": "/calendar"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "chat-with-us-5a0",
         "path": "/chat-with-us"
     },
@@ -43,10 +48,5 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "jsonName": "scheduling-fdb",
         "path": "/scheduling"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "jsonName": "smart-triangle-make-triangles-smart-cb8",
-        "path": "/smart-triangle-make-triangles-smart"
     }
 ]
