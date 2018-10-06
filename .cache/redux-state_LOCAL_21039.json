@@ -2162,20 +2162,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-<<<<<<< HEAD
       "buildTime": "2018-10-06T08:49:37.084Z",
-=======
-      "buildTime": "2018-10-06T08:43:16.602Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
         "contentDigest": "ac696800218b2978327c583124746cc6",
-=======
-        "contentDigest": "74e5b07d4085ed776da520d0ccd0ff40",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2185,11 +2177,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-<<<<<<< HEAD
         "contentDigest": "6e9844c419f3bef64ada4bf9c0a708e6",
-=======
-        "contentDigest": "1929426d34b5be5d69d32efe8f3bf5e6",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Directory",
         "description": "Directory \"content/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -2198,21 +2186,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects",
       "relativePath": "",
       "extension": "",
-<<<<<<< HEAD
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
       "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-10-06T07:24:22.497Z",
-      "accessTime": "2018-10-06T08:43:38.192Z",
-      "changeTime": "2018-10-06T07:24:22.497Z",
-      "birthTime": "2018-10-06T06:13:43.360Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content",
       "base": "projects",
@@ -2228,7 +2207,6 @@
       "blksize": 4096,
       "ino": 9990644,
       "blocks": 0,
-<<<<<<< HEAD
       "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
@@ -2244,23 +2222,6 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "3449d5bf19c0b6b092da33b3a327676b",
-=======
-      "atimeMs": 1538815418192.15,
-      "mtimeMs": 1538810662496.6956,
-      "ctimeMs": 1538810662496.6956,
-      "birthtimeMs": 1538806423359.5754,
-      "atime": "2018-10-06T08:43:38.192Z",
-      "mtime": "2018-10-06T07:24:22.497Z",
-      "ctime": "2018-10-06T07:24:22.497Z",
-      "birthtime": "2018-10-06T06:13:43.360Z"
-    },
-    "b5d0ee09-81f0-5b7d-b746-91728c1a62c6": {
-      "id": "b5d0ee09-81f0-5b7d-b746-91728c1a62c6",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "39e30c633dfd69fcfb386de77ab50ce1",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-25\"",
         "owner": "gatsby-source-filesystem"
@@ -2269,21 +2230,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-25",
       "relativePath": "2017-10-25",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
       "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.227Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.227Z",
-      "birthTime": "2018-10-06T07:24:22.199Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-25",
@@ -2299,7 +2251,6 @@
       "blksize": 4096,
       "ino": 9990645,
       "blocks": 0,
-<<<<<<< HEAD
       "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
@@ -2315,23 +2266,6 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "127ee640dc97925999f73710141b00f8",
-=======
-      "atimeMs": 1538815418195.885,
-      "mtimeMs": 1538810662227.316,
-      "ctimeMs": 1538810662227.316,
-      "birthtimeMs": 1538810662198.5452,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.227Z",
-      "ctime": "2018-10-06T07:24:22.227Z",
-      "birthtime": "2018-10-06T07:24:22.199Z"
-    },
-    "50c3a8ce-ded0-5dbf-b974-344c9918b004": {
-      "id": "50c3a8ce-ded0-5dbf-b974-344c9918b004",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9d9e7ebeb567a81f19192c88d4339d76",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-27\"",
         "owner": "gatsby-source-filesystem"
@@ -2340,21 +2274,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-27",
       "relativePath": "2017-10-27",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
       "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.314Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.314Z",
-      "birthTime": "2018-10-06T07:24:22.254Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-27",
@@ -2370,7 +2295,6 @@
       "blksize": 4096,
       "ino": 9990651,
       "blocks": 0,
-<<<<<<< HEAD
       "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
@@ -2386,23 +2310,6 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "f8980d320dd46eceec74480ee9913faa",
-=======
-      "atimeMs": 1538815418195.9482,
-      "mtimeMs": 1538810662314.2285,
-      "ctimeMs": 1538810662314.2285,
-      "birthtimeMs": 1538810662253.658,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.314Z",
-      "ctime": "2018-10-06T07:24:22.314Z",
-      "birthtime": "2018-10-06T07:24:22.254Z"
-    },
-    "628b0e43-9404-5ec3-9343-547722dc3b48": {
-      "id": "628b0e43-9404-5ec3-9343-547722dc3b48",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cf14709d25d92d8354dde6743f3a42f8",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-26\"",
         "owner": "gatsby-source-filesystem"
@@ -2411,21 +2318,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-26",
       "relativePath": "2017-10-26",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
       "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.399Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.399Z",
-      "birthTime": "2018-10-06T07:24:22.357Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-26",
@@ -2441,7 +2339,6 @@
       "blksize": 4096,
       "ino": 9990648,
       "blocks": 0,
-<<<<<<< HEAD
       "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
@@ -2457,23 +2354,6 @@
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "427b0afbdca142184bf5467389c53e8a",
-=======
-      "atimeMs": 1538815418195.9155,
-      "mtimeMs": 1538810662399.3474,
-      "ctimeMs": 1538810662399.3474,
-      "birthtimeMs": 1538810662356.9534,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.399Z",
-      "ctime": "2018-10-06T07:24:22.399Z",
-      "birthtime": "2018-10-06T07:24:22.357Z"
-    },
-    "61ca337a-32f2-5327-973b-dfeed7dc61cd": {
-      "id": "61ca337a-32f2-5327-973b-dfeed7dc61cd",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d37dc85e1305e907b2bbc89914140b1a",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
         "type": "Directory",
         "description": "Directory \"content/projects/2017-10-28\"",
         "owner": "gatsby-source-filesystem"
@@ -2482,21 +2362,12 @@
       "absolutePath": "/Users/stephen/Development/Projects/team-8/content/projects/2017-10-28",
       "relativePath": "2017-10-28",
       "extension": "",
-<<<<<<< HEAD
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-10-06T07:39:56.000Z",
       "accessTime": "2018-10-06T08:49:42.000Z",
       "changeTime": "2018-10-06T07:39:56.000Z",
       "birthTime": "2018-10-06T07:39:56.000Z",
-=======
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-10-06T07:24:22.540Z",
-      "accessTime": "2018-10-06T08:43:38.196Z",
-      "changeTime": "2018-10-06T07:24:22.540Z",
-      "birthTime": "2018-10-06T07:24:22.497Z",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "root": "/",
       "dir": "/Users/stephen/Development/Projects/team-8/content/projects",
       "base": "2017-10-28",
@@ -2512,7 +2383,6 @@
       "blksize": 4096,
       "ino": 9990654,
       "blocks": 0,
-<<<<<<< HEAD
       "atimeMs": 1538815782000,
       "mtimeMs": 1538811596000,
       "ctimeMs": 1538811596000,
@@ -2524,19 +2394,6 @@
     },
     "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6": {
       "id": "ddec3ff4-e8ac-5dbe-8997-a6eed93a5eb6",
-=======
-      "atimeMs": 1538815418195.9746,
-      "mtimeMs": 1538810662539.5308,
-      "ctimeMs": 1538810662539.5308,
-      "birthtimeMs": 1538810662496.6758,
-      "atime": "2018-10-06T08:43:38.196Z",
-      "mtime": "2018-10-06T07:24:22.540Z",
-      "ctime": "2018-10-06T07:24:22.540Z",
-      "birthtime": "2018-10-06T07:24:22.497Z"
-    },
-    "2408300f-3a7d-598e-836a-7e30c22f3c27": {
-      "id": "2408300f-3a7d-598e-836a-7e30c22f3c27",
->>>>>>> 825f71d30072031b1f3d33275b80f3a4e5556e08
       "children": [
         "0d2f6978-549e-5361-91dc-ac264bd9598d"
       ],
