@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
+import app from "./firebase";
 
 import Home from "./components/home";
 import Login from "./components/signin";
